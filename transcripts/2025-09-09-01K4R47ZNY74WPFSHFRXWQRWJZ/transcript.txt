@@ -1,0 +1,860 @@
+Speaker 1: Hello. How are you?
+Speaker 2: I'm good. How are you?
+Speaker 2: I'm alright. How is your week going?
+Speaker 1: Slowly.
+Speaker 1: How do you feel?
+Speaker 1: I'm I'm feeling better. I'm just, like, exhausted today.
+Speaker 1: But, yeah, I'm definitely feeling better.
+Speaker 1: I'll probably be, like, coughing on and off, so I apologize for that.
+Speaker 2: No worries. I'm happy to hear you feel better, and I'm happy that you got sick at the first place.
+Speaker 1: It is what it is.
+Speaker 2: Okay.
+Speaker 2: How is everything going with your routines, sprint?
+Speaker 1: Yeah. It's it's just the tweak is a struggle sure, but I think things are going mostly well.
+Speaker 1: I'm just kind of hoping that over the next, like, day or two, I I
+Speaker 1: really start to
+Speaker 1: like, feel close to a closer to a 100% Mhmm. Mhmm.
+Speaker 1: Okay. Which I think is prob I think is likely. So
+Speaker 1: but, yeah, every everything is going with it.
+Speaker 1: Think, so far with the sprint. Okay. Good.
+Speaker 2: You're ready to
+Speaker 2: get to your feedback?
+Speaker 1: Yes. Okay.
+Speaker 2: Let me quickly explain or remind how it's going to work. We're going to have two sessions for this. The session today is only for SKS review review, meaning this, like, Excel sheet with replies, going through it, discuss discussing what you agree, what you're not agree with, what you want to take for the next session. And based basically, today, the goal for today let me quickly share my screen. Is to fill in this first table on the board. This is, like, bugs and features board in general. It has two boards. Today, by talking about different
+Speaker 2: themes from your feedback, we will start filling this table with possible bugs, features, and gaps. And then the session next week will be about turning this into, like,
+Speaker 2: real bugs and features and gaps. Like, maybe refine a little bit, maybe define what exact are you going to work on moving forward. Which is the second table about more about action steps. So it doesn't mean that everything you put in the table, you need to work on.
+Speaker 2: Right now or you need to take an action on. That will be a second iteration, like, what of it you're able to take into work. Today in this sprint, in the next sprint, and so on.
+Speaker 2: So that will be the approach.
+Speaker 2: I believe you are familiar with all the concepts related to terminology, like like bugs, features, gaps,
+Speaker 1: Right? I think so. I I I always have a bit of a difficult time with this type of thing because,
+Speaker 1: I often find that a lot of my bugs can be features, and a lot of my features can be bugs.
+Speaker 1: So,
+Speaker 1: and I think that even, like, played out in some of the feedback
+Speaker 1: at least one or two people actually, like, noted things like that.
+Speaker 1: But, yeah, I'm familiar. I so I'm familiar with the concept and I kinda I
+Speaker 1: yeah.
+Speaker 1: I'm I'm familiar with the concepts. Just leave it at that.
+Speaker 2: You're fine, Mary. You're fine. I I see what you're saying about turning, bugs into features, and so on, but can be a different perspective. Thinking that this terminology was pulled from the development process. You think of, for example, h s app and there is a new feature there, for example,
+Speaker 2: road map as a new feature. And there is bug in there,
+Speaker 2: When we fix the bug,
+Speaker 2: it means we let the feature function properly.
+Speaker 2: Right?
+Speaker 2: But it doesn't necessarily mean that it's gonna create new feature. To this feature.
+Speaker 2: Yeah. That makes sense. Okay. So sometimes you can look at bugs just the things to remove out of your way.
+Speaker 2: Or at least to eliminate, to decrease their impact or their influence on you so you're able to with your features on a full power.
+Speaker 2: So that can be an idea as well.
+Speaker 2: One more thing Have you ever heard of, Jahari Window?
+Speaker 2: And how does this work?
+Speaker 1: Yeah. I've definitely heard about it, but I don't remember anything about it.
+Speaker 2: Mhmm. This is just, like, a quick, psycho ad. To reinforce the feedback and why do we collect it. I know that for you, like, knowing your how how hungry you are for development, for getting better, for having more impact, I'm sure, like, you're not questioning the feedback, but just in general,
+Speaker 2: Why do we want to have feedback from other people is exactly because
+Speaker 2: you can think of every person having these four windows. That is different perspective on what we are doing on our behavior and skills and just the way we show up. These four windows are
+Speaker 2: something that we know to ourself. And hide from others and vice versa. Something that is very open and visible to other people, but we might not notice it or we might not be conscious about it. That's how, we have open area that is usually something that is visible both to you and to other people. For example,
+Speaker 2: maybe your communication, skills. Right? That's the way you express yourself, other people see that you're doing it good. You think that you have good communication skills. That is in the open area.
+Speaker 2: Then there is a hidden area
+Speaker 2: when, maybe you're good at something but you, for some reason, you decide to not demonstrate it. I don't know. Maybe you're very good in analyzing people, like,
+Speaker 3: seeing through.
+Speaker 2: But you don't see that you can use the skill or you actually afraid what people might think if you have this ability and you are great in it. So you prefer to pretend that you have no idea what it how it works, and don't bring it up to the table. Even when you see there is a chance that it can be helpful.
+Speaker 2: Then there is an unknown area
+Speaker 2: that is, not visible to other people. People. And for you, it's somewhere in the level of subconscious. When you're actually
+Speaker 2: like it's more like, unrebuilt potential area. This can be an example. Like, you might be good in it if you start work working on it, but so far, there was no possibility no circumstances, none like, your request to work on it. So it somewhere on the unknown area.
+Speaker 2: And then there are blind spots. And this is exactly when the feedback helps, comes and help
+Speaker 2: first of all, is to reveal our blind spot because it's something that can be visible to ours, but we tend to not notice for ourself, which is, like, naturally it's it's actually very difficult to be 100% self aware of everything that's happening. So the number first benefit of feedback, it's to
+Speaker 2: emphasize these blind spots so you can learn new information about your yourself.
+Speaker 2: And then the second,
+Speaker 2: more like a goal of any feedback is to try to move as much stuff as possible to open area.
+Speaker 2: So even if you reveal some kind of blood spot, like, don't put it to hidden. Because if other people notice it and especially if this is something about Star doing, that's a great way for you to start showing up
+Speaker 2: with a new behavior, with a new skill set. Like, in a new different way getting new results. So that's why we try to push everything to open.
+Speaker 2: That's, like, more or less the the theory we behind any feedback and specifically ask guest feedback.
+Speaker 2: You have any questions, thoughts of it?
+Speaker 3: Nope. Okay.
+Speaker 2: So when it comes to the feedback,
+Speaker 3: review,
+Speaker 2: I've I would be curious to ask you in this these are gonna be the questions to start with. Like, what is that that you agree with other people that most probably is open area visible to both of you? And what are the blind spots that you spotted in the feedback that you actually haven't thought about it or you maybe had some hints, but you were ignoring it and other people really pointed out.
+Speaker 1: I don't I actually don't know if there were, like, really any any blind spots, to be totally honest.
+Speaker 3: Okay.
+Speaker 1: I would say that the there was there was one thing that that's struck me as, like,
+Speaker 1: more of, like, a hidden, like, fear of mine. As opposed to, like, being a blind spot. It's, like, something that I, like,
+Speaker 1: more or less, like, try to consciously ignore
+Speaker 1: I'm I'm gonna have to find it because I don't remember. I remember who said it, but I don't remember exactly where he said it.
+Speaker 4: Let's see.
+Speaker 1: Yeah. It was it was at Harrison And Row 3. This is my mentor, by the way. I don't he it's very like him to say Barry will know who this is. I don't know why he didn't just, like, put his own name there. This one? Correct. Yeah. His name is Harrison. He was my he was the guy who introduced me to Jeremy, a mentor of mine.
+Speaker 1: Okay. He just knows me very well.
+Speaker 1: His his, third point on start doing is, like, some is probably, like, one of my,
+Speaker 1: like, biggest and most, like, subconscious, like, fears more or less.
+Speaker 1: So I but I don't I really don't think, like, I don't think anybody said something that I would consider to be, like, a blind spot. Like, I was not in I wasn't surprised at all by any of the feedback. Particularly in some cases,
+Speaker 1: where some people only see, like, maybe, like, one side of me. Or they see one side of me more than others. So yeah. So I I don't think I
+Speaker 1: I'm sure I have blind spots. I don't think any of them, like, came out in this feedback, though.
+Speaker 3: Okay.
+Speaker 2: It's fine.
+Speaker 2: I I want to stop here on this piece a feedback. What do you mean by
+Speaker 2: subconscious fear or conscious fear? How did you name it?
+Speaker 3: Yeah.
+Speaker 1: I'm I'm trying to think about, like, how to how to say this.
+Speaker 1: Okay. So there are there are two points to this piece of feedback from me.
+Speaker 1: One is exactly what Harrison is saying here.
+Speaker 1: Which is that,
+Speaker 1: he thinks that if I just had, like, a little bit more confidence in myself I could have already taken
+Speaker 1: a few more steps
+Speaker 1: forward in my career. And he knows that my goal is to be a
+Speaker 1: a cofounder.
+Speaker 1: And,
+Speaker 1: that that is, like, something that I think about, just to be clear. Like,
+Speaker 1: and I think I've talked about this with you too where it's like, you know, should I just go out and do it and learn from doing
+Speaker 1: and stop trying to what as he says,
+Speaker 1: here,
+Speaker 1: or in other words, he believes he's becoming more prepared each day, week, month, through in his own company and own his professional slash financial destiny.
+Speaker 1: That's the strategy that I've chosen.
+Speaker 1: Harrison is kind of making the argument that I should I could potentially, like, not do that, and I could just
+Speaker 1: jump into something.
+Speaker 1: And then I'm, like, more or less already ready. That is, like, a a a thing that I think about, like, quite a lot.
+Speaker 1: And the fear there comes from,
+Speaker 1: waiting too long.
+Speaker 1: And the idea of just, like, not realizing my full potential.
+Speaker 1: That's that's the fear there. So that's that's, like, one part of this
+Speaker 1: of this, of this piece of feedback.
+Speaker 1: Now and that's that's what Harrison is saying. Like, I that's how I'm interpreting, like, what he's saying. Very explicitly.
+Speaker 1: What he's not saying
+Speaker 1: but
+Speaker 1: one other way that I interpret this, and this is because of
+Speaker 1: probably who I am as as just like an individual,
+Speaker 1: is, like,
+Speaker 1: well, what what is actually, like, stopping me from going out, like, and acting on this piece of feedback and, like,
+Speaker 1: and having this, like, more drive to to go out and be a cofounder. And it makes it makes me
+Speaker 1: it makes me wonder whether, like, I'm too scared to actually, like, take this risk. Like, am I am I too scared to actually, like, ever do this thing that I wanna say that I that I that I say that I want to do?
+Speaker 1: And,
+Speaker 1: that is, like,
+Speaker 1: a question that I I more or less, like,
+Speaker 1: and I thought that I more or less try to ignore because there's
+Speaker 1: there there doesn't seem to be any positive benefit from, like, thinking about that.
+Speaker 1: In fact, it feels more like self doubt than anything.
+Speaker 1: But that is something like, when I when I read when I read through this entire spreadsheet, that was the one piece of feedback that I read, Raj. Like, that yeah. He's really hitting
+Speaker 1: like, a a
+Speaker 1: a
+Speaker 1: a spot there for sure. And he knows that.
+Speaker 1: He doesn't mean it. Like, he he he's trying to be as helpful as possible.
+Speaker 1: But that's the one out of everything here, like, that's the source that's the source spot, I think.
+Speaker 3: Mhmm. Mhmm.
+Speaker 1: That makes sense.
+Speaker 3: Yes. Of course.
+Speaker 2: We can explore this topic a little bit later. I don't want to stop too long, like, going deeper because that's not an objective today, about this risk. And the question that you brought up, like, am I too scared to actually take a risk? So I think there can be there is something that
+Speaker 2: can be helpful moving forward.
+Speaker 1: Cool. Yeah. That's totally fine. I mean, I mean,
+Speaker 2: Okay. What's draw my attention is here was also this
+Speaker 2: here it is. It's this sentence.
+Speaker 2: Okay. Hold on. When I was reading through it, I was really like,
+Speaker 2: that's very interesting point.
+Speaker 1: Yeah. I know. And this is, like,
+Speaker 1: I I don't I don't it's funny because with Harrison, I get, like, kind of both sides of the the, I get both sides of this argument from him at times. He's also been one of the people who has, like, told me that I need to develop the the stem of my t shape.
+Speaker 1: And that I need to like, I should think about going deeper.
+Speaker 1: So it was interesting for me to read this from him.
+Speaker 1: I actually I wonder if his opinion has changed recently. I don't know why it would have. I don't think it has. But yeah. So
+Speaker 1: this is definitely, like, a fear of mine.
+Speaker 1: That, like, by not
+Speaker 1: doing this today or, I guess, two years ago, as Harrison is is thinking I was capable of doing,
+Speaker 1: but I'm, like, somehow, like, wasting my potential.
+Speaker 1: Yeah.
+Speaker 1: I don't know. I I still, like, kind of disagree, but I, like, I appreciate him, like, saying this.
+Speaker 3: Yeah.
+Speaker 2: I liked one more phrase from his feedback that can be related to this topic of readiness or feeling prepared He said, like, I'm not able to find it here now. I just wrote everything for myself here.
+Speaker 2: So he said, you can
+Speaker 2: be a masterpiece and work in progress at the same time.
+Speaker 2: What does this phrase mean to you?
+Speaker 1: Yeah. I I don't know what that's that phrase, like,
+Speaker 1: this is one of those things where if, like, Harrison said that to me, like, in person, I'd be like, that doesn't make any sense at all.
+Speaker 1: Like, I He doesn't.
+Speaker 1: No. I I mean, I know what it I know what it means,
+Speaker 1: and, like, I could give you a definition of it. But when I think about myself, like, I don't
+Speaker 1: I don't ever think about, like, a masterpiece. Like, that
+Speaker 1: he he's basically he's starting with, like, a a thing
+Speaker 1: Like, the the core of his, like,
+Speaker 1: analogy there
+Speaker 1: like, totally doesn't
+Speaker 1: I I would find so many issues with that
+Speaker 1: with me personally.
+Speaker 1: But I I liked his thought of, like I think if he put it another light like, I think
+Speaker 1: if you put it another way, like, you could be, like,
+Speaker 1: level 95 with the opportunity to go to, like, level 96 but being level 95 is, like, still good.
+Speaker 1: You know? Like, you could be four stars and just aiming for five stars five stars and aiming for six stars, whatever, anyways.
+Speaker 2: Yeah. I don't know. Don't think that's what it is about.
+Speaker 1: Okay. What do you think it's about?
+Speaker 2: I think it's exactly about
+Speaker 2: having everything you need to take a step
+Speaker 2: and at the same time
+Speaker 2: doing it without figuring out the whole plan.
+Speaker 2: Like, doing it without being a 100% prepared.
+Speaker 2: And this, like, full potential or
+Speaker 2: unreleased potential that you're talking about, that's exactly the masterpiece.
+Speaker 2: Piece.
+Speaker 1: I think he would like your interpretation better.
+Speaker 2: Harry, how was it for you to hear a lot of good
+Speaker 1: stuff about yourself from this hit film? Yeah. I I actually I was disappointed.
+Speaker 1: I know. Okay. So I like I like seeing positive stuff. Like, don't get me wrong. Like and I I appreciate it But,
+Speaker 1: it's it's harder for me to, like,
+Speaker 1: when I see something, like, negative or when I see something that is, like, an actual area
+Speaker 1: like, for for improvement, particularly when it's, like, something new.
+Speaker 1: That's really interesting and valuable to me. Like, I I I that's the stuff that I, like, need and I crave because
+Speaker 1: because I'm I can be so critical of myself at times. I don't really know, like,
+Speaker 1: how it how I'm my changes are, like, affecting the people around me.
+Speaker 1: So I actually, like, I really crave, like, new, constructively negative feedback.
+Speaker 1: I was a bit disappointed in this case, to be totally honest.
+Speaker 2: Maybe you could work on existing bugs to create something new.
+Speaker 2: Some Maybe. Bugs in the future.
+Speaker 1: Yeah. Maybe. Actually, I mean, one of the points that also Harrison made, I think, is a very valid one.
+Speaker 1: Which is that it's kind of unusual for, like, everybody to like you.
+Speaker 1: And that's actually probably not a good thing. And he and I have talked about this in the past, and I I more or less agree with him, actually.
+Speaker 1: But I've kind of chosen a strategy for the past, like, year or two around developing relationships that was specifically so that nobody would dislike me.
+Speaker 1: For the most part at least.
+Speaker 1: But anyways, it it points as valid because if nobody dislikes you, then that probably means you're not quite
+Speaker 1: making enough noise or having enough of an impact.
+Speaker 1: So that was one thing that I thought was interesting. I don't know where I how I got to this point from the question that you asked me. So, yeah, it it was it's nice reading a lot of positive feedback. I kind of, like, always look at it, and I'm like, okay. Good. Like, I'm glad that people are, like, some of the the feedback, by the way, is, like, stuff that I've worked on. Like, some of the stuff that people are, like, praising me for,
+Speaker 1: is absolutely not the stuff that people would have said about me, like, three or four years ago.
+Speaker 2: For example,
+Speaker 1: Casey said something, specific
+Speaker 2: That's her feedback, the last one.
+Speaker 3: Yeah.
+Speaker 1: She said treating people with respect and patience even when have a huge gap in knowledge about something you have a lot of expertise and experience in. I would not
+Speaker 1: I was not capable of treating anyone with patients, like, three or four maybe even two years ago. I'm like,
+Speaker 1: when I wrote a user guide
+Speaker 1: two years ago, maybe three years ago,
+Speaker 1: with Harrison I put as one of the things that I wanted to work on was was patience. And I said, I'm not a patient person by nature.
+Speaker 1: Which is true.
+Speaker 1: But I've gotten a lot better, and I'm trying to get even better.
+Speaker 1: So that that for me was something that,
+Speaker 1: I really appreciated.
+Speaker 1: There were a couple others. I was just looking at hers again.
+Speaker 1: Being honest when I don't know the the answer or the next best things, that's something that I've been trying to work on is, like,
+Speaker 1: being more open when I die. I don't I have no idea.
+Speaker 1: I was I was glad to see that Max, said that I should one of the things that I've done well is,
+Speaker 1: building relationships because that's a piece of advice that he gave me
+Speaker 1: when I first started working.
+Speaker 1: For Jeremy was that I needed to focus a lot on
+Speaker 1: developing relationships.
+Speaker 1: Mhmm.
+Speaker 1: So I was I'm I'm was I'm glad to see and he was not the only one that gave me that advice. I'm I'm glad to see that that's something that he thinks I've done, like, at least an okay job of.
+Speaker 1: Yeah.
+Speaker 2: Okay.
+Speaker 2: So since you're looking into, good stuff, I
+Speaker 2: positive stuff now, let's start with creating the list of your features. Like, what, from this feedback?
+Speaker 2: Plus your self assessment you consider as
+Speaker 2: features.
+Speaker 1: The working hard
+Speaker 1: Just, I mean, fuck.
+Speaker 1: The the problem is is, like, Harrison just did such a
+Speaker 1: if if you would, like, ask me, like,
+Speaker 1: it probably would have looked a lot like what Harrison has written.
+Speaker 1: He totally wants I hate that he's really good at this. It really bothers me sometimes.
+Speaker 1: Yeah. It it probably would be, like, roughly what he what he wrote.
+Speaker 1: And then I I would maybe add, like, a couple of I don't know.
+Speaker 2: So relay reliability on loyalty. Yeah. And excellence.
+Speaker 2: Discipline,
+Speaker 2: doing hard things.
+Speaker 2: Speaking when it matters.
+Speaker 1: Yeah. And it's funny. I mean, number four is, like, something interesting. So a few people a couple people at least gave me feedback, and I gave myself a feedback of just speaking more in general.
+Speaker 1: And the funny thing there is that Harrison is, like, actually right
+Speaker 1: It is, like, an intentional strategy of mine to not speak a lot,
+Speaker 3: in
+Speaker 1: meetings or conversations. Like, I
+Speaker 1: I particularly try to only speak when I think I have something that's actually, like, valuable to contribute. And, I typically find that that is, like, the best strategy, and it works very well for me.
+Speaker 1: People end up listening to me.
+Speaker 1: For the most part because of that. Because of every time I do open my mouth, it it tends to be something decent.
+Speaker 1: However, I do think that I've, like, been a little bit too imbalanced
+Speaker 1: in the sense that,
+Speaker 1: There are times when I I probably just like him, like, disappearing more or less.
+Speaker 1: And I it's funny that it was, like, mostly Neil and Casey that pointed that out. They were they just they want me to, like, speak more and and share my opinion more.
+Speaker 1: Because in most of the instances that I work with them, I really am, like,
+Speaker 1: practicing the strategy of, like, speaking very intentionally.
+Speaker 1: Only at certain times.
+Speaker 1: I also just get a lot of value from, like, listening to other people
+Speaker 1: my initial reaction to things is typically, like,
+Speaker 1: is often not right.
+Speaker 1: Or not not very valuable. And so that's why I I tend not to be the first person to speak. I try to, like, listen to others first.
+Speaker 1: So that's the only that was the that's one area that I think is interesting
+Speaker 1: is, like, I do I do need to
+Speaker 1: make some changes to, like, how I, how I speak up.
+Speaker 1: But I don't exactly know how to find the right balance there.
+Speaker 1: I do think Harrison is right that it is a feature of mine that I speak when it matters.
+Speaker 1: And I I probably would have said that, like, maybe a little bit differently. I I speak when it matters and when I have something, like, valuable to contribute. But I probably need to still, like, make my voice heard and my presence felt, like, a little bit more frequently.
+Speaker 1: It's probably I'm probably doing myself a disservice by, like, staying quiet too often.
+Speaker 2: What do you think about feed okay. I'm not able to speak and type at this.
+Speaker 2: Not at this time of the day. What do you think of this feedback? About,
+Speaker 2: picking up when you are not agree.
+Speaker 2: I think also more than one person mentioned it in your feedback.
+Speaker 1: I I think it was probably Neil and Casey, and I I think
+Speaker 1: I'm trying to see, like, what exactly they said just so I can
+Speaker 2: definitely, Casey. Mentioned it. And, also, I think
+Speaker 2: both of these people, I'm sure two or three of them, mentioned that you already started doing it. Yeah. The account from Casey's picking up when you disagree about the direction when we are talking.
+Speaker 1: It's it's really this is a this is really tricky for me. Right? Because,
+Speaker 1: so part of the issue here is, like,
+Speaker 1: if I disagree with something,
+Speaker 1: that's one thing.
+Speaker 1: But then how I choose to voice my disagreement really matters.
+Speaker 3: Because
+Speaker 1: I am a single person's chief of staff. And if I disagree with that single person, that might not be the best thing.
+Speaker 1: And so, I have to very like, whenever I do disagree with Jeremy,
+Speaker 1: in these meetings, and
+Speaker 1: 90 something percent of my meetings are with him,
+Speaker 1: So whenever I do disagree with Jeremy,
+Speaker 1: I have to do a very quick calculation in my head
+Speaker 1: about whether
+Speaker 1: I should voice that disagreement
+Speaker 1: in that meeting
+Speaker 1: or whether I should save it or whether I should just, like, keep thinking about. Like, or whether I should just keep thinking about it. And so
+Speaker 1: I think what Neil and Casey are alluding to
+Speaker 1: is
+Speaker 1: I well, I think what they've observed rather is, like,
+Speaker 1: yes, there are absolutely times when I will I disagree with what's being said, but I just it's not the right time for me to voice that disagreement. I'm intentionally choosing not to. Partially because
+Speaker 1: there's often more value in appearing to be aligned
+Speaker 1: at that point in time than there is in, like, voicing
+Speaker 1: disagreement.
+Speaker 1: And that's that is, like, a quirk of my specific role. Like,
+Speaker 1: and it's not always that way. Like, I don't always have to be a 100% aligned with Jeremy, but
+Speaker 1: it doesn't look good when you have, like, two people who work super closely together, and they just fucking disagree all the time. Or, like, one person just, like,
+Speaker 1: constantly disagrees all the time.
+Speaker 1: That makes sense?
+Speaker 3: Yes.
+Speaker 2: This is very professional, at least the way how you just explained this to me, it sounds like you care about Jeremy, and you, as you say, calculate in advance what impact yours might have, which is very professional. At the same time, the question that I have is about
+Speaker 2: like, when we talk about different perspective, or disagreeing with something,
+Speaker 2: Does it always mean it should be against Jeremy?
+Speaker 1: No. And that's, like, that's part of the calculation. Right? But
+Speaker 1: it it might not be part that I'm, like, good at.
+Speaker 1: Because it's difficult specifically with him, it's difficult to tell sometimes when he is voicing, like, a thought or when he's voicing, like, something that he actually, like, believes and has conviction in.
+Speaker 1: And so if it's a thought, I'm more comfortable to disagree. Like, if he's trying if it's, like, an actual discussion and he's looking for
+Speaker 1: other opinions, I'm
+Speaker 1: took no problem disagreeing.
+Speaker 1: It's something that he has, like, strong conviction in,
+Speaker 1: I
+Speaker 1: I'm a little bit more hesitant to disagree in an open setting.
+Speaker 1: Partially, just, again, for the optics of it, like, it's not
+Speaker 3: it's just like
+Speaker 1: closing and it's kind of, like, my role a little bit.
+Speaker 1: And also because
+Speaker 1: it's often something that I'll
+Speaker 1: I'll take some time and I'll really think about, like, what his point is
+Speaker 1: I'll often come to the conclusion that I my initial disagreement was wrong.
+Speaker 1: Or I'll just ask him about it in private.
+Speaker 1: To try to understand it better. Mhmm. But it's
+Speaker 1: often I would be, like,
+Speaker 1: if if I were disagreeing
+Speaker 1: like, constantly in these meetings, I would be, like, derailing shit.
+Speaker 3: Because
+Speaker 1: be thinking about stuff that's, like I often think about stuff that's, like, not
+Speaker 1: not what's being it's, like, not what's being discussed.
+Speaker 1: At that moment. It might be very related. It might be in parallel. It might be like totally different
+Speaker 3: thing.
+Speaker 1: But I I just I I try not to disagree. Like, super frequently because it just it can I can
+Speaker 1: given everything that I know and where I'm spending my time, I could easily derail
+Speaker 1: 50 or more percent of the meetings that I'm in by disagreeing?
+Speaker 2: I've noticed that you used this strong wording
+Speaker 2: constantly disagree.
+Speaker 2: Yeah. In reality,
+Speaker 2: like,
+Speaker 2: just,
+Speaker 2: broadly thinking
+Speaker 2: how many times
+Speaker 2: do you really disagree
+Speaker 2: with his opinion?
+Speaker 1: Not often.
+Speaker 1: But when you think about how
+Speaker 1: like, relatively infrequently I speak,
+Speaker 1: Every time I do disagree, would be, like, one of few times that I I'm, like, speaking up in these meetings. So the impact is, like, even more.
+Speaker 1: And so that that's why I I say, like, constantly is because, like, as a percentage of the times that I do speak, like,
+Speaker 1: I can't let the disagreement be, like, disproportional to, like, anything else that I'm that I'm saying.
+Speaker 3: Okay.
+Speaker 2: I'm not trying to convince you that, like, there was you're thinking it's not
+Speaker 1: right. I'm just No. No. It's a good question. I I I've never explained that to you or probably anybody else that that's like it and that but
+Speaker 1: when I read, like,
+Speaker 1: Casey and Neil's feedback there, I totally understand what they're saying.
+Speaker 1: I think
+Speaker 1: a large percentage of, like,
+Speaker 1: of me is, like, doing the opposite of what they want me to do intentionally. Not a 100 right? I'm I cannot they're definitely right. There's, like, room for improvement there even I gave myself that feedback. But, there's a lot of it that is intentional behavior.
+Speaker 2: Okay. One last question on this topic.
+Speaker 2: What is the difference
+Speaker 2: if any,
+Speaker 2: between given a different perspective
+Speaker 2: and disagreeing.
+Speaker 1: Okay. That's interesting.
+Speaker 1: Disagreeing would be, like, more, confrontational whereas offering a different perspective could be
+Speaker 1: just simply that. Like, less confrontational and just, like, another thing something else to think about. I could probably do more of, like, trying to off a different perspective
+Speaker 1: I will say that I I personally find people who only offer not only, but who, like, like to do this
+Speaker 1: I don't know if you've ever worked with somebody who, like,
+Speaker 1: who likes to set likes to be the the differing opinion.
+Speaker 3: But
+Speaker 1: thinking I'll stick with me. No. No. It's I'm not talking about
+Speaker 1: there there are people who just like to be
+Speaker 1: is, like, a very rude way of saying this. You're not this person at all. Trust me.
+Speaker 1: There are people who like to voice differing opinions, differing perspectives because they like to be different.
+Speaker 1: That's the only reason.
+Speaker 1: It's not because it's, like, an actual thought.
+Speaker 1: Just because they like to be different.
+Speaker 1: Mhmm. And
+Speaker 1: I have worked with several of those people and there's it's like, it drives me fucking insane. They drive me crazy because they often don't anything that's actually valuable. They're just trying to say something different.
+Speaker 1: So
+Speaker 1: I'm a little bit, like, even when I hear, like,
+Speaker 1: what's the difference between
+Speaker 1: disagreeing and offering a different opinion,
+Speaker 1: or a different perspective.
+Speaker 1: I would never wanna lean too far into offering a different perspective because it's like,
+Speaker 1: there is value to disagreement, first of all, and there is, like, value, but also, like, just offering a different perspective for the sake of a different perspective is, like, one of the least valuable things that
+Speaker 1: somebody could do in my opinion.
+Speaker 1: Mhmm. Mhmm.
+Speaker 2: It it's totally understandable about the balance. Yeah. I understand what you're saying. And, also, you are absolutely right when you're talking about the like, a form of communication. Like, how how do you say it in what setting? Like, all these small details, they matter. And,
+Speaker 2: I can hear that you are aware of this. But at the same time,
+Speaker 2: it seems like you're still looking for this balance. Like, what would be the best balance in between all these different options?
+Speaker 1: Yeah. I mean, there's there's no doubt that I have, like, room for improvement there.
+Speaker 1: Like, even my myself as k s, I said that I I should probably be speaking more And, I I do I do think that's true.
+Speaker 1: I also, at the same time, like, I think that Harrison's feedback about, like, speaking when it matters
+Speaker 1: that is something that I think I am good at.
+Speaker 1: That is something that I do intentionally, and that's something that I do not wanna lose.
+Speaker 3: Okay.
+Speaker 1: So yeah. But I I do need to find a better balance there.
+Speaker 2: Let's jump now to Caps since, also, you started to speak about him. Like, potential improvements.
+Speaker 2: From everything you read here as potential gaps. Which ones, like, do you agree with and you want to keep at least in your list of gaps?
+Speaker 3: I mean, Max,
+Speaker 1: said something that, you know, you and I have talked about a few times, which is just trying to take ownership of something.
+Speaker 1: I'm just I'm just looking at what Harrison says. More driving confidence for career, develop more of an independent voice.
+Speaker 1: Prioritize it very we talked about, an independent voice
+Speaker 1: already.
+Speaker 1: Hey, Suh, you said something interesting.
+Speaker 1: It's not what she said. It's just how I'm gonna choose to interpret it.
+Speaker 1: Her specific piece of feedback was being more direct if you think the direction I'm going
+Speaker 1: on something isn't worthwhile. I think,
+Speaker 1: I think one one gap that I have is I'm just, like, not I'm probably not particularly good at
+Speaker 1: giving people, like, directly negative feedback.
+Speaker 1: Or, like,
+Speaker 1: in her case where she's saying that I she wants me to, like, tell her when I think she's doing something that's not worthwhile, that is
+Speaker 1: that's like I'm I'm
+Speaker 1: think that's an example of, like, what I'm
+Speaker 1: saying I'm not very good at, and I think she is right.
+Speaker 1: I always try to, like I often try to, like, sugarcoat oh,
+Speaker 1: I often try to, like, sugarcoat things a bit too much
+Speaker 1: although I've gotten better at this in the past, like, year or two, I would say.
+Speaker 1: So one gap I have is, like, just, like,
+Speaker 1: being more direct.
+Speaker 1: As opposed to, like,
+Speaker 1: I don't know. Sugar coating is probably not quite the right
+Speaker 1: phrase or right
+Speaker 1: But there's some there's something there.
+Speaker 1: About just being more direct.
+Speaker 2: Being more direct when it comes to some kind of difficult conversation or maybe
+Speaker 2: some bad news that you need to deliver.
+Speaker 2: Yeah. About this
+Speaker 2: Yeah. Let's put it like difficult conversation. And then
+Speaker 3: I'll just
+Speaker 2: put here the direct feedback so then we can work out on it. Okay. Do you think this can be related to the
+Speaker 2: point that you had dubbed about,
+Speaker 2: that all people like you.
+Speaker 1: Yeah.
+Speaker 1: Certainly.
+Speaker 2: Like, being careful where to speak up. Like, how to speak up, how to deliver the different
+Speaker 3: opinion.
+Speaker 2: Being less direct with difficult conversations delivered bad news, or sharing something that you might not like.
+Speaker 1: Yes. Certainly. 100%.
+Speaker 2: Well, I do think people might like someone who is
+Speaker 2: able to do all these things freely?
+Speaker 1: Who can be more direct, you mean?
+Speaker 2: More direct, more bold, like,
+Speaker 2: I'm not a good More
+Speaker 1: More more trustworthy.
+Speaker 1: People who are, like, always always positive about everything, I tend to find or not. Like, you can't really trust what they say.
+Speaker 1: Or and, like,
+Speaker 1: You know, I I'm definitely not a in in one on one situations, I would say,
+Speaker 1: most of the time, I'm I'm, like, less afraid
+Speaker 1: to, like, tell somebody that I don't think what they're
+Speaker 1: I'm I'm still not very direct when I do this,
+Speaker 1: I'll often say that's interesting, but I don't think that's, like, necessarily right.
+Speaker 1: Or I'll I'll try to, like, make them feel very heard without just
+Speaker 1: telling them, like, no.
+Speaker 1: So I I think one one thing is, like,
+Speaker 1: being indirect
+Speaker 1: makes makes you seem a little bit less trustworthy, and the second thing is when you're indirect, your message gets lost or confused often.
+Speaker 1: And that that's something that I definitely worry about
+Speaker 1: Because most of the time, I think my communication is pretty decent But then when I get into, like, these weird situations, my,
+Speaker 1: I don't where it's
+Speaker 1: like, likely more important than my message does not get lost.
+Speaker 1: In difficult
+Speaker 1: conversations, that's when I'm most prone to having my message be lost because of this
+Speaker 1: like, discomfort, I guess.
+Speaker 3: Mhmm.
+Speaker 2: Okay.
+Speaker 3: Okay.
+Speaker 2: What else regarding apps?
+Speaker 1: Did you see anything else?
+Speaker 2: I think it's more about bugs and gaps. All these small things about,
+Speaker 2: being too much worried about mistakes, being, like, sometimes overpolite, apologizing. It's all bugs. Right?
+Speaker 1: I I will I will tell you that also with with that particular person,
+Speaker 1: a lot of that is intentional as well.
+Speaker 1: Just to be just to be clear. Like, I know they didn't put their name. I'm like,
+Speaker 1: 99% confident I know who this is, and I
+Speaker 1: I didn't even I I asked them for feedback. Because I genuinely wanted their feedback,
+Speaker 1: I didn't even think that, like,
+Speaker 1: their feedback might be, like,
+Speaker 1: framed in a way because I act very differently around this person.
+Speaker 1: Not very differently, but I act very
+Speaker 1: I act in a very specific way around this person for a very
+Speaker 1: good reason.
+Speaker 1: So it's actually good to know that I can, like, stop doing some of that with her maybe. But, I probably still won't
+Speaker 1: to be honest, because I think it'll just make my life harder.
+Speaker 3: Yeah.
+Speaker 2: Okay. It's a
+Speaker 1: yeah. There's there's a bit of act there's definitely a bit of, like, acting on my part
+Speaker 1: when it comes to, like, some of that stuff, just to be clear.
+Speaker 2: Okay. And,
+Speaker 2: for your mentor,
+Speaker 2: again, it was a lot of feedback regarding prioritizing your own goals. As a gap. So what is Yeah. This one for I know we started from it, but more on the level of being confident about taking the next step. But in general, like, thinking of your own goals and priorities over the company goals, for example.
+Speaker 2: Well, just think about his point here. I actually noted for myself,
+Speaker 2: this quote of becoming a bit more selfish.
+Speaker 1: Yeah. He's told me this before. Yeah. I mean, it's it's, like, difficult to disagree. Like, I I can't really disagree with him.
+Speaker 1: Yeah. I just I don't know. I mean,
+Speaker 1: Okay. So I I like it's it's very difficult for me to disagree with him. I just don't know what to do about this.
+Speaker 1: Like,
+Speaker 1: so I I do think it is like a a bug potentially or a gap, one of the two.
+Speaker 1: Where I'm I am probably, like, too selfless.
+Speaker 1: And, that it has definitely gotten me in trouble in the past.
+Speaker 1: For damn sure.
+Speaker 1: And, it will probably,
+Speaker 1: If I if I if I allow it to just continue as it is, it will probably, like, limit my,
+Speaker 1: it will probably, like, end up limiting me because I will put other people
+Speaker 1: before me. So
+Speaker 1: I need to develop some kinda I need to, like, rebalance that a little bit. I just don't I don't know how how to do that, and I don't even know necessarily, like, what that means. But,
+Speaker 1: yeah, I mean, I guess even Max said something like that.
+Speaker 1: Because I think he put it in stop doing make work the most the most priority. Oftentimes, it is the right thing to do when the work you do is unlikely to bruise major outcome in their term, maybe use this opportunity to prioritize more of your personal life.
+Speaker 1: Which I think you've been doing more of lately. So I guess I'm doing something maybe I'm doing something different recently. And that's good.
+Speaker 1: Yeah. I think both Max and Harrison in this case are saying
+Speaker 1: the same thing just, like, differently.
+Speaker 1: And, yeah, it it is I
+Speaker 1: I will wreck that is definitely a
+Speaker 1: bug. I just don't know what to do with it.
+Speaker 2: That's fine. You don't need to figure out everything now. And even more, it wouldn't make sense to put in here things that you already, like, 100100% know how to solve and know that it's gonna be turned into a great outcome and so on. Right now, we are just analyzing brain storming some things.
+Speaker 1: I this is like a this is something though that,
+Speaker 1: it will hurt my career.
+Speaker 1: You could argue you could argue that it has hurt my career already.
+Speaker 1: And that it will, like,
+Speaker 1: limit me at some point because I won't ever take the steps that are required for me be
+Speaker 1: the, like, somebody in charge. More or less, as opposed to just, like, helping other people.
+Speaker 1: So it is it is I'm glad that they both called that out.
+Speaker 1: Again, when I think about this though, this was not like a this was definitely not like a blind spot. Like, I 100% expected Harrison to point that out
+Speaker 1: It's something that I have thought about, and he's he's we've he and I have talked about this before. I've talked about it with other people before.
+Speaker 1: So yeah.
+Speaker 2: Okay. I have one more quote from Harrison. His feedback is really great. It's really, like, a novel. You know? Like, okay. Let me save this. Let me save this.
+Speaker 1: I know. He he when he when he does stuff like this, like,
+Speaker 1: he takes it he takes this stuff super seriously, and he's really good at it.
+Speaker 2: So the quote that I saved is for Barry to become independent per persona distinct from Jeremy.
+Speaker 2: Yeah. What does that mean?
+Speaker 1: Worries that,
+Speaker 1: he worries that I will be pulled too deeply into, like, the the Jeremy ecosystem. And that,
+Speaker 1: this is a very specific conversation that he and I had actually, like, within the past six months. He worries that I'll be pulled too far into the Jeremy ecosystem, and I'll end up basically like Max at Neo Cybernetica who is,
+Speaker 3: his
+Speaker 1: career at this point is, like, a hon almost a 100% tied to Jeremy's.
+Speaker 1: And Harrison doesn't think that's a bad thing.
+Speaker 1: To be clear.
+Speaker 1: And I don't think that's a bad thing either. Actually, I think that's, like, a good a decent outcome in life is because I'm Max is happily married with two kids. He's got a great job. He just bought a beautiful new house. He's got a nice car.
+Speaker 1: Loves what he does.
+Speaker 1: Works with people that he really likes to
+Speaker 1: work with, loves a job. I mean,
+Speaker 1: Max is in, like, a very a very enviable position.
+Speaker 1: He's done very well for himself.
+Speaker 1: My goal is to be far more than Max.
+Speaker 3: And,
+Speaker 1: Harrison rightfully worries that I will I'm just, like, allowing myself to be pulled too too far into the Jeremy ecosystem to the point where I won't be able to get out.
+Speaker 1: Or I won't want to get out.
+Speaker 1: And I think that's a very fair
+Speaker 1: point to make. And I it is it's also tied to this my ability to be selfish. As well.
+Speaker 1: The two are the two are definitely related.
+Speaker 1: I think the the maybe the more subtle
+Speaker 1: thing behind what Harrison is saying is that my
+Speaker 1: my star might necessarily
+Speaker 1: never be able to shine as bright as long as I'm tied to Jeremy.
+Speaker 1: Which is also true, just given the nature of
+Speaker 1: my role.
+Speaker 1: I'm, like, less worried about that
+Speaker 1: right now.
+Speaker 1: But, and I'm not necessarily as worried as
+Speaker 1: I'm not quite as worried as Harrison is about being pulled too far into the Jeremy ecosystem.
+Speaker 1: Because I have
+Speaker 1: maintained from day one with Jeremy that my goal is to be a a founder.
+Speaker 1: I probably have to have that con I probably have to have that conversation with him again at some point soon just, I
+Speaker 1: to make sure that he's still aware that that is, like, my goal.
+Speaker 1: But, I I very much understand, like,
+Speaker 1: what Harrison is saying there.
+Speaker 1: Again,
+Speaker 1: also part of it is just that that's my job at the moment.
+Speaker 1: Is to, like, not really be a totally independent persona.
+Speaker 1: But to kind of be an extension of Jeremy.
+Speaker 1: So he's not yeah. He's absolutely right.
+Speaker 1: And,
+Speaker 1: it's some that is something that I also think I also think about a lot.
+Speaker 1: But,
+Speaker 1: I it's not for me, that's not necessarily, like, a bug or even really, like,
+Speaker 1: a gap. It's just, like, something to be mindful of
+Speaker 1: It's, like, almost like a future it's, like, more of a risk.
+Speaker 1: What Harrison is pointing out, I think.
+Speaker 1: Is that I could kind of, like, lose my my own
+Speaker 1: my my goal in just, like,
+Speaker 1: and I've I I I maybe even talked about this with
+Speaker 1: with you as well, but I've definitely talked about it with him. And I've said,
+Speaker 1: you know, I don't know what's gonna happen in the future. Right? Like,
+Speaker 1: and and if I end up like Max, honestly, that
+Speaker 1: that's not bad. Like,
+Speaker 1: I will not I don't think I'll be unhappy at that point in time.
+Speaker 1: I just hope that if that happens, then
+Speaker 1: I will have ended up there intentionally because I changed my mind about, like, what I want as opposed to, like, ending up there unintentionally. Because, again, like,
+Speaker 1: right now,
+Speaker 1: if you said you can you're gonna end up like Max, I would say,
+Speaker 1: that's not what I want.
+Speaker 1: But, again, two years from now, a year from now,
+Speaker 1: that that could change. And if that's the if that's what happens, that's what happens.
+Speaker 1: Does that does that all make sense?
+Speaker 2: It also sounds to me like less risk.
+Speaker 2: To stick to Jeremy.
+Speaker 1: Yeah. Yeah. Okay. So the the risk is to, like, fulfilling my potential and to, like,
+Speaker 1: achieving my dream as I see it now.
+Speaker 1: Terms of, like, risk in life,
+Speaker 1: it's much less risky to just stick to Jeremy.
+Speaker 3: Like,
+Speaker 1: infinitely less risky.
+Speaker 1: So, yeah, you could view the risk from both those lenses.
+Speaker 2: Okay. Let's finish up with gaps. Sorry. With bugs that you want to add to the list.
+Speaker 1: I think, though, I think one that Max pointed out is the right one. It's it's getting up, like and I I gave myself this
+Speaker 1: feedback too.
+Speaker 3: Taking
+Speaker 1: their own honest criticism too personally.
+Speaker 1: Is definitely a bug.
+Speaker 3: Mhmm.
+Speaker 1: Related to that would be, like, there's, like, a bug around, like, overreacting. To, like, small things.
+Speaker 1: And then there there might still be a bug
+Speaker 1: around something that that Neil said. Barry tends to ask very little from others' relative to how much he offers to help others. I'd encourage him to ask for certain things that would be helpful for him.
+Speaker 1: This was definitely a bug of mine, which this is one that I also kind of think has, like, feature ish qualities to be clear is that I I very seldom will ask for help. Like, I'll I'll typically, like, just try to figure things out as much as possible for myself. First before asking for help. But then there's this idea of, like, not idea. There's the need there's the need to ask for help, and then there's the need to, like, delegate stuff. Like, I I I need to get a little bit better about delegate like, delegate I don't like the word delegation, but, like,
+Speaker 1: that is the right that's the word that comes to mind. Okay. And that I'm thinking about it. Max said something else, which I'm I'm kinda curious about.
+Speaker 1: Make work at most priority. Oftentimes, it is the right thing to do but when the work you do is unlikely to produce major outcomes in an term, maybe use this opportunity to prioritize more your personal life.
+Speaker 3: I wonder,
+Speaker 1: Yeah. Never mind.
+Speaker 2: It made you think of something.
+Speaker 2: I
+Speaker 1: so, like, one of the things that I do is just, like, work super hard, but I I typically always try to work, like, not just, like, super hard, but also, like, smart.
+Speaker 1: And, that particular piece of feedback made me think if I'm not
+Speaker 1: if I've gotten, like, if I've
+Speaker 1: if I'm maybe, like,
+Speaker 1: not as good at working smart as I maybe was in the past or as I thought I am.
+Speaker 1: So maybe I'm not
+Speaker 1: maybe I'm, like, spending too much time on or, like,
+Speaker 1: working too hard on things that don't don't matter. That's like I mean okay. So what he specifically said is
+Speaker 1: when the work you do is unlikely to produce major outcome in near term.
+Speaker 1: So is that, like, a scenario when I just, like,
+Speaker 1: shouldn't be working on that thing at all?
+Speaker 1: Is, like and that's I that I don't think that's, like, the biggest point that he's trying to make, but that is in there.
+Speaker 1: Yeah. I mean, there is it makes me think that there might be a bug around, like, just making sure that I'm working smart and that
+Speaker 1: everything that I'm working on
+Speaker 1: has the chance to lead to something.
+Speaker 2: Can I share with you my interpretation?
+Speaker 2: Please. Yeah. Remember we spoke about priorities, in the given situation, in the given week. For example, when you go for a business trip, you have their one priority that maybe you're not able to keep up with something else.
+Speaker 2: So for me, when he put in here, like, when the work you do is unlikely to produce major outcome,
+Speaker 2: It sounds to me like these periods of time when
+Speaker 2: you actually are not required to work hard.
+Speaker 2: And I'm not saying that you are doing, like, you're becoming disengaged employee because of that. Right? But sometimes there is a week when you actually can relax.
+Speaker 2: And you're simply not allowing yourself to.
+Speaker 1: Yeah. So what would what how would
+Speaker 1: I think you're I think you're right. I think that's what he means. What how would you, like what would you
+Speaker 1: write for that bug? Like, what is that bug?
+Speaker 2: I think it's partially related to the gap
+Speaker 2: of,
+Speaker 2: prioritizing your own goals.
+Speaker 2: So it's, like, reflect this bug that it's okay when like, force for one day or for one week, you ease the work
+Speaker 2: and you do something that is important for you selfishly.
+Speaker 1: Yeah. I mean,
+Speaker 3: yeah.
+Speaker 1: You can see how a lot of my feedback is connected
+Speaker 1: Like, it's it it most of it comes back to, like, that type of
+Speaker 1: this this equation, which is Barry doesn't prioritize, like,
+Speaker 1: Barry spends a lot of time like, Barry works really hard, spends a lot of time on
+Speaker 1: things,
+Speaker 1: don't always produce something
+Speaker 1: Boy, I really wish he'd work on he'd work on, like, himself more.
+Speaker 1: I wish he'd be a little bit more selfish.
+Speaker 1: It's it's
+Speaker 1: and and it's always difficult for me to, like, read this feedback
+Speaker 1: because
+Speaker 1: then I read the feedback of, like, what people identify as, like, my superpowers.
+Speaker 1: Which is, like, promoting excellence.
+Speaker 1: Discipline, and doing hard things. Like,
+Speaker 1: yeah. Like,
+Speaker 1: that's right. Like, these these things are not
+Speaker 1: they don't fight each other.
+Speaker 1: Right? They're not, like, in direct
+Speaker 1: conflict.
+Speaker 1: But they're they certainly don't always go together.
+Speaker 1: Right? And, like, maybe maybe you could find maybe I could find a better balance between them for for sure.
+Speaker 1: Like,
+Speaker 1: but,
+Speaker 1: think it'd be really hard
+Speaker 1: And, that's why when it comes to, like, bugs and features, I always struggle because, like, the the things that make me, like,
+Speaker 1: the things about me that
+Speaker 1: are the reason that people give me feedback to be more selfish and to prioritize my own goals.
+Speaker 1: Are those same things are the things that propel me to do all the things that they want me to keep doing.
+Speaker 1: And so it's always, like, difficult because it's like, okay.
+Speaker 1: I 100% hear what you're saying,
+Speaker 1: And, like, yes. I again, I can definitely find a better balance.
+Speaker 1: But, like,
+Speaker 1: how do I do that and then not lose the things that, like,
+Speaker 1: you're
+Speaker 1: you and I and
+Speaker 1: others believe that are, like, the things that I need to keep doing. And I should keep doing and that make me who I am.
+Speaker 1: So that's this is, like, the example of what I say when I mean
+Speaker 1: I what I'm sorry. What I mean when I say
+Speaker 1: I struggle
+Speaker 1: defining which are features and which are bugs.
+Speaker 1: At times.
+Speaker 1: And I liked what you said, by the way, about it's not always about, like, new features.
+Speaker 1: Bugs can be, like,
+Speaker 1: related to, you know,
+Speaker 1: helping existing features or improving existing features.
+Speaker 1: That and and then that makes me think more about just, like, balance in general.
+Speaker 1: Anyways, that's my ramble.
+Speaker 2: Do you still have time? Because we are already out of the planned time for the session.
+Speaker 1: Yeah. I have time.
+Speaker 2: Barry, what do you think is your superpower?
+Speaker 1: I I I don't I'd probably say something around, like,
+Speaker 1: just my ability to, like, actually, like, work really hard.
+Speaker 1: And but that I mean, that's not quite, like,
+Speaker 1: It's not quite what I mean.
+Speaker 1: Or it's not it's not quite what I, like, would want to say, but I don't know how to say it better.
+Speaker 1: Like, I
+Speaker 1: I can really focus on something
+Speaker 1: like, and I can really work towards something. Like, I know what it means to, like, really work towards something.
+Speaker 1: Not just in my career, but in my life and, like, with my friends and, like,
+Speaker 1: I can
+Speaker 1: I can concentrate and, like, spend a lot? I can I know how to, like, actually put effort into something? And, like, I know what that means.
+Speaker 1: I think that is, like, the superpower
+Speaker 1: And I think it the the way that it manifests, really, is in my ability to work I mean, my ability to work hard
+Speaker 1: ends up giving me
+Speaker 1: up, like, earning me,
+Speaker 1: points for liability and loyalty.
+Speaker 1: It ends up earning me points for promoting excellence, and it ends up earning me points for having the ability to have discipline
+Speaker 1: and it allows me to speak when I'm when I when something matters.
+Speaker 3: Yeah. I don't know.
+Speaker 1: It always sounds lame when I said
+Speaker 2: What is interesting is
+Speaker 2: that you brought up this topic of excellence, working hard, and so on as examples of superpower. And when I asked your question, you also continued same topic of ability, working hard, and many ways how you can explain it.
+Speaker 2: Which is also true. It's the way you see yourself. It's the way you produce outcomes. The way you show up at work.
+Speaker 2: But then when you read through food through feedback, specifically for the question of superpower, a lot of people mentioned your ability to build relationships.
+Speaker 2: A lot of people mentioned your ability to spot
+Speaker 2: the opportunities and possibilities.
+Speaker 2: And, I have here another quote, at this point, I'm not sure it was from Superpower or not, but I think it's great. That you have calm, confident energy.
+Speaker 2: That can hold people steady
+Speaker 2: when things get chaotic at work.
+Speaker 1: Yeah. That's also something that didn't used to be the case. So I am actually, like,
+Speaker 1: thank you for saying that. I'm actually particularly when I read that, I was particularly proud. I'm also not sure that applies a 100%.
+Speaker 1: Today.
+Speaker 4: That is useful.
+Speaker 2: Yeah. This is the masterpiece that we were talking about.
+Speaker 3: Yeah.
+Speaker 2: Why you keep bringing working hard to the table?
+Speaker 1: Because that's the
+Speaker 1: the way that I see it is, like, all the other stuff is, like,
+Speaker 1: the thing that even the thing that you just said is a a byproduct. Of, like,
+Speaker 1: my and that's why I don't I don't know how to explain this. But, like,
+Speaker 1: if I didn't know how to, like, actually, like, just knuckle down and
+Speaker 1: like, do something.
+Speaker 1: Like, put
+Speaker 1: legitimate effort and energy and time into something, And if I wasn't willing to sit down and and, like,
+Speaker 1: okay. I understand that this is a priority,
+Speaker 1: I'm gonna sacrifice everything else for this priority.
+Speaker 1: Then somebody would not be able to say that about me.
+Speaker 1: Like,
+Speaker 1: and so, I don't know.
+Speaker 1: Maybe it's because I misunderstand the idea of, like, what what a superpower is, or maybe it's because I'm not, like,
+Speaker 1: good at talking positively about myself.
+Speaker 1: But, genuinely, even when I hear that,
+Speaker 1: the first thing I think is like, yeah. It's because, like,
+Speaker 1: I because I can
+Speaker 1: work really hard. Like,
+Speaker 1: like, that's the thing that enables me to, like,
+Speaker 1: do that
+Speaker 3: Yes. Yeah.
+Speaker 3: I don't know.
+Speaker 3: You
+Speaker 2: that's absolutely fair. And even, the way have you applied this work hard as a sprint toward yourself, for example, when you need to figure out something, you work hard even
+Speaker 2: on yourself, on your bugs and gaps and so on to to get to outcomes that you want.
+Speaker 3: Right?
+Speaker 2: I want to challenge you to
+Speaker 2: explore
+Speaker 2: the wider type of thinking.
+Speaker 2: Which is
+Speaker 2: yes, I'm working hard.
+Speaker 2: And I'm also
+Speaker 2: doing this, or I also have this quality. I'm working hard, and I'm great in building relationships.
+Speaker 3: Or
+Speaker 2: I'm brilliant in spotting great opportunities and assigning right people to to deal with it.
+Speaker 1: Yeah. That's fair.
+Speaker 3: Yeah. Okay.
+Speaker 2: Because
+Speaker 2: when you have fixation on just one side of yourself, of one side of your
+Speaker 3: abilities
+Speaker 2: That's how you start building the rest of the this fixation.
+Speaker 2: That's why everything comes to working hard
+Speaker 2: Finish him with working hard, starting with working hard.
+Speaker 2: That's because you used Tells this to yourself. And you do have real life examples, including a lot of positive examples, how it worked. So, again, doesn't mean you need to cross everything and say, like,
+Speaker 3: no.
+Speaker 2: But expand. Like, keep working on something else.
+Speaker 2: And I think that this feedback is a great opportunity for you to start.
+Speaker 2: To spot what else they
+Speaker 2: underlined that is not related to your excellence. And being example for others and working hard, but what else is in there?
+Speaker 3: Yeah.
+Speaker 3: I agree.
+Speaker 3: Okay.
+Speaker 2: We have this list.
+Speaker 2: We will continue working on it in the next session. If you want to add here something or change the wording please feel free. If not, we're gonna do it in the session anyways. And,
+Speaker 2: what we will do, we will come up with action plan on what for example, gaps you want to start working on or maybe there will be action points for you to keep up with some features that you already have or, like, removing the bug. So thinking of actions of how to do it.
+Speaker 3: Cool.
+Speaker 2: Thank you for today.
+Speaker 1: No. Thank you.
+Speaker 2: And, please take some rest for the full recovery.
+Speaker 4: Okay?
+Speaker 2: No working hard this week, Barry.
+Speaker 3: Okay. Yeah. That's not gonna happen.
+Speaker 1: I was actually I was pretty productive yesterday, and then I crashed last night, which felt good. But
+Speaker 3: Okay.
+Speaker 2: Next week, what day and time you have for the session?
+Speaker 1: Oh, god.
+Speaker 1: Thursday is probably, the most protected
+Speaker 1: Thursday from two to 5PM is probably the most protected time that I have.
+Speaker 3: Mhmm.
+Speaker 1: If any time there works for you.
+Speaker 2: Yeah. Sure. Thursday
+Speaker 2: can be 2PM.
+Speaker 2: Okay. Yeah. We can do 2PM Thursday.
+Speaker 2: Okay. In a week.
+Speaker 1: That's crazy.
+Speaker 1: I'll have calls from 8AM to 3PM, and then
+Speaker 1: 5PM to 6PM on Thursday.
+Speaker 2: Oh my god. And other days are even worse.
+Speaker 1: No. That so it's it's a bit of a it's a bit tricky because
+Speaker 1: I could I have, like, nothing on Wednesdays and Fridays right now on Wednesday and Friday right now But
+Speaker 1: neither does Jeremy.
+Speaker 1: And so, typically, that is, like, my best opportunity to, like, spend a shit ton of time with him and just, like I have a and I have I have a bunch of so
+Speaker 1: that time is, like, when I say
+Speaker 1: protected time,
+Speaker 1: it's I'm trying to find times in the calendar where Jeremy has something that I think is unlikely to be moved where I I that I don't
+Speaker 1: And that's on Tuesday only on Tuesdays and Thursdays, which are my heavy meeting days.
+Speaker 2: If you want, we can be on standby on Wednesday because for now, I have my Wednesday open
+Speaker 2: all the after first half of the day from 9AM to 1PM eastern time. And even if I'm gonna have meetings, it's gonna be some, like, team meetings and, like, I can be flexible in one So if you see that, you're still open, you can just tell me, like, Marina, in thirty minutes, I can have session, and I will be ready to jump in. Oh, wow. Okay. If not, like, I will still put it in the calendar for Thursday,
+Speaker 2: 2PM, just, again, to have for you the slot booked. In case Wednesday wouldn't work. But if it would and it's easier for both of us to do it in the less heavy meeting, so we can do it, like, spontaneously on Wednesday.
+Speaker 3: Okay. Yeah.
+Speaker 1: I'm adding a task to my Asana to just check-in with you on Wednesday then.
+Speaker 1: Mhmm. Mhmm.
+Speaker 1: Any prework that I need to do before our next session?
+Speaker 2: Just think of, with what, features, gaps, or bugs do you want to continue
+Speaker 2: in terms of action steps?
+Speaker 2: Because, again, it's it like, there is no task that you need to work on all of them. Usually, it's, like, one, two,
+Speaker 2: one to two points from each category. For features, it's usually, like, to maintain. Like, is there
+Speaker 2: any action steps, some kind of maybe even routine that you can introduce to maintain that feature that you already have.
+Speaker 2: For bugs to eliminate, for
+Speaker 2: gaps to work on it.
+Speaker 3: Okay.
+Speaker 3: Okay.
+Speaker 3: That's helpful.
+Speaker 1: Okay. I'll start thinking about that.
+Speaker 3: Okay.
+Speaker 2: Have a great rest of the day.
+Speaker 1: Thank you. You too. Have a good night. Bye bye.
+Speaker 3: Bye.

@@ -1,0 +1,321 @@
+﻿hOS Coaching session, Sprint 2 [BG] - 2025/05/13 19:30 WEST - Transcript
+Attendees
+Barry Goldsmith, Maryna Vertyporokh
+Transcript
+Maryna Vertyporokh: Sorry I forgot to do that at the beginning.
+Barry Goldsmith: Good call. All good.
+Maryna Vertyporokh: might be related to a new design in the app and…
+Barry Goldsmith: Yeah. Mhm.
+Maryna Vertyporokh: the recent update that we did. and I do understand what you mean by saying having a weekly view day by day what are the routines and stuff that you need to do. but something that I want to double check it's like speaking about the sequence of all this routine and actions these challenges that you have right now in the sprint are they in the right sequence like starting from your morning routine and finishing up with what you do in the evening.  Pink. What?
+Barry Goldsmith: That's a very interesting question. No is kind of the answer. Although a little bit. so over the weekend I went through and I did reorder a few of them that I wanted to put together.
+Barry Goldsmith: I kept wake up at 4:30 at the top and then I put all of my workout and recovery ones together just so that I could mark those off easily when I'm doing them. But then after that to be honest it kind of falls apart. so I was thinking about what is the best order of these things for me to look at and I don't exactly know the answer to that. And then I was also remembering when I created some of these that I didn't set difficulties for I don't think I set difficulties for any of them. And so I was wondering if I was thinking I should probably go ahead and do that. less…
+Barry Goldsmith: because I don't think that's going to add a whole lot of value to me, but it could be interesting data for my library or for you or for anybody who's looking at this. so I kind of want to do that at some point.
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: Yeah,…
+Maryna Vertyporokh: And then regarding the floating routines, because I remember we had a similar conversation last time, do you prefer to keep it wide having floating routine and then what to do or do you prefer to break it down into specific routines? do we need to get back to this question and figure out the better way for you to put it?
+Barry Goldsmith: I don't think so. I think what I just need is a list of floating routines somewhere. maybe I just need to like because there are a few examples in the app. So maybe I just need to go in and build that out fully because I have a list in Miro. so that's one thing that I should probably just do myself right after this call. I'll do that the thing that's like …
+Maryna Vertyporokh: when you sorry one more thing here when you press on edit challenge you always have this thing so…
+Barry Goldsmith: go ahead.
+Barry Goldsmith: Yep.
+Maryna Vertyporokh: then eventually when you also open challenge you're supposed to see it on the top have Try to pay attention to this list …
+Barry Goldsmith: Yep. That's Yeah,…
+Maryna Vertyporokh: how visible it is.
+Barry Goldsmith: that's actually what I remembered. so normally I don't tap into a challenge very frequently because I try to keep the title of the challenge fairly descriptive enough. But in this case, I did remember that we had put in those three examples which was very helpful. But I don't really think about a lot of these things that I do that are floating routines. I don't think about them super consciously as float routines. And so I do them and then I almost forget that I do them. and so I want to write down more examples of those so I can make sure that I am tracking those a little bit better.
+Barry Goldsmith: Yeah,…
+Maryna Vertyporokh: And another question,…
+Maryna Vertyporokh: do you need to track them if you're doing them anyways?
+Barry Goldsmith: that's a question that I have too. I don't know. and I have a related question to that and I wrote this down in my feedback document which it feels I just thought of an answer to the question that you asked. so yes, I do need to track them to some degree because this idea of planning out the week in for me at least, I want to plan when I could or should be doing certain things.
+Barry Goldsmith: and so that's why I like tracking them is because it's like I have a planned slot for this thing that this is when I was thinking about doing something like whether or not I actually do that thing at that time, if I choose that Tuesday night is my grocery shopping night, whether or not I actually use that night for grocery shopping is one thing, but the idea that I had planned to go grocery shopping that night is important to me.  So that's like why I do want to track it. I guess I do need to track completion because if I don't do it on Tuesday night then I need to find another time for it. so that is important to me. what's interesting though is that the actual things themselves it feels weird to check them off alongside some of these actual challenges. For example, right?
+00:05:00
+Barry Goldsmith: I added one to my float routine when I did laundry. Having that next to reflect on my impact/contribution to HOS,…
+Maryna Vertyporokh: Check.
+Barry Goldsmith: Neocytica, Cortical Ventures is weird, Cuz one of those is an actual challenge and then the other one is no, I just needed clean clothes. what I'm So it is I do think it's important for me to track them, but it felt like I was almost hesitant to put in fact I really didn't want to add one to my float routine when I did laundry and then I checked in the description and it literally said laundry. And so I was like, " yeah, we literally meant stuff like this when we created this thing, but I didn't want to cuz it felt like I was like, "This isn't even like a real thing." Like I just do I do this because I have to. So there's some friction there.
+Barry Goldsmith: But it is important for me to track those things, especially if I think about having more of a calendar view or having more of the view that we created in Miro because that should be telling me here are if for example I didn't go grocery shopping in the slot that I was supposed to I'm more likely than not still have to go grocery shopping at some point.
+Barry Goldsmith: So then I have to find a new time to do that. And that mindset like that thought process is very important to me. yeah, correct.
+Maryna Vertyporokh: But you marking some float routines when you done it,…
+Maryna Vertyporokh: Not when you plan them.  So, I believe that my suggestion to reorder it it might help at least to separate something that feels more challenging and something that you just need to track. H and it can be even in a way that for example the first you pick up only routines and order them from morning to evening.
+Maryna Vertyporokh: for example started from waking up finishing read before bed and everything that falls in between that is related to routines including this float routine or this I don't know what else you have here I guess mo most of it you have in the top side and then right after to add all the rest of the challenges that
+Maryna Vertyporokh: are not related to routine but they are important to do and they are challenges in your sprint like this connection with friends and…
+Barry Goldsmith: No, that's a good idea.
+Maryna Vertyporokh: so on to see if that will help you to separate it a little bit and to track it easier routine wise okay you can do so let's discuss this…
+Barry Goldsmith: That's a good idea. I'm actually do that right now. Or at least I'm going to move the flow routine up.
+Maryna Vertyporokh: 
+Maryna Vertyporokh: what do you want to do in the coaching session today because I left it open intentionally just kind of meet you…
+Maryna Vertyporokh: where you are and to understand what is important for you for today to discuss and how can I help you today.
+Barry Goldsmith: I think no,…
+Maryna Vertyporokh: If this is organizing the challenges, that's totally fine.
+Barry Goldsmith: I think I can organize the challenges myself. I think I'll figure that one thing that I've been thinking a bit about is how do I say this? what so I don't know why I actually struggle with some of my challenges.
+Barry Goldsmith: and there's definitely a technology way at some point that I'm not qualified to speak about. but I'm more wondering if there's a way of that either I can break my own mindset that I can set myself up better to succeed with some of them. the two examples that come to mind are my cardio challenge which I've become pretty consistent at doing cardio so it doesn't look like I struggle to do it but I hate it and it damn near makes me miserable I hate it. I hate all 40 minutes of it.
+Barry Goldsmith: And so I find myself pretty frequently during those 40 minutes trying to find some excuse mentally to stop whether it's telling myself I'll finish later or…
+00:10:00
+Barry Goldsmith: I'll just do the 40 minutes tomorrow or man this sucks whatever it is like I find myself hating that. most time I just keep going.
+Maryna Vertyporokh: Do you actually stop or…
+Maryna Vertyporokh: postpone it for later?
+Barry Goldsmith: So, that one's a bit less of a problem. I really wish I hated it less because I wish I could break that mindset when I'm doing it because I think it would obviously be more enjoyable…
+Maryna Vertyporokh: Mhm.
+Barry Goldsmith: if I wasn't spending every minute thinking this is miserable like I hate this.
+Barry Goldsmith: But probably the more important one for me is thinking about how do I actually accomplish just 90 minutes per week of learning Python. And I definitely need some help setting myself up in a better position to actually succeed with that. And when I think about this I think it makes more sense to do when I'm in the office because there's going to be less distraction.  However, that's all already kind of difficult because that's a hell of a question I just got. it's already a little bit more difficult to do that because when I'm at the office, I'm often quite hard, working on something specific and then finding 90 minutes to do that 90 minutes is a long time.
+Barry Goldsmith: but I think I have a feeling that I have a better chance of doing that when I'm at the office when I'm captive more or less. But finding 90 minutes during the work week is difficult.  So then if I think about weekends, that is for some reason almost one of the last things that I would want to do is spend 90 minutes learning something even though I think it's actually fun and I would enjoy it and I think it could be part of my weekend enjoyment activity or weekend enjoyment routine but I'm not able to set that up for myself properly so that I can actually do it and enjoy it. So I think that's where I need help with is
+Barry Goldsmith: And it doesn't have to necessarily be some mental psychology. It could be something very basic. It could even just be like you sending me a message on Saturday mornings like I tell you that I'm going to do this thing and then I give you a specific time when I'm going to do it and you just check in. But that's just an example. I'm not saying we need to do that. But I think that's the one thing that's most on my mind is …
+Barry Goldsmith: how do I succeed with the challenges that I'm finding to be the most painful or that I'm just not succeeding with at all right now either probably Python it's probably more important I could continue to just push through the cardio
+Maryna Vertyporokh: Which one would you like to start with?
+Maryna Vertyporokh: Cardio or Python? Okay,…
+Maryna Vertyporokh: maybe we will be able to cover both today. with Python, what do you think are the potential reasons you struggling with this challenge because it is important for you? You mentioned it many times like what's coming on the way?
+Barry Goldsmith: I just think of it as work and…
+Barry Goldsmith: and I don't know why because I can verbalize to you that I think It's actually fun when I do it and I'm doing it decently well and I'm doing it for a decently long period of time and can actually concentrate and focus on it. I do enjoy it cuz I like learning and it is a challenge. It's a bit of a puzzle. But for some reason when I'm not doing when I'm not actually doing that, it feels like work to me. and that's not right.
+Maryna Vertyporokh: And what does it mean for you? when you take it as a work task,…
+Maryna Vertyporokh: what does it mean to you?
+Barry Goldsmith: It feels more like a job than a passion or…
+Barry Goldsmith: an interest. Let me put it that way.
+Maryna Vertyporokh: Because it also makes me think that you are responsible and…
+Maryna Vertyporokh: hardworking and if you take something as a work task, you do that task.
+Barry Goldsmith: And that's interesting because I agree and that is true. So, what's weird is that I'm not responsible to like anyone else for this task. I'm responsible to myself for this task. And so for some reason…
+Maryna Vertyporokh: It's here.
+Barry Goldsmith: because of that because you're absolutely right if it were a work task and somebody had asked me to do this even if I hated it it would get done like it just would.
+Barry Goldsmith: Yeah, sorry my thought off there.
+Maryna Vertyporokh: Worries. maybe the thing is that you do take it as a interest or passion but exactly because you lack in some accountability or maybe you don't have a specific goal behind it. Kind of like when you do the work task the consequences good and bad of doing or not doing it and what are the consequences here if you don't do it or if you do it.
+Maryna Vertyporokh: 
+00:15:00
+Barry Goldsmith: Yeah, there really aren't any negative consequences.
+Maryna Vertyporokh: Do you decline?
+Barry Goldsmith: And the positive consequences I can't really necessarily define other than the fact that I think it's ridiculous.
+Barry Goldsmith: So, if I could turn this into a posit more of a positive thing somehow, maybe that would be powerful. But the negative consequence is that if I want to be a founder and I don't know how to code, I think that's ridiculous. but that's a longterm consequence. It's not like a consequence and it's not like a very tangible one. if I could turn that into something positive, maybe I could hold on to that a little bit more and that would be helpful.  But I think your point about lacking accountability on some this specifically is very trail. I can tell you by the way that I have Jeremy compared me to somebody who's very not in shape yesterday. So I have a lot more motivation. He was mostly joking mostly. but I have a lot more motivation to do that cardio challenge now. And I might increase it to seven days a week so I don't think you'll see me fail that one really at all. Hopefully.
+Barry Goldsmith: Yeah,…
+Maryna Vertyporokh: …
+Maryna Vertyporokh: external motivation really works well for you.
+Barry Goldsmith: when internal motivation doesn't work well for me, which I think is pretty rare. my internal motivation it tends to work well for things that are important but for some things that I definitely have a hurdle in getting myself to do some of this stuff. I would apply the same by the way to this creating my Y combinator founder profile.
+Maryna Vertyporokh: immediate value.
+Barry Goldsmith: I'm sure It's going to be the same as Python. why? Because I know there's not going to be any immediate value to me. but I also know Yeah.
+Maryna Vertyporokh: It's a good words. Yeah. Yeah.
+Barry Goldsmith: Interesting. But I also know that it's valuable.
+Maryna Vertyporokh: Sorry to interrupt you…
+Barry Goldsmith: No, of course.
+Maryna Vertyporokh: but this is really important and I want to give you analogy with learning languages. I think it's a good one appropriate one. Imagine that you want to learn I don't know Ukrainian just…
+Maryna Vertyporokh: because you work with Ukrainians and you know that it's going to be useful it's going to be valuable there are whole of the bunch of reasons why you should start learning Ukraine.
+Barry Goldsmith: I actually should do that.
+Barry Goldsmith: Can you add No,…
+Maryna Vertyporokh: No, please don't add one task.
+Barry Goldsmith: no, no. I already have 17 challenges. I'm not adding another challenge right now. But we should talk about that at some point because I have actually thought about that for the past two years that I should do something. Okay.
+Maryna Vertyporokh: So, let's stick to this analogy. and here is two ways how you can organize this process for yourself. You can just keep thinking that I want to do it. It's important for me.  and you can start taking some lessons. You can even have it with tutor to have more accountability or you can do it yourself using Dolingo or whatever. But you sooner or later you will start noticing the same tendency that sometimes you prioritize something else and it's just like turning into the process.
+Barry Goldsmith: Mhm. Okay.
+Maryna Vertyporokh: because this immediate value and some kind of more tangible immediate goal is not really clear because to learn new language it's not specific enough goal to achieve versus you might want to start speaking Ukrainian but as a first goal or milestone you set up like okay I want to obtain A1 level of Ukrainian what do I need to do for that this is how the learning process look  like so my first goal is to actually get the certification or some kind of test or approval by my teacher that I have this level. So this is an example of specific goal that can give you this immediate value and result that you might be missing while something turning just into a process.
+Maryna Vertyporokh: So it seems to me that your coding challenge it's a bit similar because it's not something that you need here It's something that will be useful in the future but you taking it more like a process. Okay, I need to find 90 minutes per week just to learn some stuff.
+00:20:00
+Maryna Vertyporokh: Is there any way how can you set up a little bit more specific short-term goal around it? depending on the course you're taking or I don't know the studies yeah okay…
+Barry Goldsmith: Yeah, I mean I could define the goal is to complete this Python 3 beginner's course.
+Barry Goldsmith: …
+Maryna Vertyporokh: what can be the timeline for you to completed So …
+Barry Goldsmith: I mean I'm 54% of the way through it already. I pulled that up while we were looking at it. So I don't know is it going to I wonder if it tells me how much more time is required do you sol this maybe I can make a study plan that's probably totally useless but let's see what that does because maybe it tells me how much time there is. my god.
+Barry Goldsmith: It's just that time.
+Maryna Vertyporokh: what happens when you complete that What value would you get from completing this first one?
+Barry Goldsmith: I would probably do another one. I'd probably move on to something that's more advanced, which is probably more fun, too. Actually, I'd be able to say to myself and to somebody else that I learned the basics of Python. at the very least,…
+Maryna Vertyporokh: Mhm. Is there any way you can use it on practice?  I don't know something that you're doing for yourself. They tr
+Barry Goldsmith: probably not too much at that point with just the very basics, but it would enable me to for example, let me look at this.
+Barry Goldsmith: it would let me unlock some of these other courses not literally unlock but there are other courses where it's of things that I'm again very interested in where it's like data science type stuff that's something I'm very interested in at least learning the basics too. and so I think having a little bit of Python and a little bit of data science I think that would be very powerful. here's a course. It says master statistics with Python. Learn the statistics behind data science from summary statistics to regression models. 26-hour course intermediate level. That would be very interesting and potentially very valuable to me.
+Barry Goldsmith: So yeah,…
+Maryna Vertyporokh: Okay. Mhm.
+Barry Goldsmith: I don't see I don't think there's anything tangible that I'm going to be able to do really with the basics of Python, but I think it unlocks a bunch of other potential opportunities for me that I think it's the same way as it was in college, I guess, where you had to I don't know if your university is the same structure but you have to take all these kind of boring entry level courses and then as you progress then you get into far more interesting stuff.
+Maryna Vertyporokh: Mhm.
+Barry Goldsmith: That's kind of the way that I feel about it right now. Yeah.
+Maryna Vertyporokh: And speaking about accountability, to hold yourself accountable to your goal, that's also a part of it. I mean, it doesn't mean only to have someone else to nag you and…
+Maryna Vertyporokh: remind you all the time, right?
+Barry Goldsmith: And I'm disappointed in when I fail to do this 90 minutes of Python,…
+Barry Goldsmith: I'm pretty disappointed in myself because I don't know. it's not like I can't tell myself all the things that I tell you about how it's connected to my goal and how I think it's ridiculous that anybody who wants to be a founder wouldn't have at least the bare basics of some coding skills. I can easily tell myself that and I don't believe It's not like that I'm lying to myself or to you or to anyone else. It's just like when it comes time to actually get the thing done, it's like there's a blocker to even getting started. I think one difference is with cardio every minute I basically want to quit. With Python, I don't think that's the case.
+Barry Goldsmith: Once I actually get started,…
+Barry Goldsmith: I think I do most of the time. it goes pretty well once I get started. Not really, but I don't know what would be better. So, …
+Maryna Vertyporokh: So the first milestone to complete this first basic course does it sound to you like motivational goal enough to move on with this challenge?
+Barry Goldsmith: It's better than it is right now. Let me put it that way. It's definitely better than it is right now. I don't know.
+Maryna Vertyporokh: the possibility to unlock another curse.
+Maryna Vertyporokh: Does that sound more interesting?
+00:25:00
+Barry Goldsmith: A part of me just goes to I don't really need more motivation for this. I should just do it. this is one of those things…
+Maryna Vertyporokh: Need to Okay.
+Barry Goldsmith: where I should just do it.
+Maryna Vertyporokh: 
+Maryna Vertyporokh: Then one more question.
+Maryna Vertyporokh: What would be more important for you to complete the basic curves or to stick to 90 minutes of Python per week?
+Barry Goldsmith: Completing the basic course for sure.
+Maryna Vertyporokh: If you can do it only for 20 minutes or 60 minutes instead of 90, if you will have a chance to do it at least like this, would you still choose it instead of thinking, okay, I don't have 90 minutes right now or it's too  Eight.
+Barry Goldsmith: It's a good question.
+Barry Goldsmith: so I don't know what the optimal amount of time like per learning session is but in the past when I tried to do 20-minute increments I found that I was forgetting quite a lot in between those sessions.  So, I'd do one 20-minute session and that was enough to complete maybe a chapter and then I would come back two days later and I would start a new chapter and that chapter would build off of the previous chapter. And I found that when that happened I was really having to go back and look at what I was supposed to have learned previously.
+Barry Goldsmith: So I don't know what the right amount of time is per sitdown session if that makes sense but I think it needs to be a bit longer so I can actually get into it and not just read all the materials and go through the motions but actually learn some of it and make sure that I'm absorbing some of the act so I mean, yeah, we could restructure the challenge and have it be far more based off of the number of they call them modules. So I'm trying to everything about this platform is good except for this piece apparently. Okay, here we go. So now I'm in strings right now.
+Barry Goldsmith: Then it's modules, then dictionaries and files. So I have all of this stuff. I could just do a couple of these a week. I suppose that would at least be a little bit more specific than just 90 minutes. So I could do complete one, two, three,…
+Barry Goldsmith: four some number of lessons per week. I could do that and it wouldn't be time bound at all.
+Maryna Vertyporokh: One more idea I can suggest you if the goal is not just to complete the course but actually to learn something you can do for example every time you have a sprint retro session with HS or…
+Maryna Vertyporokh: this is a week in between a sprint retro week to use this week to do a not sprint to do a retro of…
+Barry Goldsmith: Yep. That's a good idea.
+Maryna Vertyporokh: what you've learned. during this sprint co coding wise kind of like going back through the material trying to go through what did you use what have you tried and so on again creating your own retrospective of what you learned to make sure that again you're not just checking off the boxes but you're actually gaining value from what you're learning Okay,…
+Barry Goldsmith: That's a good idea. I should do that.
+Maryna Vertyporokh: you fze. Can you hear me?
+Barry Goldsmith: I Can you hear me?
+Maryna Vertyporokh: Okay.
+Maryna Vertyporokh: Yeah, I can.
+Barry Goldsmith: Yeah, that's a good idea.
+Maryna Vertyporokh: And then the last question about this piece of external accountability that you mentioned. again, how can I help you with that? maybe there are other people keeping you accountable. or you're okay just to try move on yourself after having more specific goal knowing that you're going to have a retro session and so on.
+Barry Goldsmith: I think I'm not okay to just move on. I think I would need to prove it to you and to somebody else to me and…
+Barry Goldsmith: to you and maybe to somebody else if I thought I was okay to carry on. But it's not like what I'm doing right now is not working.
+00:30:00
+Barry Goldsmith: So, I don't want to just pretend that I can put a band-aid on it and that'll fix things. my I will Absolutely hate that.
+Maryna Vertyporokh: What if I suggest you to post to the feed every week when you do this challenge?
+Barry Goldsmith: I'm happy to send you a picture when I do it every week, but I will definitely not post to the feed. or I would prefer not to, but if you think that's the best thing to do, I could try, but I really hate doing stuff like that.
+Maryna Vertyporokh: Okay.
+Maryna Vertyporokh: That's a lot of pressure,…
+Barry Goldsmith: Okay.
+Maryna Vertyporokh: but send it to me then. Let's do this. and the schedulewise do you want to keep it somewhere on Mondays or during the week or…
+Maryna Vertyporokh: would like to try it on the weekend because it's still not clear for me.  You mentioned something like you have doubts throughout it. Why?
+Barry Goldsmith: Yeah, I do have doubts around this.
+Barry Goldsmith: I would really like to do it Monday nights. I think that that makes a lot of sense to me. because I get off a few hours of calls on a Monday night, but they're not super intense calls or anything. they're not calls where I'm very focused or very intense. And normally I feel pretty good on Mondays because the week has just kind of started and it's normally not too hectic and I'll be at the office and so taking time on a Monday night to do this just makes sense to me.
+Barry Goldsmith: Monday nights typically are not my craziest nights. That isn't always the case, but it's like last night I definitely could have done this and just didn't. so although the call last night ran until six, but even so it's 30 minutes. I could have easily done it last night. and it would have been fine. So that's why I don't like the idea of relying on myself to do it over the weekend.
+Maryna Vertyporokh: The fact that you mention here heavy meeting afternoon like it after all it's not that heavy the way you describing it or
+Barry Goldsmith: If possible I'd rather fit it into the week, but no, it's a big chunk of time.
+Barry Goldsmith: it's always 2 to 5:30 but we typically have a meeting before two as well. So it's typically a three or four or maybe even 5 hour chunk of meetings, but It's not where after Thursday I'm dead. after the Thursday meetings,…
+Maryna Vertyporokh: Do you still have meetings today after our coaching session?
+Barry Goldsmith: its that's not my best time for performing anything realistically. On Mondays it's a little bit different. It's still a lot.
+Barry Goldsmith: I mean maybe Tuesdays, but Tuesdays tend to be kind of hectic. no,…
+Maryna Vertyporokh: Do you have plants after?
+Barry Goldsmith: but I need to go to the gym after our coaching session. I was at the office at 6:30 in the morning to work with Jeremy,…
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: which was good. but because of that I succeeded in waking up at 4:30 and then basically immediately just got in the shower and started getting ready to come to the office.
+Maryna Vertyporokh: So let's come up then.
+Barry Goldsmith: Actually, I have a sorry,…
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: I think I have a chunk of time tomorrow when I could code. So, I'm just going to put that in my calendar and I will send you a picture when it's done.
+Maryna Vertyporokh: Awesome. And…
+Barry Goldsmith: Let me add that. Mhm.
+Maryna Vertyporokh: then from the next week onwards you can still try Monday mix. Sounds good. so let's sum up this challenge. where is it? here. so this week you will have time to do it tomorrow from next week onwards on Mondays because you feel like this time is right and doing it in the office it's okay for you then you can focus on the lessons even if it will be a few of them or just one of them within this amount of time thinking of the first milestone to complete this course and
+00:35:00
+Maryna Vertyporokh: and thinking of having the retro sessions to make sure that you're actually learning not just completing the course and…
+Barry Goldsmith: Mhm.
+Maryna Vertyporokh: thinking of the next potential goal of more interesting data related course unlocking for you the whole picture. How does it sound to you?
+Barry Goldsmith: Yeah. I mean, it sounds like an improvement on today. hopefully it's a lot more than that. but even…
+Barry Goldsmith: if it's just Go ahead.
+Maryna Vertyporokh: condition. Yeah.
+Maryna Vertyporokh: Go ahead. Go ahead.
+Barry Goldsmith: No, I was just gonna say even if it's just a small improvement on today, that's massively valuable. okay.
+Maryna Vertyporokh: And additionally, I will be reminding you about doing this and waiting a picture from you that you completed this challenge. Now we still have 15 minutes to talk about your cardio challenge.
+Barry Goldsmith: Yeah. …
+Maryna Vertyporokh: I mean why is it important to start liking or stop hating Carter?
+Barry Goldsmith: I don't have to.
+Maryna Vertyporokh: You've been doing it so far.
+Barry Goldsmith: I know it's like I do not have to. by no means do I have to. I'm aware of the fact that when I do it, it makes me at least the first 20 or 25 minutes make me fairly miserable. I just don't unless I can find something to distract myself. sometimes I'll watch a concert on YouTube and I'll watch another YouTube video or an interview or a podcast or something. Listening to audiobooks doesn't seem to really work as well.
+Barry Goldsmith: Although I …
+Maryna Vertyporokh: Tell me please…
+Maryna Vertyporokh: what exactly do you do with cardio here?
+Barry Goldsmith: it's typically walking uphill walking at an incline on a treadmill.
+Maryna Vertyporokh: Okay. So you easily can combine it with something like watching something.
+Barry Goldsmith: Yeah, definitely.
+Barry Goldsmith: Yeah. Yeah. I'm not like running or anything where my head is bobbing or anything. No,…
+Maryna Vertyporokh: Okay.
+Maryna Vertyporokh: Yeah, that's what I want to talk. So, it's not running it. Okay. What makes it so hateful for you?
+Barry Goldsmith: I don't know.
+Barry Goldsmith: I just really dislike it. A part of me wonders if I've convinced myself that I dislike it more than I actually dislike it. But really do I'll find myself counting down the minutes. I'll get to five minutes and I'll be looking at the counter every minute. am I closer now? I'll be trying to play games with myself man I really only have 25 minutes left. I've already done 15. it's really not that much more than I've already done. I'll try to play these games with myself. And it feels so taxing. if I could just I'm not even mostly focused on the actual cardio itself. I'm mostly focused on how much I dislike it or trying to get over the fact that I dislike it. So it feels very taxing.
+Maryna Vertyporokh: No, knowing your approach to your time,…
+Maryna Vertyporokh: how you value your time, can it be related that you take this 40 minutes of walking as a waste of time?
+Barry Goldsmith: Yeah, definitely.
+Barry Goldsmith: Although I mean yeah, it's interesting that you say that because what I used to do I'm trying to think if I've done this even recently. Not as much if at all.
+Barry Goldsmith: But what I used to do in New York in particular if I was very busy particularly in the mornings, I would always make sure that I would get a strength workout in and then I would be totally okay skipping cardio and I would just say, I did strength. I can skip cardio." I would be totally fine doing that. I would say more recently I've been skipping strength and doing cardio instead. because I think it's a slightly more aligned with …
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: where I want to take my health. but yeah, the point is I very much used to depprioritize it in favor of in particular was work was I would de prioritize cardio in particular of work. but I don't think I've been doing that as much recently actually.
+00:40:00
+Barry Goldsmith: And that was also part of the reason that we did this cardio snack thing was that at least it's not a full 90 minutes of workout every morning. I'm not taking a full 90 minutes every morning. Now I'm at least splitting it up. And so it's not one big chunk of time that's going towards exercise.
+Barry Goldsmith: It's two smaller chunks of time, which I don't know if that really makes a difference in my schedule to be honest, but it feels a lot better when that works. yeah, definitely.
+Maryna Vertyporokh: Mhm. Okay.
+Maryna Vertyporokh: What value do you see for yourself from doing cardio six time a week plus these small chunks? Do you see any results? Do you see any improvements?
+Barry Goldsmith: I mean, I'm definitely trying to slim down. and I'm definitely seeing improvement in results from doing it more frequently. I'm definitely seeing results from that. So, I like that's why I'm I keep doing it. and maybe the answer is I still don't like it, but I just get over it and it is what it is. But sorry I just got distracted by messages.
+Barry Goldsmith: These are not urgent. Okay.
+Maryna Vertyporokh: No. Okay.
+Maryna Vertyporokh: Since you mentioned that watching something can help you you kind of lose track of time, you just keep bulking and that helps you to achieve 40 minutes.
+Maryna Vertyporokh: can it be related to some kind of feeling of boredom when you just need to walk that's…
+Barry Goldsmith: Yeah, definitely.
+Maryna Vertyporokh: why you're looking for some kind of distraction.
+Barry Goldsmith: Yeah, definitely.
+Maryna Vertyporokh: So in this case it's a great strategy to do a time stacking or activity stacking and…
+Barry Goldsmith: Yeah. …
+Maryna Vertyporokh: do something else even if it's not something useful but entertainment like watching concert or you actually have a challenge here which is to watch the best world.
+Barry Goldsmith: I should watch.
+Maryna Vertyporokh: Can you do that while you're doing cardia?
+Barry Goldsmith: I cannot believe I haven't thought of that.
+Maryna Vertyporokh: Sounds like a good way to fight the boredom here and…
+Barry Goldsmith: That's so frustrating. That's such an easy I'm making sure that I have it on my phone right now.
+Maryna Vertyporokh: complete something that you have to do here. still sounds to me like stacking those activities that you don't like, but at least Okay.
+Barry Goldsmith: I just finished Yeah,…
+Barry Goldsmith: that is funny. I just finished season two of Westworld, which is the bad season. So, supposedly season 3 is quite good. I'm buying it right now. so this will be Yeah, I don't know. I can't believe I had not thought about that at all.
+Maryna Vertyporokh: What are other ideas,…
+Maryna Vertyporokh: examples of time stuck in here? What else can you watch, listen to? Mhm.
+Barry Goldsmith: I haven't really been able to read when I'm on the treadmill.
+Barry Goldsmith: That hasn't worked as well for me. I tried listening to an audiobook once, literally one time, I think. But I should try that again because that could be a good opportunity for structured learning. while I'm on the treadmill, like an easy opportunity as well. those are probably the two examples that are coming to mind right now.
+Maryna Vertyporokh: Okay.
+Maryna Vertyporokh: Great. Let's start from at least this week. Try it out. See how it goes.
+Barry Goldsmith: I can't believe I hadn't thought about Westworld.
+Barry Goldsmith: I'm going to crush that challenge now. This is so funny, too, because Casey literally messaged me today that she's almost done with Westworld season 1, and I was like, "How?" we talked about it last week. So, I was like, "How is that possible?" …
+Barry Goldsmith: "How are you doing that?" And then she answered something and She said, I think I have two or three episodes left." I said, " okay. So, you still have a good bit to go." And she goes, "Haha, are you getting competitive?" I said, "Not at all, because I'll lose clearly." So, now this is very funny to me.
+00:45:00
+Maryna Vertyporokh: Now It's getting competitive.
+Barry Goldsmith: It's Now it's competitive because I can win.
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: ** up. So true.
+Maryna Vertyporokh: So, to sum up with this challenge, you doesn't have to stop loving cardio. You just need to do it a little bit more interesting for yourself. and…
+Barry Goldsmith: Yeah. Mhm.
+Maryna Vertyporokh: the way to do it more to make it interesting at least to fight some boredom by watching something and especially if you have a possibility to stack it with West World and even win and watch the whole all the seasons first. That sounds like a good solution.
+Barry Goldsmith: Yeah, I agree with that summary. Yeah.
+Maryna Vertyporokh: And something that I'll ask you to do on your own is to reorder challenge challenges again that it makes sense for you in terms of routines and…
+Maryna Vertyporokh: then the rest of the challenges in the sequence from morning routine to the evening routine. Right. okay.
+Barry Goldsmith: Yeah, just Yeah,…
+Barry Goldsmith: That sounds good.
+Maryna Vertyporokh: 
+Maryna Vertyporokh: Okay, something else I wanted to ask you is about the meal prep because we touched this topic briefly in the chat and I saw it in your plan for Sunday and I don't see it as a challenge, right? …
+Barry Goldsmith: I think it's a float routine right now, but maybe it shouldn't be.
+Maryna Vertyporokh: Have you tried it?
+Barry Goldsmith: I'm pretty sure it's a float routine, though. Let me just see.
+Maryna Vertyporokh: I mean,…
+Barry Goldsmith: I did.
+Barry Goldsmith: Yeah, I did.
+Maryna Vertyporokh: did you do the meal prep yesterday?
+Barry Goldsmith: Yes,…
+Maryna Vertyporokh: The day before yesterday, last Sunday?
+Barry Goldsmith: I did on Sunday. it went it was actually fairly easy.
+Maryna Vertyporokh: How did it go for you?
+Barry Goldsmith: Because I'm adding it to my mirror board right now because I don't see it there for some reason. Although, Maybe it's somewhere else. One second.
+Maryna Vertyporokh: Mhm.
+Barry Goldsmith: I'll figure out a way to print this out for myself. Where are you? I don I think it is a flirt routine. So It went fine on Sunday.
+Barry Goldsmith: Mostly because when I went to the grocery store, I had to buy a few things only. It wasn't a very complicated process.
+Barry Goldsmith: So I found that simple recipes simple stuff like that is very easy for me. I wonder if meal prep was on a specific days because I swear that we talked about this maybe it's on. it's Yeah,…
+Maryna Vertyporokh: I only see this the main ideal week table on Sundays.
+Maryna Vertyporokh: Here in the prep in the evening
+Barry Goldsmith: but it can be a floating routine as well.
+Barry Goldsmith: It can be a float routine because sometimes when I just do it randomly. I'll run out of food because the one thing that's kind of bizarre is I don't always know when or where I'm going to be eating all of my meals. And so sometimes I run out of food much faster than others…
+Maryna Vertyporokh: Okay.
+Barry Goldsmith: because I'm spending nights at home and sometimes I don't. So I'm going to add it as a float routine because I think that makes sense. But yes, so to answer your question, I did meal prep on Sunday. it went fine. It was easy stuff that I hardly had to think about because I've done it a bunch of times and it tasted good. And I'm more worried about whether or not I'll actually manage to get through all of what I meal prepped before I go to New York for this wedding or New Jersey for this wedding, but that's totally fine by me.
+Maryna Vertyporokh: So, it sounds like there is any problem with this challenge anymore with this routine.
+Barry Goldsmith: Yeah, at least not right now. I mean, I'm sure it'll come back again in the future is there's only having one option of food at home is obviously not So, I'm meal prepping literally one thing, but it's okay.
+Barry Goldsmith: That's a little bit more than a band-aid for right now. So, that's okay. No, this was really helpful though.
+Maryna Vertyporokh: All right.
+00:50:00
+Maryna Vertyporokh: Any more questions for today?
+Barry Goldsmith: Thank you.
+Maryna Vertyporokh: Would you like to stick with an open agenda for the next coaching session as well? Or there is something specific that you would like to do or discuss? Okay.
+Barry Goldsmith: Open agenda would be good or this relationship management system.
+Barry Goldsmith: I'm very interested in working on that with Casey. or you either way. I think those are the two things that come most top of mind.
+Maryna Vertyporokh: And I will be curious to hear about your enjoyment activities during the weekend.
+Barry Goldsmith: Yeah. it's going to be all wedding related.
+Maryna Vertyporokh: Don't think that I forgot about it.
+Barry Goldsmith: It's going to be almost all wedding related.
+Barry Goldsmith: And if all things go to plan as well, I'm meeting up with one of my good friends on Sunday in the city after the wedding is done. So, this week's enjoyment activity should be easy, actually. Knock on wood.
+Maryna Vertyporokh: Yeah. Yeah.
+Maryna Vertyporokh: All The last question then about the next coaching session. should we stick to Tuesday same time or…
+Barry Goldsmith: Yeah. Yeah, I think that works. Cool.
+Maryna Vertyporokh: Okay, works for me as well.
+Maryna Vertyporokh: Next Tuesday. Okay, thank you Barry. let's keep with communication in the chat and then since you will be traveling, I promise not to bother you too much since Thursday onwards,…
+Barry Goldsmith: Thank you.
+Barry Goldsmith: Don't worry about it.
+Maryna Vertyporokh: but at least until Thursday. How many more weddings you have to attend?
+Barry Goldsmith: Don't worry about it. It's just more if I am disappearing more frequently than normal. It's probably just I'm like doing wedding stuff, not my wedding, but obviously I actually No,…
+Maryna Vertyporokh: That was a rhetoric question.
+Barry Goldsmith: I declined another one that was supposed to be in a month from now.
+Barry Goldsmith: I turned it down because it's been so much travel for weddings just too much. so I think this one is my last one for the year. and then I have a couple next year that I already know about, so we'll see.
+Maryna Vertyporokh: Bye. Okay.
+Maryna Vertyporokh: Anyways, have a great time and I'm waiting for the picture from your coding challenge tomorrow. Byebye.
+Barry Goldsmith: Yeah. Yeah.
+Barry Goldsmith: You will see one. I promise. Bye.
+Meeting ended after 00:52:33 👋
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

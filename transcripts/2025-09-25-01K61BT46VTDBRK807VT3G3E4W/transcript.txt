@@ -1,0 +1,1493 @@
+Speaker 1: Have to, like,
+
+Speaker 1: I'm meeting with different types of people even, like,
+
+Speaker 1: if I get the sense that somebody would prefer
+
+Speaker 1: this versus that, I can I can typically, like, adapt myself a little bit?
+
+Speaker 1: Mhmm. Mhmm.
+
+Speaker 1: Okay. Yeah. Great.
+
+Speaker 2: Okay. Let me start recording the meeting today.
+
+Speaker 2: I have a bit of a technical problem here.
+
+Speaker 2: Which is my HD mode for some reason is not working. Like, I can't log in, and I tried already a few times, but like, I didn't have time to manage it before our session. I mean, I
+
+Speaker 2: I noticed it, like, two minutes before our session. So maybe we need to work today without coach mode. It's okay. I really I think I tried everything already. Already, and I just don't want, like, now to text to the team and then pay attention what they respond. Like, I want to be fully present. So
+
+Speaker 2: let's forget about
+
+Speaker 1: Give me one second. I just noticed that I'm on the wrong Wi Fi, and so my computer's freaking out. I might cut in and out here for just one second.
+
+Speaker 1: Mhmm.
+
+Speaker 1: Okay. I should be back now.
+
+Speaker 2: Okay. I think I can see you all good.
+
+Speaker 1: Yep.
+
+Speaker 1: Okay. That should be better.
+
+Speaker 2: You know, I am not very lucky today. I don't know. Sometimes you have these days when it's just a lot of bad things happening in one day.
+
+Speaker 1: Yeah. I mean,
+
+Speaker 1: it makes you feel any better, I was on an external call earlier, and,
+
+Speaker 1: my like, I plug my and normally when I'm sitting at my desk, I plug my laptop into a docking station, which connects to two different monitors and then a camera.
+
+Speaker 1: And
+
+Speaker 1: I made it through fifty minutes of the full hour,
+
+Speaker 1: And right when the guy asked me, like, an important question to answer, like, I kid you not, I was about to start answering.
+
+Speaker 1: And my docking station crashed, and my computer, like, it dropped me from the meeting.
+
+Speaker 1: Like, at the exact moment when I needed to, like, respond to an important question so I yeah. Hopefully, that's the first only time that happens to me today. Technologies can be challenging. Right?
+
+Speaker 2: In in my previous question, I,
+
+Speaker 2: I
+
+Speaker 2: apparently didn't choose the correct language to record the transcript instead of Ukrainian. I just it just left, like, English. And and the session was in Ukrainian. And, obviously, like, there was no transcript. But I didn't know that, and I saw that it's some kind of bug. So I reported it to the team saying, guys, we have a problem. And Sasha's replied to me, Marina, I checked back, and you didn't choose the proper proper language, and I'm like, oh, that's awesome. That's awesome.
+
+Speaker 2: And then the page team mode doesn't work. So I'm not very lucky today. Anyways, I feel like we have a lot to discuss today. Because first of all, we dropped the last call
+
+Speaker 2: somehow, like, in the middle of the conversation what to do with some of the points of your feedback that you decided to act on. Second, your sprint is over.
+
+Speaker 2: And third, I also wanted to double check on the employee profile as a part of the recap of your first b to b sprint.
+
+Speaker 2: Mhmm. Plus you might have something from you.
+
+Speaker 2: So how do you see us moving on with all these questions today?
+
+Speaker 2: Anything you want to start with at least.
+
+Speaker 1: The only thing I wanna mention is that October is now going to be a month full of travel for me.
+
+Speaker 1: So
+
+Speaker 1: it'll be a little bit trickier in terms of scheduling.
+
+Speaker 1: We are leaving this Friday for Germany and Iceland, and I'm gone for, like, a week and a half.
+
+Speaker 1: And then it seems like in the middle of this month, we are going to Asia.
+
+Speaker 1: And that'll be
+
+Speaker 1: I'm not totally certain about, like, what the dates are for that.
+
+Speaker 1: Something was just booked this morning for that. So, that's the only thing on my end.
+
+Speaker 2: So
+
+Speaker 2: let's go and check here.
+
+Speaker 2: The programming that we have.
+
+Speaker 2: Because the important component of us to keep moving is the time tracking.
+
+Speaker 2: And then I remember when we spoke about it, you mentioned something that, like, it's important that those weeks are good for time tracking.
+
+Speaker 2: Which now sounds like a challenge.
+
+Speaker 1: Fuck. So
+
+Speaker 2: we are moving with the plan. Like, right now, we are somewhere here.
+
+Speaker 2: Which is a sprint retro, and you completed five sessions. Next,
+
+Speaker 2: Well, yeah, you're supposed to start your sprint from Monday. On Monday, October 6, and take the next two weeks on time tracking. Then I think this is the business trip to career that you mentioned before somewhere in the mid October. So then we can, like, sum up the sprint with time review and passion's interest in jobs.
+
+Speaker 1: So when was I supposed to start? Oh, I was supposed to do time tracking the October.
+
+Speaker 2: Yeah. On Monday, basically, two weeks. Or at least one week. Two, it's optional, but at least one week.
+
+Speaker 1: Yeah. I think that's not gonna be possible anymore.
+
+Speaker 2: This I think that to do time tracking while you're traveling. Right?
+
+Speaker 1: It probably not.
+
+Speaker 1: God. I wonder if I can just take the time tracking somehow. No. I probably can't because
+
+Speaker 2: Also, it discussed that you want to track all time.
+
+Speaker 1: I know. Yeah. Because yeah. Like,
+
+Speaker 2: gonna work anyways. So if you were tracking only the work time it wouldn't maybe make that much difference. But considering that it's the whole time, you wouldn't be able pay attention to your, like,
+
+Speaker 2: enjoyment, life admin, something else that you usually do when you're home.
+
+Speaker 1: Yeah. I don't totally know what to do because so I
+
+Speaker 1: right now, I leave Friday, and I get back the twelfth.
+
+Speaker 1: And then Jeremy now has a flight
+
+Speaker 1: on the fifteenth.
+
+Speaker 1: And he's going straight from that through the twenty fourth. So I would be getting back, like, the maybe, like, the twenty fifth, twenty sixth, twenty seventh, somewhere in there. So, like, at this point,
+
+Speaker 1: basically, the whole month of October is shot.
+
+Speaker 1: I just learned about the
+
+Speaker 1: stuff in the October today.
+
+Speaker 4: What if we
+
+Speaker 4: switch the sprints
+
+Speaker 2: And for example but we make this sprint a little bit more loose
+
+Speaker 2: Maybe just, we can even make, like, biweekly sessions if it will help you with scheduling. And you can just pay attention to your, for example, travel routine to keeping up with important stuff while you're traveling. And, work related, we can still do, for example, contributions into alignment session.
+
+Speaker 2: Because it's not really linked to any other topic. It's just really talking about what impact you make and what are the ways to
+
+Speaker 2: maybe align with
+
+Speaker 2: that level of impact do you want to have?
+
+Speaker 1: Yeah. That sounds good.
+
+Speaker 2: Yeah. And then leave time tracking, passions, interest in jobs. All to the
+
+Speaker 2: to the Then to November, basically.
+
+Speaker 3: Yeah.
+
+Speaker 1: Sorry. I know that's less than ideal.
+
+Speaker 2: No. That's a good case because, in the work setting, this can happen. Happen. Like, we we can work with someone who is comes into business travel or is just an experience. So
+
+Speaker 1: Yeah. Okay. I think we try that. I think, I'll just I'll make the most of it that I possibly can on my end.
+
+Speaker 2: Okay. Great. So So this brings us back to your sprint. I saw that you already chose the the routines to track.
+
+Speaker 2: Some of the routines.
+
+Speaker 1: You Yeah. I
+
+Speaker 1: I think I did that, like, previously. I actually I have this problem with with HOS. I don't I do not know how to solve this problem.
+
+Speaker 1: I never know when my sprint is ending. And so even on, like, even this week, I had no idea that the last week was, like, the last week of my sprint. Even though I saw it in HOS, I 100% saw it
+
+Speaker 1: and I saw the, like, I saw the signs.
+
+Speaker 1: Or I I think I saw them, and I still had no idea.
+
+Speaker 1: So I did not, like, consciously this when this this past sprint ended, I did not, like, consciously choose which would become routines. The ones that you see that are routines right now are the ones that when, like, the routines feature was rolled out, those are the ones that I chose as my, like,
+
+Speaker 1: core routines, I guess.
+
+Speaker 2: Yeah. Okay. You use only the daily view
+
+Speaker 1: You don't use weekly view for your sprint? Let me double check that just to make sure. I tend to use daily more. That's for sure. Yeah. I don't know if I've ever even looked at weekly, to be honest with you.
+
+Speaker 2: Yeah. Because, weekly, that's when you can at least see, like, what what is the week. And, Okay. But that's interesting feedback.
+
+Speaker 2: Okay. So
+
+Speaker 2: moving forward with your sprint, what is important for you to include there?
+
+Speaker 2: Considering that you're gonna be traveling?
+
+Speaker 2: But it's also not the first time you you travel for a long time.
+
+Speaker 1: Right? I know. It's just always a fucking disaster. Health stuff is the most important to keep
+
+Speaker 1: In fact, it might be, like, that might end up being, like, the only stuff that I can keep Like, all of the other stuff
+
+Speaker 1: ends up kind of
+
+Speaker 1: like all of all all possibility of having, like, a weekend routine is kind of, like, thrown out
+
+Speaker 1: So, like, all of my weekend routine all of my, like, attempts to do weekend stuff
+
+Speaker 1: just
+
+Speaker 1: disc discount that all, like, to zero.
+
+Speaker 1: Really becomes a matter of, like, okay. When I have time,
+
+Speaker 1: I
+
+Speaker 1: how can I make sure that I'm spending it? Like, when I do have free time, how can I make sure I'm spending it in a, like, a productive way?
+
+Speaker 1: So, yeah, I think the most important stuff to focus on let me just look at my last sprint really quickly on my phone here.
+
+Speaker 2: Mhmm. I also opened your sprint, from HLS app.
+
+Speaker 2: At least I can Yes. See your challenges.
+
+Speaker 1: Yeah. Like, having even having, like, a weekly planning session is, like, difficult.
+
+Speaker 1: I should continue to do that. I should try to continue to do that Tracking my food is gonna be very difficult.
+
+Speaker 1: Eating a protein breakfast is gonna be difficult.
+
+Speaker 1: Yeah. Like, the weekend stuff.
+
+Speaker 1: Coding and stuff.
+
+Speaker 5: And before that,
+
+Speaker 4: Let me actually
+
+Speaker 3: take a
+
+Speaker 2: quick step back and ask you
+
+Speaker 2: about this sprint, like a retrospective. It was the first sprint, the full sprint when you were tracking all the food and made these changes, like having brought in breakfast, bring lunch at work, and so on. Right?
+
+Speaker 5: Mhmm.
+
+Speaker 2: Do you see any changes in terms of your goal to get leaner versus in general, your body, your health?
+
+Speaker 1: I mean, over time, I've lost at least, like, 10 pounds. So, and, like, at least three percentage points to my body fat percentage. So
+
+Speaker 1: it's working.
+
+Speaker 1: And I just, like, look different already.
+
+Speaker 1: So it's definitely working.
+
+Speaker 1: I feel good about it.
+
+Speaker 1: I wanna keep doing that stuff.
+
+Speaker 1: Some of that is, like, not possible with travel.
+
+Speaker 1: So, like, how do I
+
+Speaker 1: maintain a healthy diet while traveling? That's gonna be a challenge.
+
+Speaker 1: How do I make sure that I get my workouts in? That's always a challenge. Okay. Anyways, so you but to your question, it was working, and I wanted to keep I wanna keep doing it.
+
+Speaker 3: Mhmm.
+
+Speaker 2: Great.
+
+Speaker 2: And your new weekend routine.
+
+Speaker 1: Did did not did not stick.
+
+Speaker 1: I need to just, like, force myself to do it.
+
+Speaker 1: One weekend, I was sick, and I gave the I gave that to myself as an excuse of just, like, I could not really focus on too much.
+
+Speaker 1: And then last weekend, I ended up, like, running errands and doing other shit instead.
+
+Speaker 1: So I just I need to, like, double down on that when I'm back from traveling and can focus on it.
+
+Speaker 1: Because the one weekend, I did do it. I really I genuinely, like, actually enjoyed it. I had a good time, like, coding that morning. I thought that was, like, really nice.
+
+Speaker 1: After my workout and after breakfast and after showering. I just sat down at my kitchen counter and had a good time, like, practicing some coding and enjoying it. I put some, like, music or some TV on in the background or something. So it wasn't dead silent.
+
+Speaker 1: So I just I need to just, like, give that another proper effort. Like, I need to put more effort into that because I I do think that's, like, the right thing to do.
+
+Speaker 1: But it has not it has not stuck and has not become, like, anywhere close to a habit or a routine.
+
+Speaker 2: Okay. We can get back to it.
+
+Speaker 3: As well.
+
+Speaker 1: Yeah. So I think I think for
+
+Speaker 1: for travel, the the things that I would focus on are, like,
+
+Speaker 1: it's the health stuff.
+
+Speaker 1: Getting workouts in,
+
+Speaker 1: getting cardio in,
+
+Speaker 1: stretching,
+
+Speaker 1: I I don't even know if, like, tracking my calories is really, like, gonna be be too possible. I don't know what I'm gonna be eating all the time.
+
+Speaker 1: Some kind of, like, healthy eating challenge might be worth it. I just don't know how to define that or set it up.
+
+Speaker 1: And then I wanna have some kind of, like, float challenge almost of, like,
+
+Speaker 1: whenever I do have some free time, like,
+
+Speaker 1: trying to get in some coding. Like, if I have
+
+Speaker 1: if I have an hour of free time,
+
+Speaker 1: one good way of to spend that would be to code.
+
+Speaker 1: Especially if I can't, like, do something in in wherever I'm gonna be.
+
+Speaker 1: Those are that's, like, kind of how I'm thinking about going into, like, a travel mode type sprint, if that makes sense. Mhmm. Mhmm.
+
+Speaker 2: Remember during your last long travel when you also visited a few countries and then stayed in Ukraine for some time,
+
+Speaker 2: We had this conversation about what is important during this specific week or maybe specific travel.
+
+Speaker 1: Mhmm.
+
+Speaker 2: You think you can use this approach somehow to, like, in planning ahead?
+
+Speaker 2: Thinking of, for example, at least for for the next two weeks or one and a half weeks, you know Yeah. Be you know what is going to wait for you.
+
+Speaker 2: And how to organize it the best way.
+
+Speaker 1: The this next week or two is, like, more challenging for me because I don't totally know what the purpose of the travel is. To be totally honest. Like, I know there are some events
+
+Speaker 1: I don't know to what extent I'm participating in those events. So, like, I don't know
+
+Speaker 1: From that perspective, I don't know, like, what's important.
+
+Speaker 1: From a work perspective.
+
+Speaker 1: I do know, though, that from, like, a my
+
+Speaker 1: my sprint perspective and my thinking about, like, myself perspective, the most important thing that I can do outside of work will be to try to keep up with some level of activity. Mhmm.
+
+Speaker 1: Even if it's not, like, doing strict workouts, like,
+
+Speaker 1: getting steps in, like, just, like, walking around wherever we're gonna be,
+
+Speaker 1: That so that's the that's the thing that's top of mind for me in this situation rather like, may maybe I will be able to come up
+
+Speaker 1: with, like,
+
+Speaker 1: something that's most important, but it was easier the last time because I knew I knew the purpose of, like, each of the stops along the way. Like, I knew exactly what was happening.
+
+Speaker 1: And then when I was in Ukraine for two weeks, the the purpose was obvious. It was just, like, spend as much time with
+
+Speaker 1: the people as possible. This is a bit different.
+
+Speaker 5: Okay.
+
+Speaker 1: Yeah. I don't have another thought there right now.
+
+Speaker 2: Okay. That's fine. Anyways, even to have
+
+Speaker 2: activity challenges, health related,
+
+Speaker 2: it's already good. It's already gonna give you some work to do.
+
+Speaker 2: And the ability to balance
+
+Speaker 2: Mhmm. And then the food related
+
+Speaker 2: When you mentioned, like, some challenge to eat healthy, What do you think, again, from your experience from the previous
+
+Speaker 3: sprint?
+
+Speaker 2: Considering that you were paying attention to what you're eating, the the calories, and so on.
+
+Speaker 2: What do you feel like
+
+Speaker 2: maybe still needs more attention
+
+Speaker 2: and that you can control no matter where you eat
+
+Speaker 2: Maybe it's type of food, maybe it's portions, maybe it's still amount of calories, like you can still track it to know at least what is your nutrition during travel. Not necessarily, like, to control it, but at least
+
+Speaker 1: to know. Yeah. It's just, like, it's I find it hard to track this stuff when I'm
+
+Speaker 1: when I'm, like, not controlling like, I if I have a recipe, for example. So I've put I've put all the recipes in my fitness pallet at this point. So
+
+Speaker 1: I know more or less, like, if I know the amount that I'm eating,
+
+Speaker 1: then I I feel pretty good about tracking everything.
+
+Speaker 1: When I'm, like,
+
+Speaker 1: when I travel, we just eat out at restaurants
+
+Speaker 1: every day.
+
+Speaker 1: Right? And so I feel like it's harder to actually track calories that way.
+
+Speaker 1: For me,
+
+Speaker 1: your first question was more interesting, which is, like,
+
+Speaker 1: what are the important pieces of, like, healthy eating that I would like to
+
+Speaker 1: focus on
+
+Speaker 1: One would be choosing high protein options Like, always
+
+Speaker 1: trying as best as much as possible to choose, like, high protein options.
+
+Speaker 2: Mhmm. That's a good one.
+
+Speaker 1: Another would be, like,
+
+Speaker 1: not snacking.
+
+Speaker 1: Which is something that I still struggle with even just, like, being at work.
+
+Speaker 1: It actually might be easier to not do that when I'm traveling.
+
+Speaker 1: And then a third would just be to, like,
+
+Speaker 1: I mean, maybe this is, like,
+
+Speaker 1: so low ambition not to overeat when I travel.
+
+Speaker 1: Because we often go, like and we're trying all sorts of different foods and you know, you wanna try everything and there's all this good stuff and
+
+Speaker 1: it can very easily, like, get out of control. Right? Where I I
+
+Speaker 1: I
+
+Speaker 1: and I there are degrees of overeating. I'm not necessarily meaning, like, overeating until the point where I, feel queasy. I mean, like, literally just, like,
+
+Speaker 1: eating more than is necessary
+
+Speaker 1: I don't know how to define that well, though.
+
+Speaker 3: Yeah.
+
+Speaker 1: I don't totally know what to do.
+
+Speaker 3: In terms of that.
+
+Speaker 2: The first two options, choosing high protein options and not snacking,
+
+Speaker 2: That sounds, like, doable, at least worth trying for like, to see how it goes next week while you're traveling. And then in case you see that it's
+
+Speaker 3: still
+
+Speaker 2: somehow doesn't work or you still need to modify it somehow, that can be done. But, like, it makes sense that if you go to the restaurants and you're constantly choosing food from the menus, that's when you can pay attention to more protein food. Yeah. Or snacking. That's something also in your control in between. Those
+
+Speaker 1: those two seem a 100% in my control. Like, I'm comfortable adding both of those. It's like but it feels like I'm missing something. Like, it feels like I should almost be, like, limiting myself some other way
+
+Speaker 1: Like, do I eat one meal? Like, do I focus on
+
+Speaker 1: one meal
+
+Speaker 1: or, like, two meals as opposed to all three meals. I I don't know. I just
+
+Speaker 1: I I worry about all of the different
+
+Speaker 1: I worry about giving myself, like, too much free rein even with just, like, no snacking and choose high protein options.
+
+Speaker 2: During last five weeks when you actually lost
+
+Speaker 1: 10 pounds,
+
+Speaker 5: Yeah.
+
+Speaker 2: Where are you limiting yourself?
+
+Speaker 1: In food? Yeah.
+
+Speaker 2: Definitely. In what Definitely. Way?
+
+Speaker 1: Well,
+
+Speaker 1: I mostly first of all, I I, like, almost always ate a cooked lunch. Like, I did I almost never went
+
+Speaker 1: ordered either, like, used one of the links that we that the guys order from or even on weekends, like,
+
+Speaker 1: it was almost never ordering. Like, maybe once. So that was limiting. I was, like, very disciplined in terms of, like, what I was eating.
+
+Speaker 1: And then, yeah, at night, to be honest, like, there were multiple nights. I was trying to eat early at night.
+
+Speaker 1: So that my heart rate could reset and go down
+
+Speaker 1: appropriately before bed.
+
+Speaker 1: So I was, like, always trying to I was trying to eat it, 6PM or something, which is, like, pretty early.
+
+Speaker 1: And then I was trying not to eat afterwards. Like, even if I got hungry after dinner,
+
+Speaker 1: it was typically, like, a smaller dinner. And even if I got hungry, I was really trying not to to eat, and I would say I was more successful than not at that.
+
+Speaker 1: Not always. It wasn't I wasn't as good about that as, like, I was when I about eating a coach's lunch as opposed to, like, going out to eat.
+
+Speaker 1: Or ordering.
+
+Speaker 1: Yeah. Those are the two those were the two biggest things. Now
+
+Speaker 1: I won't be able to control what time I eat dinner,
+
+Speaker 1: Mhmm. That's just kind of a fact.
+
+Speaker 1: And I will not be able to cook anything for myself, so I don't
+
+Speaker 1: that's why I'm kind of at a loss there. And that's why I keep thinking, like, okay. With
+
+Speaker 1: those things out of my control, do I just, like, cut a meal? Like, do I just, like, make sure that I
+
+Speaker 1: like,
+
+Speaker 1: am, like, restricting my meals to only eating, like, twice a day, for example. So I maybe I don't eat maybe I eat breakfast, and I eat dinner, but I don't eat lunch. Maybe I eat lunch and dinner. I don't eat breakfast.
+
+Speaker 1: That that's why I keep thinking about the that because that is in my control.
+
+Speaker 2: I'm almost sure that Erin told you
+
+Speaker 1: that skipping the breakfast would help you. Yeah. I know. But then
+
+Speaker 1: yes,
+
+Speaker 1: So then I guess maybe I do just try to keep tracking my calories as best as I possibly can.
+
+Speaker 1: Maybe, like, just monitoring it
+
+Speaker 1: will help me
+
+Speaker 4: What about you?
+
+Speaker 2: Focus on choosing protein options?
+
+Speaker 2: Note note do not snack. Right? And that is also some kind of limit for you. And not not the limit, but, like, keep yourself on track.
+
+Speaker 2: Yeah. And,
+
+Speaker 2: you can, for example,
+
+Speaker 2: control yourself
+
+Speaker 2: so you do not overeat dinner only, for example. So Yeah. Since the timing is out of your control, so no matter what time is a dinner, and sometimes I understand that it can be late, So to make sure that the dinner, for example, is small.
+
+Speaker 2: Yeah. That's a good idea. High protein, for example.
+
+Speaker 1: Yeah. All three. That's a good idea.
+
+Speaker 2: So in this case, you don't need to think of every meal to control your health of over eat not overeating because that can be overwhelming and, like, not always possible. But also, usually, the metabolism work in the way that the first half of the day, all the food you eat, you're burning much easier.
+
+Speaker 2: Than something you eat afternoon. So even if you overeat like, for lunch, it's not that bad.
+
+Speaker 2: As it could be for dinner. Right?
+
+Speaker 1: Yeah. That's a that's a really good, mitigating challenge. That's a good idea.
+
+Speaker 2: Now do you have a notion
+
+Speaker 2: of yourself when it's time to stop
+
+Speaker 2: this food. I mean, like so you do not overeat
+
+Speaker 1: Yeah. Typically, I do have an idea.
+
+Speaker 3: Okay.
+
+Speaker 3: Yeah.
+
+Speaker 2: Okay. So, basically, the focus is to pay attention to this
+
+Speaker 4: feeling notion.
+
+Speaker 2: And,
+
+Speaker 2: make sure that you stop before you continue.
+
+Speaker 1: Mhmm.
+
+Speaker 3: Okay.
+
+Speaker 2: In terms of your
+
+Speaker 2: personal goals, is it enough?
+
+Speaker 1: Yeah. I think so. I mean, I
+
+Speaker 5: I
+
+Speaker 1: I think more will just, like, be setting myself up for failure
+
+Speaker 1: So I'd rather be more realistic
+
+Speaker 1: And then if I get there and I can do more, I'll
+
+Speaker 1: be very happy about that, and I'll I'll do more.
+
+Speaker 1: As opposed to getting there and, like, trying to too much and being sad and then doing none of it. Mhmm.
+
+Speaker 4: Okay.
+
+Speaker 2: Great. And now let's close the loop with the b to b stuff.
+
+Speaker 3: So
+
+Speaker 4: you're joking. Wait a sec. One second.
+
+Speaker 1: No worries.
+
+Speaker 2: Okay. It still works.
+
+Speaker 1: So
+
+Speaker 2: Now Google Meet doesn't allow me to share the screen.
+
+Speaker 1: Hi. Yeah. That sucks.
+
+Speaker 1: What? You'll have to on. If you if you wanna do that, you'll have to restart your entire browser, which is a real pain in the butt.
+
+Speaker 2: I guess I really need to do it very because we need to use mirror import.
+
+Speaker 1: Yeah. It's okay. Don't worry about it. Take your time. In a sec.
+
+Speaker 1: No worries.
+
+Speaker 1: Yeah. It works now.
+
+Speaker 2: Google is good.
+
+Speaker 1: Okay. You can see my screen. Right?
+
+Speaker 2: Yes.
+
+Speaker 1: Thanks, guys.
+
+Speaker 1: Okay. So
+
+Speaker 1: first of all, back to the session of bugs and features. We left it last time here.
+
+Speaker 1: And, specifically about the point how to understand when you need to pull the trigger for your own calls and I spoke about observing other people. If you can get any insights of what usually helps them to do so.
+
+Speaker 1: Were you able to do this?
+
+Speaker 3: I I actually spent a good amount of time, like, trying to think about this. And I I really I've really struggled. And, like, every time I thought about, like, somebody who I I think is, like, better at this,
+
+Speaker 3: Like, the only thing I could think of is that I just think they're and I don't mean this in a bad way. I just think they're, more selfish And
+
+Speaker 3: it got me thinking that, like,
+
+Speaker 3: they recognize that being selfish is to some degree, like, not a bad thing.
+
+Speaker 3: Like,
+
+Speaker 3: and that that's where, like,
+
+Speaker 3: I ended up
+
+Speaker 3: coming out. Like, I I think that
+
+Speaker 3: I am not selfish enough because I'm, like, I have some, like, natural opposition to it, to being, like, selfish. And I just, like,
+
+Speaker 3: I need to change my mentality around that
+
+Speaker 3: a little bit
+
+Speaker 3: like, I couldn't I
+
+Speaker 3: I even tried to think of, like, what are some specific examples that I'm thinking of. And I I went through, like, my list of my closest friends
+
+Speaker 3: and was like, can I think of any specific examples in which
+
+Speaker 3: like, these these people, like,
+
+Speaker 3: showcased this more? I couldn't think of any specific examples really. And then I just started thinking about, like, the different behaviors And I typically, like, just think that most of my friends are a little bit more selfish than I am.
+
+Speaker 3: Which might be a a fucking really low bar, just to be clear.
+
+Speaker 3: But
+
+Speaker 3: yeah, that's where I ended up coming out on that. How do you understand
+
+Speaker 1: they are more selfish?
+
+Speaker 1: What do they do
+
+Speaker 1: What makes you think this?
+
+Speaker 3: I think they,
+
+Speaker 3: some of my friends definitely when they do something, they definitely do not necessarily think about, like, the impact on other people.
+
+Speaker 3: They will just, like, do something.
+
+Speaker 3: And it could even be something that's, like, good for them.
+
+Speaker 3: But they won't think about
+
+Speaker 3: it it it seems that they do not think at all sometimes. About the impacts to other people.
+
+Speaker 3: Or in some cases, maybe they do choose to, like, ignore that, or they just, like, choose the impact to them like, to think more about the impact themselves versus the impact to other people?
+
+Speaker 3: Yeah. I don't know. I I ended up getting into, like, kind of a negative loop
+
+Speaker 3: when I, like, thought about this because I
+
+Speaker 3: I don't wanna, like, say that I I think my friends, like, aren't that thoughtful
+
+Speaker 3: but I do kinda think that some of my friends are not that thoughtful. And, like,
+
+Speaker 3: then I was like, well, am I just do I just overthink everything? Which is probably true.
+
+Speaker 3: But is there value is there value to overthinking
+
+Speaker 3: everything? If I'm more thoughtful,
+
+Speaker 3: So, anyway, this is, like, this is the loop that I, like,
+
+Speaker 3: went into in my head. And so I I tried to pull myself out of it a few times and, like,
+
+Speaker 3: restart, but I I couldn't really, like, change this. Like, I couldn't think of it another way.
+
+Speaker 3: So, yeah, I I struggle
+
+Speaker 1: You use this word a lot. Let's learn something about it.
+
+Speaker 1: So selfish.
+
+Speaker 1: Someone who is lacking consideration for other people,
+
+Speaker 3: concerned
+
+Speaker 1: chiefly, that's an interesting word, was once own personal profit or pleasure.
+
+Speaker 1: Is Yeah. What do you think of being self obsessed? While you call yourself, like or when you say I don't want to be selfish?
+
+Speaker 3: I struggle I struggle with this too because,
+
+Speaker 3: Harrison, my mentor and my old boss,
+
+Speaker 3: used to have a saying. I'm pretty sure this is what it was. It was self love is never selfish.
+
+Speaker 3: Which
+
+Speaker 3: I think, like, principally, I more or less agree with, actually.
+
+Speaker 3: However,
+
+Speaker 3: I think I confuse the two quite often.
+
+Speaker 3: Like, I think it's more difficult
+
+Speaker 3: for me to see, the difference for myself.
+
+Speaker 3: So I was wondering if he wants to touch my subscriber of others. Okay?
+
+Speaker 3: Yeah. While maintaining respect and consideration for others.
+
+Speaker 1: Surprise. Surprise. It can be both.
+
+Speaker 3: Yeah.
+
+Speaker 3: Can it? I I guess it can. Yeah. Okay. Maybe it's just hard to think of, like, examples when other people are doing
+
+Speaker 3: both. Like, maybe I just wouldn't know. Or I wouldn't, like, mat maybe those are just, like, harder to recognize externally as opposed to, like,
+
+Speaker 3: you know, if I were literally if I were, like, living in their minds, if I could see, like, everything that was happening in their minds, maybe then I would understand that it's, like,
+
+Speaker 3: self love versus being selfish, but maybe it's hard to recognize externally.
+
+Speaker 1: You got there. When I gave you this task, I was hoping that you will find something around
+
+Speaker 1: self care, self love, and all these things because
+
+Speaker 1: I think that when it comes to prioritizing your needs, it's really about
+
+Speaker 1: allowing yourself
+
+Speaker 1: in the way that,
+
+Speaker 1: you know how they say, like, you first put the mask oxygen mask on yourself Over yourself. Yeah. And then on others. And this is a good metaphor for, like, doing both. Right? Without helping yourself, you're not able to do that much impact as you want to.
+
+Speaker 1: Right? Yeah. You can hold the breath as much as you can, and you can heal help as much people as many people as you
+
+Speaker 1: can within this time. But sooner or later, you will need the breathe.
+
+Speaker 1: It seems like what's happening is that you keep
+
+Speaker 1: putting masks to other people.
+
+Speaker 1: Feeling okay with, like, holding the breath.
+
+Speaker 1: Then there is a moment when you're like, okay. I need to think about something you quickly go back, organize your oxygen, and then you go back to people.
+
+Speaker 1: While it can be slightly different.
+
+Speaker 3: No. I think that's accurate. I think that's right.
+
+Speaker 1: Do you have one example?
+
+Speaker 1: How could it look for you to prioritize your well-being?
+
+Speaker 1: Of personal needs?
+
+Speaker 1: Over work.
+
+Speaker 3: Yeah. I mean, I've gotten a little better at this. Like, I used to be terrified of, like, even getting a haircut
+
+Speaker 3: like, during the week.
+
+Speaker 3: Like, taking time for a haircut
+
+Speaker 3: Like, taking time away from work to go get a haircut. So I used to specifically, like, look for barbers that were available on the weekends.
+
+Speaker 3: The barber that I found used to be available on the weekends and is no longer available on the weekends And so I'm I'm just, like, going during the week and trying to
+
+Speaker 3: find a time where it seems to work for at least Jeremy's schedule where I'm not, like,
+
+Speaker 3: at risk of missing something. So that's, like,
+
+Speaker 3: Okay. That's one that's one example. Even yesterday, right, like, I needed to I I saw that his he had some dinner or something last night, and so I cut out of the office early to go run an errand that I needed to run ahead of this travel.
+
+Speaker 3: And then I work from home for the rest of the day. So
+
+Speaker 3: I I think I think I can do, like, little things
+
+Speaker 3: think I can do, like, little things like that. I think when it comes to, like, bigger stuff,
+
+Speaker 1: is where
+
+Speaker 3: I struggle. And, like, I think Harrison was really the one who hammered this point home where he was like,
+
+Speaker 3: you know, wanting to make sure that I take the next step of, like, being a a cofounder. And, like, doing my own thing.
+
+Speaker 3: That's, like, a a very big thing. And, like,
+
+Speaker 3: my concern there
+
+Speaker 3: is less about, like, negatively impacting somebody else, like, negatively impacting Jeremy or somebody else. Like, I that will be a concern at the time.
+
+Speaker 1: Mhmm.
+
+Speaker 3: And more just around, like,
+
+Speaker 3: am I willing to take the risk? Like, am am I gonna jump jump off the ledge at that at that point?
+
+Speaker 3: Mhmm. Now maybe I'm, like, downplaying the, like, self love aspect aspect there because that's, like, where I'm that's, like, where what something I just struggle So, like, maybe I'm downplaying it
+
+Speaker 3: But I I see I see, like, the self love versus like, I see this
+
+Speaker 3: playing out more in my life in, like, bigger situations now.
+
+Speaker 3: As opposed to, like, small things.
+
+Speaker 3: I would also say, like, that my natural reaction is to, like, inconvenience myself as much as possible to avoid inconveniencing others.
+
+Speaker 3: And that is just, like, somewhat knack
+
+Speaker 3: natural, and I don't know how to break that
+
+Speaker 3: Like,
+
+Speaker 3: I don't I don't necessarily know how to break that in even, like, small ways.
+
+Speaker 3: All the time.
+
+Speaker 3: Again, I've got a little bit better. Right? I used to wake up and I used to check all of my messages, and I used to respond to every single one of them, like, a soon as I wake up, like, at 04:30 or five in the morning.
+
+Speaker 3: I've now
+
+Speaker 3: moved a little bit, and I prioritize, like,
+
+Speaker 3: I'll check my messages. And if there's any that I, like, I absolutely need to respond to at that point in time, I will. Then the rest, I'll leave until, like, I've at least, like, made it to the gym or I'm doing something. Like, I
+
+Speaker 3: a little bit later into my day. So I'm getting better, but I I continue to, like,
+
+Speaker 3: choose to inconvenience myself versus inconveniencing others in, like, small things.
+
+Speaker 2: Mhmm. Mhmm.
+
+Speaker 1: There are always a couple of ways, how you can look at this. One other way is to
+
+Speaker 1: be honest with yourself
+
+Speaker 1: what is it
+
+Speaker 1: you avoiding?
+
+Speaker 1: By allowing this behavior?
+
+Speaker 1: Another one is what is it you really need
+
+Speaker 1: but you keep choosing something else.
+
+Speaker 1: Because you're avoiding something.
+
+Speaker 3: I think it's I think it's more the first one. Yeah. It's more like what am I avoiding Right? Like, I probably most of these cases, like,
+
+Speaker 3: I could just say, like, hey. That doesn't work. Like, that doesn't work for me or, like, can I can we do this instead?
+
+Speaker 3: And, like, the other person will be totally fine.
+
+Speaker 3: But for me, it's I I think it's more of just, like,
+
+Speaker 3: I don't wanna disappoint people. I don't wanna, like, you know,
+
+Speaker 3: wanna make things easy for other people. I yeah. I it's probably more mostly about, like, disappointing them or making them think less of me.
+
+Speaker 3: And so I just, like, go out of my way and, like you know,
+
+Speaker 3: to some degree, I think it's, like, a decent strategy actually because people tend to think highly of me
+
+Speaker 3: for, like,
+
+Speaker 3: know, when I hop on a call at seven in the morning. Right? They're like, wow. Seven in the morning. Like, and I'm like, whatever. It's totally fine. Yeah. It sucks.
+
+Speaker 3: Like, you know, I'm sure you don't like
+
+Speaker 3: working, like, late at nights and or, like, you know, completely disrupting your routine either.
+
+Speaker 3: Nobody does, really.
+
+Speaker 3: So, yeah, I I don't necessarily set boundaries very well.
+
+Speaker 3: But I think that served me
+
+Speaker 3: pretty pretty well.
+
+Speaker 3: Like, as a whole.
+
+Speaker 3: I'm so I'm rambling at this point.
+
+Speaker 1: You know, there is a
+
+Speaker 1: interesting
+
+Speaker 1: theory that I learned recently.
+
+Speaker 1: It's from Joe Dispenza.
+
+Speaker 3: Like,
+
+Speaker 1: don't judge me if you're not into some famous guys, that speak a lot about psychology and different stuff. Have you heard about Joe Dispenza, and what is he's doing? He's more into spirituality, but scientifically based. Spirituality. And he's suggesting, like, a meditation method that is helpful to rewire your brain. That's, like, in short about his full work. But the the piece of theory that I really like
+
+Speaker 1: he is talking about the gap
+
+Speaker 1: of personality.
+
+Speaker 1: So he's showing it as two hands, When the hand
+
+Speaker 1: above is
+
+Speaker 1: the image that we translate to other people.
+
+Speaker 1: This is who we want to be when you have someone in front of us. This is usually about, like, I don't want to disappoint other people. I want to look professional. I would damn think good about me and all this stuff. Basically, like, who you want to be for others.
+
+Speaker 1: Versus the hand below, it's
+
+Speaker 1: who are who you really are. Like, your true personality.
+
+Speaker 1: The way you would love to behave, the way you would love to feel yourself, which is even more important,
+
+Speaker 1: nobody is watching.
+
+Speaker 1: So the gap is exactly in between that is full of different fears and negative emotions. Like fears of being ashamed, fears of disappoint other people, and and so on. Like, the list can be long, and the longer the list, the bigger the gap.
+
+Speaker 1: And the idea is that when we work on rewiring our brain, we make the gap smaller
+
+Speaker 1: until the point when there is no gap.
+
+Speaker 1: And it's still, like, two side coin because, like, let's be honest, We we are never hungry Yeah. Yourself with other people. But at least
+
+Speaker 1: like, you
+
+Speaker 1: you have ability to be yourself at the surgeon like, at the bigger extent. That you do need to have this gap of the negative emotions and expectations in between.
+
+Speaker 3: Yeah. I mean, I think I'm moving closer to, like, closing the gap, definitely.
+
+Speaker 3: But,
+
+Speaker 3: yeah,
+
+Speaker 3: I'm not totally sure.
+
+Speaker 3: I'm probably not even aware of, like, how big the gap
+
+Speaker 3: is, to be totally honest, at all times.
+
+Speaker 3: So it feels like a it feels like a little theoretical.
+
+Speaker 3: Which it is. Like, I I so,
+
+Speaker 3: I understand what you're saying, and I I like the analogy, and I like what he's I like the the point. I just don't know what to do about it.
+
+Speaker 3: Like,
+
+Speaker 3: I don't know how to, like,
+
+Speaker 3: close that gap, like,
+
+Speaker 3: other than
+
+Speaker 3: to say that, yeah, it seems like a good thing that it to, like, close the gap. And I I I feel like I have closed the gap a little bit in, like, the past few years.
+
+Speaker 1: Yeah. I would start with as you mentioned, like, understanding this gap, understanding even though it still sounds a little bit more theoretical it could be more, again, about reflection. But that's always the starting point. Like, if you understand what's going on, what needs to be fixed, that's when the how comes naturally.
+
+Speaker 1: The reason we keep asking ourself, like,
+
+Speaker 1: how do I do this is because you still don't we still don't understand what needs
+
+Speaker 1: what really needs to be fixed.
+
+Speaker 3: Yeah. I was just gonna say, like, I'm still not I'm not even totally convinced that I do need to fix something, like, at this very
+
+Speaker 3: this very moment about this.
+
+Speaker 3: I'm still not totally convinced.
+
+Speaker 1: So this might look a little bit like self assessment again, but you can think of this gap in the way like
+
+Speaker 1: how
+
+Speaker 1: would you really like to feel or what what is needed to be adjusted
+
+Speaker 1: especially when it comes to your
+
+Speaker 1: relation with other people. If it's like work setting when it's a meeting and you need to keep the boundaries or when you need to take care of your needs first, before you confirm any Like, any small things, like you mentioned, like,
+
+Speaker 1: keeping boundary
+
+Speaker 1: and if you have a chance to move the meeting like, if you have a chance to have a final word for the time, think of yourself first, not to put the meeting at seven. Like, that's an excellent example.
+
+Speaker 1: And, like, thinking more of such examples, and writing down of, like, what is that needs to be changed.
+
+Speaker 3: Yeah. The the
+
+Speaker 3: I find myself wondering, like,
+
+Speaker 3: whether I need to change or whether I really just wish other people were, like, more, like, hey.
+
+Speaker 3: Like, I almost I almost wish, like, that more people just, like,
+
+Speaker 3: or
+
+Speaker 3: more flick like,
+
+Speaker 3: what?
+
+Speaker 3: Less selfish?
+
+Speaker 3: I don't know.
+
+Speaker 3: Yeah. But maybe that's externalizing too much.
+
+Speaker 1: Can you do medicine about it?
+
+Speaker 3: Yeah. Definitely not. That's for sure. Yeah. So
+
+Speaker 1: but then
+
+Speaker 3: that's what I want right? Like, if and if if that is actually what I want, which is a big assumption. I don't know that for sure.
+
+Speaker 3: Then
+
+Speaker 3: should I really change anything about me, or should I, like,
+
+Speaker 3: continue to to, like without saying anything, could I get should I continue to, like, try to be the role model or more negatively, like, a martyr
+
+Speaker 3: for, like, what I think is the right way of, like, being.
+
+Speaker 3: Or should I be more like everyone else?
+
+Speaker 3: And I I
+
+Speaker 3: actually, like, I mean,
+
+Speaker 3: the answer seems obvious when I put it that way.
+
+Speaker 3: To be totally honest, like, in my mind, it's not
+
+Speaker 3: super obvious. Like, I don't really know how I feel about that.
+
+Speaker 3: So yeah. I mean, I I there are a bunch of, like, little
+
+Speaker 3: scenarios. Maybe I should just, like, start tracking some of them like, little option like, little things that I could do to be, like, more
+
+Speaker 3: showcase more self love.
+
+Speaker 3: Maybe that'll just, like,
+
+Speaker 3: help me feel a little bit better about the whole thing.
+
+Speaker 3: And steer me in the right direction. But I'm I'm still not totally certain that I wanna make, like, any big changes to
+
+Speaker 3: how I think or how I treat myself.
+
+Speaker 3: That's If that makes sense. But, you know, very
+
+Speaker 1: you were talking before about the risk to for example, to chase your
+
+Speaker 1: own goal to become cofounder of the company, and quit the current job and and so on. So there is a risk here. It's obvious you're able to notice it. The truth is that any
+
+Speaker 1: personality changes, like, like, personal growth, as it change.
+
+Speaker 1: It also has risk.
+
+Speaker 1: And the risk, first of all,
+
+Speaker 1: for not being accepted by other people. Because they used to see your in search role, they used to see your
+
+Speaker 1: as a role model with a specific characteristics.
+
+Speaker 1: You change this.
+
+Speaker 1: That can be painful.
+
+Speaker 3: Yeah.
+
+Speaker 3: And I don't know how to think I don't know how to think about that.
+
+Speaker 3: Like, I don't know how to evaluate the pain there.
+
+Speaker 3: Because I do very much worry, like, what other people think about me.
+
+Speaker 3: Specifically to the people that I care about. I
+
+Speaker 3: definitely worry what they think about me.
+
+Speaker 3: And then I probably do worry too much about what even people that I don't really care about think about me.
+
+Speaker 3: And even with even when I say that, right, like,
+
+Speaker 3: I I struggle to think that that's, like, necessarily a bad thing.
+
+Speaker 3: Like, I don't know that that's necessarily, like, a bad thing.
+
+Speaker 3: Because the pot the the benefits of being, like of trying to
+
+Speaker 3: trying to
+
+Speaker 3: like,
+
+Speaker 3: show myself well to everyone
+
+Speaker 3: like,
+
+Speaker 3: that is partially an impossible task, definitely.
+
+Speaker 3: But
+
+Speaker 3: there are obvious benefits to that as well.
+
+Speaker 3: So I don't
+
+Speaker 3: I don't yeah. I I still don't really know what to do with this type of situation.
+
+Speaker 1: Let's start from your idea to track little acts of self love.
+
+Speaker 3: Yeah.
+
+Speaker 1: Or to make it happen for yourself or just notice if they are happening.
+
+Speaker 1: And,
+
+Speaker 1: we we can still continue this topic later because, obviously, it's ongoing work and there are still a lot of questions. Yeah. What I wanted to show you is your employee profile in progress. So I'm going to experiment with, couple of
+
+Speaker 1: options for that. So it might be over time even more, profiles than one, but let's start with this one. So so far in sprint one, we discussed discussed your motivation. I added here also the leadership piece since you worked on this before and you actually, like, described your style. And then say skills, that's something that we also previously worked, not a part of this sprint. But, anyways, a superpower
+
+Speaker 1: key features, gaps, bugs. From your s guest feedback.
+
+Speaker 1: What do you think of these learnings? So far?
+
+Speaker 1: When you have it saved like this.
+
+Speaker 1: Call this information about yourself.
+
+Speaker 3: It's pretty cool, actually.
+
+Speaker 3: I'm looking less at the skills because
+
+Speaker 3: I'm I'm trying to think about, like, how much of this I could have said myself.
+
+Speaker 2: Like,
+
+Speaker 3: like,
+
+Speaker 3: without any of this.
+
+Speaker 3: Versus
+
+Speaker 3: what I would have
+
+Speaker 3: like, versus what of this is, like, would have been impossible for me to come up with.
+
+Speaker 3: The soft and hard skills, like, I probably could have come up with some of those
+
+Speaker 3: that superpower, I definitely would never have come up with myself if you learned, last week. Uh-huh. The key features I really probably would not have had any way of thinking about
+
+Speaker 3: without collecting the SKS feedback and going through this exercise with you.
+
+Speaker 3: And then, yeah, the growth areas too, probably. I still fucking I hate the fact. I wish I had more I wish I had, like,
+
+Speaker 3: more obvious bugs from my feedback.
+
+Speaker 3: Like, I wish there were more there's more obvious stuff there.
+
+Speaker 3: Just because that that's only me expressing a desire for something to be easier.
+
+Speaker 3: That's purely what that is. But, yeah, so I I think this is really cool, actually. Like, it's cool to see this for myself.
+
+Speaker 3: I think, you know,
+
+Speaker 1: I
+
+Speaker 3: yeah. I actually wonder
+
+Speaker 3: I'm just trying to think about all the people that I could show this to and, like,
+
+Speaker 3: what would be the value of, like, showing it to them
+
+Speaker 3: Some of them would probably give me feedback on it.
+
+Speaker 3: Some of them maybe, like,
+
+Speaker 3: thoughtful enough to think about how this impacts, like, how they work with me. Like, how they
+
+Speaker 2: view me
+
+Speaker 3: Yeah. So I think that's one that's one thing that I like,
+
+Speaker 3: I would wanna spend more time thinking about, knowing that we're already out of time. It's like,
+
+Speaker 3: how do I use this to my benefit and how do I use this to the benefit of others?
+
+Speaker 3: Mhmm.
+
+Speaker 3: Like, I think it will be easy for people to, like I think people will
+
+Speaker 3: easily give me feedback on even this. Right? Like,
+
+Speaker 3: but then how do I use this to, like, translate into something that
+
+Speaker 3: is, like,
+
+Speaker 3: somebody could use to, like, better you know, I guess, better work with me.
+
+Speaker 1: Yeah. All good questions, and that's why we're also testing it. And, obviously, this is work in progress. So while we're we'll be moving through
+
+Speaker 1: more sessions, I will be adding more blocks here of topics that we will discuss. So the idea is that after three sprints, you have the whole profile ready.
+
+Speaker 1: And, meanwhile, like, you already start working on some of the bugs and gaps for example.
+
+Speaker 3: Yeah.
+
+Speaker 1: Okay. Great.
+
+Speaker 1: Do you have two more minutes?
+
+Speaker 3: Yep.
+
+Speaker 3: Let me just,
+
+Speaker 3: let me just send a message to staff. One second.
+
+Speaker 3: Keep you can, keep
+
+Speaker 3: please keep talking. I'm just gonna type this message here in the background.
+
+Speaker 1: Yeah. I wanted to ask you the question. Okay. Sorry.
+
+Speaker 3: Okay. I'm back.
+
+Speaker 1: The idea for the whole programming was that in sprint one, after working through this session models, you will be able to answer this question.
+
+Speaker 3: Or at least Do I push myself to evaluator or yep.
+
+Speaker 1: By understanding your motivation, skills, blind spots, and so on.
+
+Speaker 1: What do you think?
+
+Speaker 1: Was it helpful?
+
+Speaker 1: Are you able to
+
+Speaker 1: say why you're available at work?
+
+Speaker 3: Yes. It was helpful.
+
+Speaker 3: Because I did get,
+
+Speaker 3: a lot of positive feedback about things that people find valuable from working for me. So I understand where people are, like, perceiving value from working with me.
+
+Speaker 3: I didn't
+
+Speaker 3: get a whole lot of feedback around,
+
+Speaker 3: like, areas where I could increase, like,
+
+Speaker 3: my value from working with other people.
+
+Speaker 2: So that's
+
+Speaker 3: one thing. I mean, I I did I did get some feedback there, but it's not always, like, it's not
+
+Speaker 3: it's some of it's like I'm doing things intentionally the opposite of what other people are are saying.
+
+Speaker 3: Like, speaking more. Right? Like, I'm intentionally not
+
+Speaker 3: doing that.
+
+Speaker 3: So that's that's one thing is, like,
+
+Speaker 3: I got some feedback. I got because my feedback was mostly positive, I got feedback around what people are already finding valuable from working for me. I don't really have any new ideas I don't have any things that I think I, like, need to dramatically improve or change or start doing, like, totally from scratch.
+
+Speaker 3: Other thing that's obvious here is that, you know,
+
+Speaker 3: probably the most important voice in my mind answer that question would have been Jeremy's, and so not having his feedback
+
+Speaker 2: really negatively
+
+Speaker 3: impacted my ability to answer that question, which, again, you know, I'm
+
+Speaker 3: planning on addressing that with him when the time is right. Mhmm.
+
+Speaker 3: But even without his feedback, it is very good to know
+
+Speaker 3: like, what people do find valuable about working with me. Like, Neil and Casey's feedback in particular, I think, is, like,
+
+Speaker 3: actually quite valuable there because,
+
+Speaker 3: yeah, it actually I mean, it supports a lot of the stuff that I've been doing, intentionally.
+
+Speaker 3: To see that they are, like, recognizing it
+
+Speaker 3: I guess.
+
+Speaker 1: Mhmm.
+
+Speaker 1: Great. In terms of moving on and action steps, specifically from b to b work related stuff, What do you see as the next action point?
+
+Speaker 1: Action steps.
+
+Speaker 3: On my side?
+
+Speaker 3: Mhmm.
+
+Speaker 3: I really just wanna get I wanna get feedback from Jeremy. Like, that's, like, one of the most important things for me. Whether I get it in writing or I just get it verbally, I don't really care at this point. Like, I think that's probably the most important thing
+
+Speaker 1: Mhmm.
+
+Speaker 3: And then the other thing is, like,
+
+Speaker 3: Given the feedback that I did receive,
+
+Speaker 3: the other thing that I think would be an important next step is figuring out how to to play that up more.
+
+Speaker 2: Like,
+
+Speaker 3: okay. I a lot of people told me to to keep doing things or
+
+Speaker 3: like, a lot of positive feedback. So how do I how do I make sure that I continue to do all of those things and maybe even upgrade some of them?
+
+Speaker 3: Mhmm.
+
+Speaker 3: And I I say that in the absence of having, like, any any glaring gaps or bugs that I think I need to, like, squash, like, immediately.
+
+Speaker 3: Like, I
+
+Speaker 3: again,
+
+Speaker 3: please feel free to disagree.
+
+Speaker 3: I don't see anything
+
+Speaker 3: that is, like, jumping out at me. Like, I have to I need to focus on that right now.
+
+Speaker 3: So in the absence of those things, I feel like I have to just, like,
+
+Speaker 3: figure out how to maintain and then upgrade any of the things that people like, enjoy about working with me.
+
+Speaker 3: Mhmm.
+
+Speaker 1: Okay. That sounds good. And I think also the part of it, like acting on feedback is,
+
+Speaker 1: this, this about delegating.
+
+Speaker 1: You mentioned before, but more, like, calling people accountable. Yeah.
+
+Speaker 2: For rating.
+
+Speaker 3: Peace.
+
+Speaker 3: That's true. Yeah. That is that is something
+
+Speaker 3: that is definitely holding people accountable is definitely something I need to improve. That is a that is an actual bug.
+
+Speaker 1: Okay.
+
+Speaker 3: How do I work on that? I'm not totally sure.
+
+Speaker 1: Okay. That's fine. We we will get back to it then later.
+
+Speaker 3: Okay.
+
+Speaker 1: And these small acts of self love.
+
+Speaker 1: Yeah. We discussed today.
+
+Speaker 1: Okay.
+
+Speaker 3: Great.
+
+Speaker 1: Thank you for today. I'm sorry for the technical issues today.
+
+Speaker 1: Don't worry about it. Please set up your sprint.
+
+Speaker 3: I will do that.
+
+Speaker 1: And then
+
+Speaker 1: next week, are we going to have session, or do you prefer to skip? Week with cause of trauma?
+
+Speaker 3: Are you at all flexible next week?
+
+Speaker 1: I am.
+
+Speaker 3: Okay. When are which days are you flexible?
+
+Speaker 1: Wednesday is still pretty open. You will be in Europe. Right?
+
+Speaker 3: I'll be in Europe.
+
+Speaker 1: Wednesday, Thursday, Tuesday as well. Especially
+
+Speaker 1: after company meeting.
+
+Speaker 3: Okay. Tuesday, we're flying.
+
+Speaker 3: But I don't exactly know what time. Okay. Let me just can I just message you on Tuesday and Wednesday and, like,
+
+Speaker 3: I I will have let me add task? Message Marina.
+
+Speaker 3: About coaching session.
+
+Speaker 1: Yeah. And, if you're gonna be in European time zone on Wednesday, then
+
+Speaker 1: Thursday, I can do it, like, eleven or twelve, Eleven, twelve, or one.
+
+Speaker 1: German time is it gonna be?
+
+Speaker 3: Yeah. That'll be I'll be in Iceland. I don't even know.
+
+Speaker 1: On you will be actually in my time zone, I think.
+
+Speaker 3: Four hours ahead. Yeah. Is it 05:09 right now for you? Or yeah. Is it
+
+Speaker 1: It's not 05:09. So Iceland is still on the
+
+Speaker 3: Yeah.
+
+Speaker 1: Okay. One hour. Okay. I got it. It's a mess these times. And, anyways, I'm available around this time, like, midday. And Friday,
+
+Speaker 1: first half of the day and yeah. Friday is also pretty open.
+
+Speaker 1: Okay. I'll just I would bet on Wednesday or Friday.
+
+Speaker 3: Wednesday or Friday. Okay. Then those will be the two days that I will message you.
+
+Speaker 1: Mhmm. Mhmm.
+
+Speaker 3: And I will see.
+
+Speaker 3: Okay.
+
+Speaker 3: I think I will be able to make one of at least one of those two days work. I'm just not totally sure yet.
+
+Speaker 1: Okay. Okay.
+
+Speaker 2: Great.
+
+Speaker 3: Let's keep in touch then. Cool. Thank you, Marina. Thank you. Bye. See you. Bye.

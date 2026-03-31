@@ -1,0 +1,501 @@
+Speaker 1: What's new?
+Speaker 1: Yeah. Not a whole lot new, to be honest. Just kinda more of the same.
+Speaker 1: I think.
+Speaker 2: Are you traveling this week?
+Speaker 1: No. I'm stationary this week. Thank god. Okay.
+Speaker 2: Okay.
+Speaker 2: So you have a chance to stay, to stick to your routines, and and
+Speaker 1: I remember that. Yeah. Exactly.
+Speaker 2: Okay. Very nice. I saw that you started new sprint already. Yes.
+Speaker 2: Shall we discuss your new sprint, or do you have another topic for today?
+Speaker 1: No. I don't think I have any other topics. Mhmm. Okay. So
+Speaker 2: So as we discussed last time, you are repeating everything we're doing.
+Speaker 1: Mhmm.
+Speaker 2: You want to get back on track with all the food and exercising.
+Speaker 2: And I think the only one new thing is,
+Speaker 2: Yes.
+Speaker 1: Learning.
+Speaker 2: So tell me more about how do you see yourself
+Speaker 2: learning Russian language four times per week.
+Speaker 1: Yeah. I think I just I I haven't even been able to test Pindellir yet, to be honest. So I've been feeling a little sick.
+Speaker 1: Like, the past, I don't know, four or five days. I feel much better today, actually.
+Speaker 1: But so my energy is just, like, not been very good. So
+Speaker 1: I was hoping that I would, like, be able to come home
+Speaker 1: one night and just, like, take a very casual look and, like, see what see what it even is as, like, an experience. And then I could
+Speaker 1: I could understand, like, what kind of time commitment I could put into it. So
+Speaker 1: the four times per week is, like, just something random that I have in my head right now.
+Speaker 1: Mhmm. I need to actually, like, test it. But
+Speaker 1: I
+Speaker 1: I'm hoping
+Speaker 1: I can do, like,
+Speaker 1: you know, like, maybe four, like, thirty minute sessions per week or something like that where it's, like, a little bit more broken down than
+Speaker 1: than coding, where I don't have to, like, quite sit there and focus for, like, maybe an hour which is typically that's, like, the minimum time that I try to spend coding at any one time is, I we'll spend, like, an hour to really, like, get focused on it.
+Speaker 1: I think this could be something, like, could be slightly smaller time chunks.
+Speaker 1: Mhmm.
+Speaker 1: That's what I'm hoping for, at least.
+Speaker 1: Mhmm. And I I I'll have to see too. I mean, I know some people, like,
+Speaker 1: try learning a new language while they're driving or something like that. I I kinda get the sense that that is, like,
+Speaker 1: won't really work in terms of, like, the learning experience.
+Speaker 1: But I just need to, like, actually get into Pimsleur and c, which I think I should have some time today, actually, to deal
+Speaker 1: Mhmm.
+Speaker 2: Okay. So you don't know yet even the interface or what it's like? Okay. No. No. Okay. Then, of course, it makes sense to see first and then plan accordingly. Because Yeah. Imagining if it's something like Duolingo,
+Speaker 2: then even thirty minutes might be
+Speaker 2: too much, to be honest. Because if it's, like, test you know, when you just click the right answer,
+Speaker 1: I hope that's what it isn't. Like, I hope that's not what it is, to be honest. Like, when I did my research, I was, like,
+Speaker 1: confer something that was, like, more of an actual, like, platform like, learning a new language as opposed to, like, an app
+Speaker 1: Okay.
+Speaker 1: So I hope there I hope it's a little bit more course based. And if it's not, then I'll just cancel and I'll find a new one.
+Speaker 1: Because that's that's not what I'm looking for. Like, I definitely don't wanna I mean, having some duo, like, Duolingo like experience
+Speaker 1: like, as a part of it could could be cool, but I don't want that to be, like, the main way I I try to learn a new language. Mhmm. Mhmm.
+Speaker 2: Yep. Okay. Great. And, in terms of your
+Speaker 2: I would call it, mental capacity. I know that right now you feel like you have lower energy, but, like, let's imagine you're back to normal level when you're not sick. How do you see yourself combining
+Speaker 2: the work dynamic
+Speaker 2: learning Python because you still want to keep doing it, and learning a new language.
+Speaker 1: I think it's I think it should be okay, actually. Like, I I remember
+Speaker 1: there was one weekend. I it might have even been the the weekend before I left that for this most recent trip where
+Speaker 1: I did
+Speaker 1: Python both day like, both weekend days,
+Speaker 1: and felt really good about that.
+Speaker 1: And then I also did yoga, and I even spent I had other time that I was, like, I I could imagine
+Speaker 1: myself, like, doing something more with this time, like, doing something else. So I think I actually think adding something else will add a little bit of variety.
+Speaker 1: Which will be fun.
+Speaker 1: I'll have to see. I mean, if it if it is too much to be trying all those things at once, then
+Speaker 1: have to acknowledge that and figure out
+Speaker 1: maybe I do, like,
+Speaker 1: learning Python one day and I do learning a language another or something like that or
+Speaker 1: that's why I'm kind of hoping too that I can break down learning a new language into, like, slightly smaller chunks
+Speaker 1: so that I don't just have to rely on, like, weekends to do that.
+Speaker 1: Because there are often like, there are quite a few nights, when I get home where I do have, like,
+Speaker 1: you know,
+Speaker 1: fifteen, thirty minutes of of time where I think I could, like,
+Speaker 1: you know,
+Speaker 1: do something a little bit more mentally taxing. Mhmm.
+Speaker 1: Often, what I'll do is, like, you know, maybe read some emails that aren't, like,
+Speaker 1: urgent or
+Speaker 1: you
+Speaker 1: catch up on news or something like that. So I think I I I don't feel it doesn't feel too scary
+Speaker 1: to me.
+Speaker 1: That makes sense.
+Speaker 2: Okay. Okay. Great. What I like about your current,
+Speaker 2: list of activities. Let's go I I'm struggling today with naming things, what they are. What I like about your list of activities is that you actually have a lot of physical exercises in there almost every day. Gym, cardio, some core workouts, yoga that you're doing on the weekend. So
+Speaker 2: I feel like it can balance very well. Your, mental part.
+Speaker 2: Because in at work, you mostly work with your head. Well, not mostly. Like, all the time. Right? All the time. Yeah. And the same with all the learning activities. So
+Speaker 2: sports, it's a great way, to ground yourself and to switch focus. So then your mental part is resting while physical is working and vice versa.
+Speaker 1: Yeah. I toe I totally agree. Yeah. I I totally agree. Plus, I mean, I when I, like, when I when I managed to frame my thinking around, like, learning Python the right way, which I've been doing the past few times, I do find it very enjoyable. And I think I think it'll be the same for,
+Speaker 1: learning a new language.
+Speaker 1: Yeah.
+Speaker 1: I am I mean, I I am a little worried about, like, my energy levels just, like, in general.
+Speaker 1: I think most of the reason why I have felt like
+Speaker 1: kinda, like, not very good for the past, like, few days is because I was sick.
+Speaker 1: And,
+Speaker 1: again, I can see that I can see that in, like, in my, ring in my sleep tracking.
+Speaker 1: I can see that something is, like, not was not right.
+Speaker 1: So there are reasons that explain it, but I also the one the thing that I do worry about in my current routine is that I spend a lot of time
+Speaker 1: physical with physical exercise.
+Speaker 1: And I do worry that it's, like,
+Speaker 1: too much
+Speaker 1: in terms of, like, just, like, it's too much of a drain on my energy.
+Speaker 1: So I don't
+Speaker 1: I don't think that's necessarily the case.
+Speaker 1: But it's something that, I am, like,
+Speaker 1: I'm starting to think about a little bit.
+Speaker 1: Is, like,
+Speaker 1: you know, whether or not that's, like,
+Speaker 1: whether I'm spending too much of my energy on physical exercise as opposed to other things. And I don't
+Speaker 1: I don't think
+Speaker 1: that
+Speaker 1: the answer is yes, but it's just something I'm, like, thinking about
+Speaker 1: more, I would say.
+Speaker 1: Mhmm. Mhmm.
+Speaker 2: What do you think is,
+Speaker 2: your current need that you need to take care of? Like, is it more for some kind of rest?
+Speaker 2: Micro recharge,
+Speaker 2: or
+Speaker 2: like, something else.
+Speaker 1: Yeah. I think it's, like,
+Speaker 1: yeah.
+Speaker 1: What you just said.
+Speaker 2: I
+Speaker 2: I have one thing to show you. Give me one second to pull it out of my drive. So there is a new tool that I'm working on. Like I session model
+Speaker 2: And, it's related to enjoyment activities, but enjoyment is just the way to talk about it because the truth is that it's not exactly about enjoyment that we used to think of what this word means.
+Speaker 2: So there will be an exercise called enjoyment layer cake. So a little reframe here is that research shows that enjoyment is not about pleasure and fun, not only about this component, but it's about doing something meaningful, boost your skills, feel the growth, and altogether, like, the combination of all these components create long lasting joy. Long lasting satisfaction, or fulfillment. And that's what we want to reach, somewhere
+Speaker 2: like, when you like, working, working, working, and then you put your head up and always like, how do you feel? How do I feel? And that's what you wanna to feel, like fulfillment that everything you're doing brings you this deep satisfaction. So one of the way to explore this is through building this cake. That consists of three layers of enjoyment. So the first layer, it's micro enjoyments that take up to ten minutes to do. And the main needs that they help to cover, it's micro recharge, rest, pleasure, and fun.
+Speaker 2: So I think the most popular example is just drinking coffee if you're a coffee lover when you really like having this moment in the morning or, like, you start the day off the cup of coffee or you go to the coffee, like, your favorite coffee shop and you do this little ritual. It's also related a lot to food that you like to eat when you when it really brings you pleasure and you're able, like, to stop for a moment to savor this. Moment. It also can be about different sensory activities, like any type of small, for example, breathing exercise or like, feeling the air or sun on your face. Or, like, anything that brings sense sensations to your body. That's also a good way to good good example of microenjoyments activities.
+Speaker 2: Then the second layer, it's engagement enjoyment. It can take up to two hours and it's mostly related to some type of focus time. For activities that you really like doing. And by like doing, this is when we're talking about some kind of passion projects. So doesn't matter if it's work or nonwork related things, but if after focusing on it, for one, two hours, you are able to feel accomplishment. You are able to reach the state of flow when you're creating something. Or you have a
+Speaker 2: like, a sense of meaning that what just happened, like, the way you just spend time, it's a meaningful way to spend time for you. That's when it means that you,
+Speaker 2: you're engaged with what you're doing for a couple of hours. So in this case, it can be, like, a good quality conversation with your friend or with your parents, for example. Or it can be, like, focused time, at some project at work that, you like. Or, like, practicing any new hobby, like, just doing something for one, two hours. And then,
+Speaker 2: the third layer
+Speaker 2: it's meaningful enjoyment.
+Speaker 2: That is basically the extension of the focus activities, but when you turn them into long term projects. Example, let's imagine that,
+Speaker 2: exercising is your passion. Like, you're doing it not for, like, good looking or health, but you actually like, exercising and you enjoy this. So
+Speaker 2: every single training that takes one hour this is your engagement during the week.
+Speaker 2: But then when you decided, okay. For the next three months, I want to prepare for some kind of competition, and I'm gonna train for this specifically. That's when it turns into a long lasting enjoyment because most probably when you complete that project, you will have even a deeper, level of satisfaction. And enjoyment versus doing this activity just as your weekly routine. Routine. So turning our enjoyments into long term projects that would brings even more meaning, lasting joy, sense of growth, and, all these cool things.
+Speaker 2: So the idea to use this tool
+Speaker 2: is to understand which layer is not covered.
+Speaker 2: Like, ideally, we all should have ideas for all three layers. And pull these activities intentionally, like, to create time, to create space, to do these activities.
+Speaker 2: In case we feel a need for growth.
+Speaker 2: In case we feel a need for momentary accomplishment, or we just feel a need for fun, pleasure, or some micro rest. Because all these needs are important. You don't need just to grow. Sometimes you need really just to disconnect and relax.
+Speaker 2: So
+Speaker 2: when do you think or where,
+Speaker 2: something is not covered for you.
+Speaker 1: Probably in this micro enjoyments
+Speaker 1: piece is where I see, like, the most glaring
+Speaker 1: like,
+Speaker 1: absences.
+Speaker 1: Mean,
+Speaker 1: when the weather was, like, a little bit nicer and not freezing cold and
+Speaker 1: in Manhassure, at least, I would definitely, like,
+Speaker 1: particularly in after longer chunks of meetings, I try to step outside and just take a quick, like, take a quick walk.
+Speaker 1: I've kind of lost that,
+Speaker 1: at least this week and, even last week just because of the weather makes me, like, not wanna do that. Although, maybe I should just, like, get back into it anyways.
+Speaker 1: I would say that most of these other ones, though, that I've never
+Speaker 1: I've never even really thought of or tried.
+Speaker 1: So, yeah, I I think for me, it's these, like, micro enjoyments or just, like,
+Speaker 1: things that I could use to
+Speaker 1: like, reset my brain almost a little bit.
+Speaker 1: Mhmm. Mhmm.
+Speaker 1: Yep.
+Speaker 2: From this list of examples, is there anything that you like and you're you're curious to try?
+Speaker 1: I mean, I can't I I don't like I don't drink coffee, so I can't really do that. The breathing stuff, I don't know about. Like, I don't I just don't know.
+Speaker 1: I wish I could, like I really did like taking a laugh and just, like, going for a quick walk. When it's not too cold, I can probably continue to do that.
+Speaker 1: Listening to a favorite song, I don't fully think that'll help.
+Speaker 1: Like, I just I don't think that'll, like, be quite the snap
+Speaker 1: like, in into one of these things that it it
+Speaker 1: is for
+Speaker 1: some people?
+Speaker 1: Adding a scented candle, I could do that at home. I mean, I I like candles all the time. So yeah, I don't know. It I think it's a little bit more, The only one that's standing out to me is, like, going going for, like, a quick walk. Get like, getting outside of the, like, the the office getting away from my computer screen and going for a quick walk. That's really the only one that's standing out to me. Mhmm.
+Speaker 2: Okay. I understand that with the colder weather, it might be not
+Speaker 2: that enjoyable. But
+Speaker 2: one of the aspect of enjoyment here, it's not just what you think about it and in the moment, but also the way how it
+Speaker 2: impacts your body in the way that, for example,
+Speaker 2: breathe in fresh air or
+Speaker 2: getting into movement.
+Speaker 2: Like, all these change our body on biochemical level.
+Speaker 2: Mhmm. Right? Like, versus when you just sit in the office at the computer,
+Speaker 2: let's say nothing is moving in your body or like, the cortisol level might growing because you're constantly feel some challenge, some pressure at work, like tackling some things. Versus when you move your body just a little bit, That's where you start different hormones coming in.
+Speaker 2: So you might not feel it in the moment of the walk. But, like, after it actually
+Speaker 2: might have a positive effect on your body. Positive impact.
+Speaker 1: Yeah. Definitely.
+Speaker 1: I definitely agree with that.
+Speaker 1: Yeah.
+Speaker 2: There are, like, many ways how you can do it. You can,
+Speaker 1: but
+Speaker 2: you go into the gym every morning. Right?
+Speaker 2: So you're getting out yourself. Mhmm.
+Speaker 2: Out of the house.
+Speaker 2: You're driving to the gym.
+Speaker 1: Right? No. It's like a seven minute walk or something like that. So you're actually doing it every morning. Yeah. That's true. And I, like, I do enjoy those little walks, but, like, it's it's I I tend tend to, like if I if that's all, I mean, it's good. Don't get me wrong. And they do help me, like, reset before and after the gym. Although, they're not always super pleasant when it's, like, dark and, like, zero degrees outside.
+Speaker 1: Or colder than that even recently.
+Speaker 1: It's more during the day and at night. Like, what are the things that I could do
+Speaker 1: then that would help with this? Mhmm. I would still
+Speaker 2: encourage you, like, considering that
+Speaker 2: you starting the day with a walk outside,
+Speaker 2: From scientific point of view, that's extremely healthy. It's like a if you take this experiment, like,
+Speaker 2: I want to leave my idea live based on the best research in the world. That would be the, one of the points there. Like, first thing, in the morning, get yourself out to like, to start day with a walk and breathe in fresh air. Ideally, also having some sun on your skin, but that another another level. So, what you can do
+Speaker 2: you can
+Speaker 2: try to turn this work into a mindful work. When you pay attention, I think it it can relate a little bit to this. Mhmm.
+Speaker 2: When you I understand it's dark, but still, if you start paying attention, you might see the different things that you usually don't notice when you just think of Yes. I need to reach the team.
+Speaker 2: And it's cold outside.
+Speaker 1: Right? No. I've I've definitely done that sometimes. Like, I and I it's noticeable when it happens because it is, like, I like there are times when I just take a second to, like,
+Speaker 1: really, like,
+Speaker 1: observe where I live.
+Speaker 1: And I do find that to be, like, quite nice.
+Speaker 1: But I yeah. I definitely don't do it all the time. That's for sure.
+Speaker 2: Mhmm. Okay. So sometimes you can even make it more interesting, you can, for example, choose different focus for different day. Like, okay. Today, I'm going to listen to this sounds. And all seven minutes while you're walking, you try to catch different sounds. Even if it will be just the sound of your steps, but because it's repetitive, it puts your brain in some kind of meditative state, which is, again, very good later when you get back to work. That boosts your creativity, then boosts your clarity, your focus, like, any activities that help our brain to get into this lower wave frequency. Later, help you with with all the mental, type of work. Mhmm. Another day, it can be the smell. Another day, it can be the colors outside. Things like this.
+Speaker 1: Just give me one second. Sorry. I have to respond to one thing really quickly.
+Speaker 1: We're doing, Cortical is doing the this, like, meeting in February, and the logistics are, like, absolutely crazy.
+Speaker 1: Okay. Sorry. I'm back. Yeah. I agree. Like, I definitely the only sense that I really pay much attention to, I would say, particularly when I'm walking in the mornings, is sight.
+Speaker 1: I definitely I am actually most of the time, listening to music when I'm walking both to and from the gym.
+Speaker 1: I'm wondering if I should stop doing that so that I can
+Speaker 1: pay attention to other senses as well. I probably will try that tomorrow. Yeah. So I think that's interesting.
+Speaker 2: Okay. Just give it a try.
+Speaker 2: Yeah. And then regarding some kind of Volx later,
+Speaker 2: So
+Speaker 1: yeah.
+Speaker 2: I think that just
+Speaker 2: getting yourself outside to breathe fresh air in the middle of workday can be already good.
+Speaker 2: In case, I don't know, there is not enough time or it's too cold, do you have a chance to go, on some kind of terrace or
+Speaker 2: balcony
+Speaker 1: Not really. It would it's like either step outside for a second or
+Speaker 1: nothing.
+Speaker 2: Or it's always step outside. Yeah. Like, so then again, you change, environment around you, so it gets your body a different boost of hormones and, reset you a little bit to continue the workday.
+Speaker 1: Yeah. And I think that I mean, I just I think I just have to do that I think it's that's just, like, some I not have to. I think that's just something that I, like, should do. Because almost every day, I have, like, at least five minutes that I can use to step outside.
+Speaker 2: Okay.
+Speaker 2: And you mentioned that you like candles. Right? So Yeah. Lighting candle at home, especially in the eve especially in winter.
+Speaker 2: When it's unpleasant outside and dark.
+Speaker 2: This can be a nice reach all for yourself. Just
+Speaker 2: to enjoy moment.
+Speaker 2: Very important thing here And, actually, about
+Speaker 2: all these activities. It's, this savoring piece. Yeah. You know, like, savoring, of course, it's like, easy to understand in terms of food when it's really some, like, taste. But what it means in terms of any activities, it's simply reflection after.
+Speaker 2: Or, like, in the moment or after you did this. Really, just, like, for twenty, thirty seconds trying to understand what just happened.
+Speaker 2: Like, how do you feel
+Speaker 2: seeing this right now or, like, having the this, nice smell right now coming from the candle.
+Speaker 2: Literally, like, freezing time
+Speaker 2: at least for a couple of seconds or minutes. That is the saving part that
+Speaker 2: will bring you enjoyment.
+Speaker 2: Versus when you just do it to check mark that, oh, I have another activity in my list.
+Speaker 1: Mhmm.
+Speaker 1: Yeah. I hear you on that.
+Speaker 1: Okay.
+Speaker 1: Okay.
+Speaker 2: Let's try from this. And then we can always
+Speaker 2: come back to this topic and see if you need to change anything or if you need to add something else to this list.
+Speaker 2: Mhmm.
+Speaker 2: Alright.
+Speaker 1: Good.
+Speaker 1: It makes me wonder if I should, like,
+Speaker 1: try to establish some kind of ritual around learning a new language.
+Speaker 1: Is that all, like if that'll potentially help?
+Speaker 1: So, I mean, it's something for me to think about.
+Speaker 3: Can you say
+Speaker 1: you enjoy learning, languages? Like, it's Yeah. Def definitely. I can say that with confidence. It's more
+Speaker 1: it's more whether I can get myself into the mindset to, like,
+Speaker 1: put everything else aside and just, like, focus on that
+Speaker 1: for some period of time.
+Speaker 1: Like and I I think that was one of the struggles with, like, learning to code.
+Speaker 1: Is, like,
+Speaker 1: you know, because I especially because I'm choosing to do it on the weekends, which is pretty much the only time that I just dedicate to, like, purely relaxing for the most part and, like, resetting my resetting myself.
+Speaker 1: So it's it's for me, it's more a question of, like,
+Speaker 1: if I can create, like, the the right triggers get into that
+Speaker 1: that, like, mode where I can just purely focus on that one thing,
+Speaker 1: then I'm I'm I'm more confident that I will be successful
+Speaker 1: So I'll I'll probably spend some time this week just, like, thinking about that and thinking about whether there are, like, specific times when I wanna try this.
+Speaker 1: I mean, if I just need to get started, like, first for sure, but then
+Speaker 1: do wanna spend a little bit of time just, like, thinking about if I can create some kind of, like, even a very small ritual around it.
+Speaker 2: Regarding this learning activities, I have an idea that it actually can work better if it's a part of a bigger project. Or if it's Yeah. As, like, the the goal, some kind of a goal that you're moving toward. Versus take each interaction as a separate activity.
+Speaker 1: Yeah. I I know we talked about that with coding too. And I it is connected to a bigger goal, but that goal is probably, like, too big as opposed to, like, just, like, a regular project.
+Speaker 1: So what would it be for, like, learning a new language? It's a good question.
+Speaker 1: Maybe there's, like, some famous book or author that I would wanna read and, like, an original language or something like that.
+Speaker 1: Let me think about that.
+Speaker 2: It can be,
+Speaker 2: like,
+Speaker 2: for example, being able starting from smaller goals. Right? Like, milestones, being able to
+Speaker 2: tell about yourself, introduce yourself,
+Speaker 2: in Russian.
+Speaker 2: Or be able to
+Speaker 2: talk to a friend about your self, like, very simple language, but ask someone, do it as some kind of test.
+Speaker 2: That, for example, in three months from now,
+Speaker 2: you want to have this conversation with a friend, and that will be your goal. So you know that you're gonna be learning basics of language. You will try to learn the words that would help you to introduce yourself, describe yourself, and work on your pronunciation. So then in the end, you're able to have this conversation.
+Speaker 1: Yeah. This is cool. I really like this idea. Where can I where should I store this idea in HLS? This I I know. I thought it's unbelievable. It happens every time.
+Speaker 2: I would actually add it as a goal. Do you you have a goal, learn new language. Yeah. So
+Speaker 2: I mean,
+Speaker 2: this is like a milestone for this goal.
+Speaker 1: Right? Yeah.
+Speaker 2: But,
+Speaker 2: so, yeah, it can be a separate call.
+Speaker 2: Or you can add it here as And the goal breakdown. Yeah.
+Speaker 2: Like a one time challenge.
+Speaker 2: And then this one time challenge will be in backlog.
+Speaker 2: So
+Speaker 2: every time, at least in the web, when you go to the backlog, you're able to see this milestone.
+Speaker 2: But I would really put it just as a separate goal. Like, don't don't get too much preoccupied that it's not, like, a big goal.
+Speaker 2: Like, not road map type of goal.
+Speaker 2: Even something small like this, it requires a big work. Behind it. So
+Speaker 1: Yeah. Fair enough.
+Speaker 1: Okay. So I'll put it in zero to one years, I guess, even though it's, like, much less than that. And it'll be, I guess, like,
+Speaker 1: have a conversation
+Speaker 1: with a friend or colleague
+Speaker 1: in a new language.
+Speaker 1: Mhmm.
+Speaker 1: Have a mini conversation.
+Speaker 1: I ran out of characters.
+Speaker 1: Oh, god. Okay.
+Speaker 2: I didn't know that there is a
+Speaker 1: Can it
+Speaker 1: converse with a friend or colleague in a new language.
+Speaker 1: We'll go with that.
+Speaker 1: Okay. That looks good. Zero to one years. I'm putting it as enjoyment.
+Speaker 1: And my relationships, I guess, too.
+Speaker 3: That's a
+Speaker 1: Save.
+Speaker 1: Okay.
+Speaker 2: Sometimes people put as a goal, trip to the country, language of, what they're learning. I don't know if it's a good idea for you to suggest trip to Russia.
+Speaker 1: But Yeah. Yeah. That I'm not gonna do. Definitely. I'm not not gonna do that at any point in time. Right.
+Speaker 3: Okay.
+Speaker 2: Obviously, another way to put goal is to move through the these levels of Yeah. Language. So, for example, at some point, you can do some kind of online test, to see if you get
+Speaker 2: a a one, a two, and and stuff like this.
+Speaker 1: I also saw I think comes with, like, five levels So I think you start with level one, and then you obviously proceed. So I I think I saw that
+Speaker 2: That's also good. It's more like this type of flowers, it's more quantitative outcome, and then conversation with a friend, it's more qualitative outcome.
+Speaker 1: Yeah. It's a good point. Learning language.
+Speaker 1: Yeah. It's a good point.
+Speaker 2: Okay.
+Speaker 2: So the task will be after you explore this platform for learning Russian. To understand or to, like, literally create a plan what exactly do you need to learn?
+Speaker 2: In order to, have conversation with a friend. So it can be the type of grammar, the type of vocabulary, the pronunciation piece, and then you can plan accordingly. So I'm make making in my head now the analogy with running. Mhmm. Right? Like, when I have a goal to run half marathon, I know when it's going to happen, so I also can plan backwards from that date. And I had a training plan
+Speaker 2: that was three runs per week. Each of them covering razor micardial, like, interval training. Or, long runs, pushing endurance, or enjoyable run. So I start liking it at least a little bit. Did did that help? Did you actually start enjoying it? Actually, I did. And that was, like, the the theory tested in practice in my case. Because I hated every moment of it for five months. And now I really like it. And just yesterday, I went for a run just just because I want it.
+Speaker 2: It never happened before. I was like, oh, I feel like running. Yeah. It never happened before. So Yeah. I I can't even imagine that.
+Speaker 2: It's but it means that it works. It exists. Yeah. Yeah. You just really need to be patient about when this feeling comes.
+Speaker 2: But it also depends on activity because that is not happening with me learning language. I it just not my book.
+Speaker 2: So
+Speaker 2: so you need to be careful what you're trying to explore here. Mhmm. So what I mean from this example is that this language learning, it can be the same because you have different talk. Again, pronunciation, vocabulary, grammar, something else. And then if you decided to do three, four times per week, that's when you can, break it down. Like, okay. Today, it's a lesson.
+Speaker 2: Next time, I'm gonna learn new words.
+Speaker 2: Next time, I'm gonna do something else.
+Speaker 2: And when you have a plan built, it also takes off this
+Speaker 2: pressure from you to come up every time
+Speaker 2: what you need to do.
+Speaker 2: So it's less resistance for you to be consistent with it. And then it's this idea of making progress by showing up regularly and by small steps.
+Speaker 1: Yeah. I really like this idea of decreasing resistance.
+Speaker 1: That's very interesting to me.
+Speaker 1: Yeah.
+Speaker 2: I think that when the brain is able to see it as a system, like, understanding why you're doing it, and what are the components
+Speaker 2: Then, like, it will be just a question to make sure that you follow the plan.
+Speaker 1: Yeah.
+Speaker 2: But, like, in terms of creating every time what to do and just follow the plan, that's when the resistance is different.
+Speaker 1: Mhmm.
+Speaker 3: Mhmm.
+Speaker 1: I so I completely heard of that.
+Speaker 1: I wonder I mean, I I guess there is a connection between these, like, micro recharges and decreasing resistance potentially too. Right? Like, if you if you are able to, like, successfully, like, reset yourself a little bit
+Speaker 1: that should, in theory, reduce resistance. Right?
+Speaker 2: Resistance for what in this case?
+Speaker 1: Yeah. Good question.
+Speaker 1: Guess resistance to doing something, like,
+Speaker 1: even that requires, like, moderate
+Speaker 1: effort or energy or, like, concentration or focus?
+Speaker 1: Or or rather,
+Speaker 1: never mind.
+Speaker 2: In this case,
+Speaker 2: I don't think that it decrease
+Speaker 2: it decreases resistance.
+Speaker 2: It act it's actually the opposite. It's like
+Speaker 2: it's giving you more resource
+Speaker 2: like energy, for example.
+Speaker 2: To show up for activities where you might still have resistance or that requires more effort.
+Speaker 1: Yeah. That's the right way of looking at it. I agree.
+Speaker 2: It's like, you know, this analogy with the having a cup full?
+Speaker 1: Yeah.
+Speaker 2: Like, when it's full, you're able to face new challenge.
+Speaker 2: When it's low,
+Speaker 2: you first need to fill in your cup
+Speaker 2: and go after this challenge. Otherwise, you start working on the reserved energy.
+Speaker 1: Yeah.
+Speaker 1: That's it. That's more what I was thinking of. Like, that type of scenario Yeah. So yeah. I I agree with you.
+Speaker 2: Is also the accumulating, fact
+Speaker 1: Yeah. That's what I was just thinking. Way to describe it, I think.
+Speaker 3: Yeah.
+Speaker 1: Okay.
+Speaker 1: Yeah. I just really need to start
+Speaker 1: Pimsleur, like, as soon as possible.
+Speaker 2: When you think about it this way about this accumulating a effect of, micro enjoyments,
+Speaker 2: how does it impact your thoughts about spending time in productive way
+Speaker 2: or, like,
+Speaker 2: not feeling guilt for doing nothing or, like, resting, not working. For example.
+Speaker 1: Yeah. That's,
+Speaker 1: good. That's funny.
+Speaker 1: I think, I always have, like, a lot of guilt
+Speaker 1: or I mean,
+Speaker 1: okay.
+Speaker 1: I I always have at least some guilt, I think, particularly, like, during the week for doing anything that isn't, like, strictly work.
+Speaker 1: And and that applies to, like,
+Speaker 1: almost every hour of the day.
+Speaker 1: To be clear, like, especially during the week. Right? Like, for a long time, I even had guilt, like, going to the gym, and that's why, like,
+Speaker 1: you know, I I have a I have a problem where, like,
+Speaker 1: okay. The the original reason, started going to the gym so early in the morning was because it was the only time when I wasn't receiving emails. And so,
+Speaker 1: for me, that felt good. That it felt better to, like, go to the gym and allow myself to be at the gym
+Speaker 1: without, like, wondering, like, oh, am I gonna have to cut this off early so I can go into work?
+Speaker 1: That was, like, really the original motivation
+Speaker 1: And then it's become a little bit more positive, but that is still large a large part of the motivation is that, like,
+Speaker 1: it's really it's really one of the only chunks of time that I can, like, more keep for myself. So I do have this, like,
+Speaker 1: I do definitely feel guilt about, like, taking time out of my my day, particularly during the week, to do anything other than
+Speaker 1: work.
+Speaker 1: And but if I can
+Speaker 1: if I can successfully reframe it in my head of, like,
+Speaker 1: no. It's just like I it's
+Speaker 1: refilling the cup to, like, be more productive or
+Speaker 1: to set myself up better for success
+Speaker 1: for the for the next thing that I have to do. And and I I can do that, but, like, I I definitely do that
+Speaker 1: it comes to, like, specific things that I'm working on.
+Speaker 1: Or when it comes to, like, specific days and and how I'm feeling. So it's not like I've never done that before. It's just that I don't
+Speaker 1: I don't do it with any sort of, like, consistency.
+Speaker 1: So and I would like to be able to do it with a little bit more consistency. Right? Because I think it would be nice. Like, again, like,
+Speaker 1: once every afternoon, just taking, like, a quick five minute stroll stepping outside for, like, a couple minutes other than to go use the bathroom or something like that.
+Speaker 1: That I think will just, like, be healthier for me in the
+Speaker 1: in the short, medium, and long term. Mhmm. Mhmm.
+Speaker 2: Yep. Yeah. You are right about consistency. It's important. And in this case, it's also consistency over quality. It's like you don't need a lot of time for this.
+Speaker 2: Even if you do two minutes a day
+Speaker 2: of this activity, but you show up regularly, it will start building a habit
+Speaker 2: And, also, it will, like, it will still work for you as a micro enjoyment in the moment. Yeah.
+Speaker 1: Yeah. That I mean, that's I think that's the other thing, that I am, like, a little bit almost fearful of is, like, if I start making something more of a habit, like, will it become less of a micro enjoyment?
+Speaker 1: But,
+Speaker 1: I think that's just a mindset thing.
+Speaker 1: More than anything.
+Speaker 2: Mhmm. I can suggest you want more frame. You like finance. Topics, investments, all these type of things.
+Speaker 1: Sometimes.
+Speaker 2: Think of it as an investment. It's like
+Speaker 1: Yeah. And that's the right way to think about it. Invest money
+Speaker 2: even if it's a small amount, you don't really see the final result yet. Right? You're just, like, putting it out of there. Knowing that you have investment strategy So, potentially, it might work. So with this microenjoyments, it similar. Not just this micro enjoyment, this all type of rest activity. Like, shifting focus from work to something else.
+Speaker 2: It's like
+Speaker 2: if you invest
+Speaker 2: ten minutes of your time per day,
+Speaker 2: for one activity.
+Speaker 2: What return can you get?
+Speaker 2: In terms of your energy, in terms of being able to be productive that work?
+Speaker 1: Yeah.
+Speaker 1: I really like that way of thinking about it.
+Speaker 1: And the answer will almost always be positive, I think. So, yeah, that's good.
+Speaker 2: What else is important is,
+Speaker 2: when you start doing, for example, this micro walks, consistently.
+Speaker 2: I I really hope that you will start noticing the change of your perception or mood when you get back to work after it.
+Speaker 2: Like, for example, do you feel a little bit more clarity, or do you feel less tired that you were before, or, like, anything, any smaller shift. That can boost your motivation even more. Like, as long as you see this immediate reward,
+Speaker 2: that will be very helpful.
+Speaker 1: Yeah. It it also makes me think. I mean, should I add just, like, a daily like, a a daily during the week challenge about taking a micro walk or something?
+Speaker 1: Like, just to hold myself. I mean or does that
+Speaker 1: so on the one hand, I feel like accountability will help me actually, like, do it. On the other hand, does, like, adding accountability
+Speaker 1: like, make it not a micro
+Speaker 1: like, enjoyment. Do you know what I'm saying? I know. I know. That's why I didn't
+Speaker 2: want to push it to the challenge. Yeah. It was like, I I let you decide.
+Speaker 2: But, I mean, as other activity, at the beginning, it might require more effort. Yeah. That's normal. Right? And you might need some time until you feel this piece of enjoyment or micro recharge or this reward that I'm talking about. Don't spend that it happens on the segment walk.
+Speaker 2: Yeah. Yeah. Definitely. And, again, I'm bringing here my writing experience.
+Speaker 4: I
+Speaker 2: was, like, I was suffering the first maybe
+Speaker 2: two, two and a half months. And then I had this
+Speaker 2: first run
+Speaker 2: very early in the morning. So I'm not an early bird. Like, but because it was very hot, I needed to wake up at 6AM in the morning to go for a run. Like, I just didn't have another choice.
+Speaker 2: And that was the most productive day at work I ever had in my life. And I was like, what's going on here?
+Speaker 2: And I like, first, I didn't even understand it. And then I repeated it again. And I was like, wait a minute. So when I wake up early,
+Speaker 2: and I have a long run,
+Speaker 2: I really have a better focus and clarity at work.
+Speaker 2: Yeah. I think that have more energy during the day.
+Speaker 1: You know? I that's something that I completely agree with. Like, at this point, somebody asked me, like, fairly recently. They were like, do you actually enjoy working out? And I don't know the answer to that question.
+Speaker 1: Genuinely.
+Speaker 1: Like,
+Speaker 1: part of me does enjoy it, like, when I'm there because it's like a way to be competitive and and whatnot. But I I think the reality is that for me, far bigger thing is that
+Speaker 1: I'm just, like, a better
+Speaker 1: person. Like, overall when I am exercising regularly.
+Speaker 1: And I'm that is certainly includes employee. Like, I'm a much better employee. I'm much more engaged across the board. When I am, like, when I am working out regularly. I just got invited to a fucking call that's right now. One second. Let me check my messages because I have nine signal messages now.
+Speaker 3: We can
+Speaker 2: we can stop here. It's okay.
+Speaker 1: Oh, that's really funny, actually. Okay. Yeah. I'm sorry about that. There was a call that was scheduled that I didn't know about.
+Speaker 1: Because I wasn't invited until literally right now.
+Speaker 2: Okay. So
+Speaker 2: it's up to you to edit this challenge or not. I would say try it for one sprint to see how it works.
+Speaker 2: And then, I wanted to ask you about scheduling because next week, I'm going to be on location. So That's right. Yep.
+Speaker 2: We can have session the following week, the week of Christmas.
+Speaker 1: I think so. I think I'm I don't I'm I might end up traveling that week. I'm not
+Speaker 1: quite sure yet, but I don't have anything planned right now.
+Speaker 2: Do you want to have session on Friday Friday, Wednesday, twenty fourth? Or Yeah. Prefer?
+Speaker 4: That's fine.
+Speaker 2: Okay. Somewhere, like, 10:11AM would work for you?
+Speaker 1: Take your pick. I mean, nobody's gonna schedule a call with me on Christmas Eve.
+Speaker 1: So that's that's perfect.
+Speaker 2: But for you, it's okay. You're not going to be
+Speaker 1: Totally fine.
+Speaker 2: Let's do 10AM then.
+Speaker 2: And in case something changes, just let me know. We will be able to reschedule.
+Speaker 4: Mhmm.
+Speaker 1: That sounds good. Yeah. That should be fun.
+Speaker 2: Okay. Great. Thank you for today. I know we talked Yeah. More. Maybe I talked more than usual today, but,
+Speaker 1: Oh, no. I mean, the one thing I wanna say before we, like, wrap up is, like, I find these
+Speaker 1: sessions like, whenever we have them, I find them very, very valuable.
+Speaker 1: Even if we're covering, like, I don't know, super basic stuff or just, like,
+Speaker 1: reviewing the stuff that I'm already doing. I find this super valuable because I don't
+Speaker 1: have any other time
+Speaker 1: really during the during the week to, like, do this stuff.
+Speaker 4: So
+Speaker 1: even when even when we don't have, like, a specific topic, or a specific session model to go through or a specific tool or anything, I find these sessions, like, very, very valuable.
+Speaker 1: So thank you.
+Speaker 2: I'm happy to hear
+Speaker 4: Yeah.
+Speaker 1: And anybody who's gonna watch this recording afterwards or for my personal AI, these types of these types of sessions where I can just, like, think about my sprint and then plan the stuff that I'm gonna be doing and working on, like,
+Speaker 1: they they have to happen. Like and it the app has to make it easier because otherwise, it's a fucking nightmare.
+Speaker 2: Of course.
+Speaker 1: Okay. I'm here. Right now.
+Speaker 1: See you. Bye. Bye.

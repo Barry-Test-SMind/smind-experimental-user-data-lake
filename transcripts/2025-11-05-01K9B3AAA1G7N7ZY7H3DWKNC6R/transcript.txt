@@ -1,0 +1,662 @@
+Speaker 1: I'm okay.
+Speaker 2: Just okay? I'm a little bit sick. But I'm sick since Saturday. So today is already much better than I was the previous three days. Is that a a
+Speaker 3: a a cold or something more serious? Or No. Just a cold.
+Speaker 2: Yeah. I'm still coughing a little bit, but,
+Speaker 3: feel better. Yeah. That's annoying.
+Speaker 2: How is your back?
+Speaker 3: Pretty good. Yeah.
+Speaker 3: Pretty good.
+Speaker 2: Feels better.
+Speaker 2: Awesome.
+Speaker 2: Are you still going to do the full body scan and all that topic that we discussed or not maybe body, but just the back.
+Speaker 3: I am I think I I think so. It's, I'm actually not sure
+Speaker 3: So I'm I'm testing the service, that, like, one of our
+Speaker 3: Andre, if you know him,
+Speaker 3: is, like, been working on this thing for a little while, and so I'm testing
+Speaker 3: basically, what he's put together. I just haven't heard back from them actually on that But that was a a noted, like, next step. So, it's not really, like, yes. I'm I'm still planning on doing it. I just, like, have to I'm I think it's, like, it's part of their program, and so I'm I think I'm just, like, waiting on them
+Speaker 3: to handle any next steps there.
+Speaker 3: Mhmm. Mhmm. Got it. Yeah. I'm still I yeah. I'm I'm it's like
+Speaker 3: I'm more or less I met with a doctor, and the doctor was like, you yeah. We'll do this for you. So it's it's more like just like a given now.
+Speaker 3: I think.
+Speaker 2: Okay. Nice. Alright. In general, how is your sprint going?
+Speaker 3: Mostly well, I think.
+Speaker 3: Yeah. I think mostly it's going well.
+Speaker 3: I mean, next week,
+Speaker 3: everything goes to shit.
+Speaker 3: So
+Speaker 2: because you're I'm trying to
+Speaker 3: yeah, so I'm trying to do as much as I can, I guess?
+Speaker 2: I already got it. I had a a session with Tony today, and he's traveling. And I was like, I guess very scared to be very small.
+Speaker 1: Yeah.
+Speaker 3: I'm I'm here this week. I'm not traveling at all this week. So my
+Speaker 3: everything goes to hell for me next week.
+Speaker 3: And the week after and the week after that.
+Speaker 3: You're traveling for three weeks? We're going to Helsinki then we're going to Vienna, and then I'm going home for Thanksgiving. So
+Speaker 3: it ends up being, like,
+Speaker 3: a little more than
+Speaker 3: no. It's really only
+Speaker 3: two weeks. Yeah. Okay.
+Speaker 2: Why do you think everything is going to do not work when you're traveling? Oh, it just always happens.
+Speaker 3: Especially when we are when we go to, like, some of these big conferences where there are, like, events and
+Speaker 3: there are dinners and there are parties,
+Speaker 3: It just, like,
+Speaker 3: we end up
+Speaker 3: every time we end up staying out later than I expect.
+Speaker 3: End up waking up later than I would like to.
+Speaker 3: And then I have a full full day's plan. So
+Speaker 3: it just kind of ends up being like a cascade of dominoes. This time, hopefully, I'll
+Speaker 3: I'll
+Speaker 3: I'll try to find, like, spare chunks of time
+Speaker 3: rather than just, like, purely relying on the mornings for, like, working out or doing stuff. I'll try to be, like, a little bit more, flexible there.
+Speaker 3: Mhmm. I just know it's I just know it's gonna be difficult.
+Speaker 2: Anything else you can pull from your previous experience?
+Speaker 1: Traveling?
+Speaker 3: Yeah. I mean, I could just try to walk as much as possible, like, anytime that I can walk, I should I should take that opportunity rather than getting in a car or doing anything else.
+Speaker 3: Mhmm. That's probably that'll probably help too.
+Speaker 2: Does it work to have this accountability from other people that you're traveling, like Jeremy, Tony, or else?
+Speaker 3: Not really. If we were if we were, like,
+Speaker 3: if we were more serious about it,
+Speaker 3: maybe we would, but we I I feel like we've all kind of, like, accepted the fact that our schedules, like and our routines go to shit when we travel.
+Speaker 3: So maybe if we if one of us was, like, fighting more,
+Speaker 3: to, like, not
+Speaker 3: have that happen, then I think it would work. But I think we're all, like,
+Speaker 3: of the mindset that it is like, it is what it is.
+Speaker 3: Almost.
+Speaker 2: Actually, I just got an idea of the way to test Morpheus. Have you been in the company meeting today?
+Speaker 3: Mhmm.
+Speaker 2: What if you try to ask Morpheus, like, what can you do?
+Speaker 2: While traveling considering your schedule? I I mean, not now, but being already there, like, saying, hey. Listen. This is my schedule for today. What are your suggestions? What can I keep? How can I manage it? And try to play with it a little bit.
+Speaker 3: Yeah. That's a good question.
+Speaker 3: That's good. I like that. I'm just, taking that note.
+Speaker 3: Cool. That's a good idea. Okay.
+Speaker 2: And is there else I can help you with thinking about, Alexa? Two weeks and your sprint progress?
+Speaker 3: No. I don't think so.
+Speaker 3: Damn. I just realized now is really not the best time to start learning a new language.
+Speaker 2: Whatever. I mean, maybe some older people in Finland still speak Russian. They
+Speaker 3: I I strongly doubt it. I mean, listen. Ukrainians rightfully hate
+Speaker 1: Russia,
+Speaker 3: The Fins have not for like, they have not forgotten.
+Speaker 2: To stay or not.
+Speaker 3: Yeah.
+Speaker 1: Well,
+Speaker 2: Yeah.
+Speaker 2: Anyways, I saw that you checked some resources. Have you stopped at some and started to, like, dive into it or not? I'm gonna
+Speaker 3: yeah, I'm gonna start testing Pimsleur
+Speaker 3: probably later this afternoon. That seems like a decent starting point. I think it's, like, $20 a month, so it's not really expensive.
+Speaker 3: It seems like a good, like, starting point at least to just, like,
+Speaker 3: get a sense for how these things work.
+Speaker 3: Pimsleur and Babble, funny enough, like, the two old school ones seem to be, like, the most interesting to me. So if Pimsleur, I don't think is good, then I'll I'll check out Babble.
+Speaker 3: Then if I have to do more research, I'll do more research after that. But
+Speaker 3: those two seem like the best options to start with.
+Speaker 2: Okay. I think considering your business travel, what you can do, you can
+Speaker 1: check this
+Speaker 2: tools or resources. And then when you're back, and you feel like it's better time or, like I should start when I'm back. Or yeah. Then you can try start building their routine around it. Like, sometime, during the week learning or, like,
+Speaker 3: every day or during the week. Yeah. That's a fair point. Maybe I can even do that actually when I come back from think when I come back from Vienna before Thanksgiving. I'll take I'll put that as what my, like, sauna really quickly.
+Speaker 3: That sounds like a good idea. Okay. Great.
+Speaker 1: Let's do it.
+Speaker 2: Thank you for adding tasks to the board. Great job. Before we start, just wanted to ask you,
+Speaker 2: what do you think about this concept of passions, interest, and jobs?
+Speaker 2: Like, are you familiar with the source, where it came from? And, like, what are your thoughts in general?
+Speaker 3: Yeah. I'm I'm familiar with the source where it came from. I like the idea of the activity.
+Speaker 3: Think for me, it's a bit difficult
+Speaker 3: for a couple reasons.
+Speaker 3: The first is that, when I do this, I tend to put everything I tend to, like, try to put every put, like, rose colored glasses on.
+Speaker 3: And so I will find a way for something to be, like, a an interest or a passion when maybe in reality, like,
+Speaker 3: it isn't.
+Speaker 3: Or said differently,
+Speaker 3: there are some things that I will realize
+Speaker 3: or that I will tell you are interests and passions, but in the moment, they feel like jobs. There are also some things that start as passions or interests and over time become jobs. Like, it just kinda depends on how long I've been working on something. For example, like,
+Speaker 3: I'll be honest. The NeoCybernetka and HOS videos,
+Speaker 3: starting to feel more like a job now. Definitely started as something I was more interested in or passionate about. Whereas now we're, like,
+Speaker 3: kind of slogging to cross the finish lines a bit.
+Speaker 3: So that's those are,
+Speaker 3: yeah, those are my thoughts there, I think.
+Speaker 2: So what is your criteria to
+Speaker 2: identify what is passion, what is interest, what is job?
+Speaker 3: Yeah. It's a bit
+Speaker 3: for me, it's diff a bit difficult to, differentiate between, like, passions and interests in particular.
+Speaker 3: So I tend to think about passion interest on one side and then jobs on the other.
+Speaker 3: Where
+Speaker 3: passions are things that I, you know, can get interested in and you know,
+Speaker 3: I can get a little bit excited about or that can you know, as as interest say that that at least will, like, hold my attention. Like, it's not
+Speaker 3: it's not something I actually have to, like, actively force myself to do.
+Speaker 3: Whereas jobs are, like, things that really feel like a drain on my energy, the things that I don't really wanna do,
+Speaker 3: but I know that I kind of, like, have to do.
+Speaker 2: When you gave this example about the, Neo Serenetica and HSVitas, Is this what's happening? It started to drain energy over time.
+Speaker 3: Yeah. It's a bit like,
+Speaker 3: at this point, it's like,
+Speaker 3: and it it might just be how I'm, like, thinking about the thing, but we're
+Speaker 3: I I would say I did, like, 80% of the work
+Speaker 3: like, right away.
+Speaker 3: Maybe 85% of the work.
+Speaker 3: And now the last 15%,
+Speaker 3: kind of, like, painful and nitpicky.
+Speaker 3: And I just want it to be done. Like, I just wanna finalize the things.
+Speaker 3: And it kinda just I'm not like a maybe I'm not being, like, a enough of a perfectionist when it comes to these things because they are important. Like, maybe I'm minimizing importance of, like, this last
+Speaker 3: 15% But, I think overall, I tend to, like, overemphasize, like, the first 85% and then the last, like, 15% is, like, kind of less interesting for me when it comes to most projects, to be honest.
+Speaker 2: What makes it painful, this last 15%?
+Speaker 3: Just the the actual work that is required. You know? I have to I have to sit down with, some people and just get a bunch of, like, detailed nitpicky type feedback
+Speaker 3: make some very small changes,
+Speaker 3: or some in some cases, I have to, like, go back and start from scratch. And that's kind of that can be kind of annoying or or painful.
+Speaker 3: Yeah. It it just it just depends.
+Speaker 3: I guess, the reality is, like,
+Speaker 3: if I can see the finish line, that's okay. But in certain certain circumstances, it feels like, okay. I cannot see the finish line anymore. And that becomes, like, a little bit more annoying.
+Speaker 2: What is the difference then between this, 15% and the first 85? What is in the 85% that makes you excited?
+Speaker 3: The first 85%, the the finish line doesn't really matter. Right? It's just like, okay.
+Speaker 3: Is it can we even like, can we do this? Can we put a good can we do something good?
+Speaker 3: Then the the second the last 15% is like, okay. Can we take this from, like, good to great? Kind of. No. I don't like thinking about it that way.
+Speaker 3: The last 15% is, like tends to be more detail oriented. And,
+Speaker 3: by nature, I'm not the the most detail oriented person. And so, like, I often don't want to be I don't want to let perfection get in the way of good. Whereas in some cases, I like, perfection needs to be the goal or great or perfection needs to be the goal.
+Speaker 3: So I have I have some difficulty, like,
+Speaker 3: defining done for myself almost.
+Speaker 3: Like, I almost I I almost view the first 85% as like, okay. Done.
+Speaker 3: Now somebody else go do whatever you have to do with this. Like, I've I've I'm done with this. Which is not the right way to think, just to be clear. Yeah.
+Speaker 2: So
+Speaker 2: this last 15% finish line is not visible
+Speaker 2: It tends to become too detailed oriented, which you don't like. And it seems like the perfectionism is coming on the way for you, like,
+Speaker 2: this is when you're stuck on making it
+Speaker 2: great and, like, perfect before finish.
+Speaker 3: Yeah. I'll give you the example. Right? So
+Speaker 3: for the HOS video, it started by I got a two minute voice note from Jeremy with, like,
+Speaker 3: an ask
+Speaker 3: like, saying, I think we need to do this, and then he gave me some high level thoughts about, like, what he thought was required. And then
+Speaker 3: I started with a blank
+Speaker 3: doc Google Doc and just, like, took a few hours and drafted something.
+Speaker 3: And, eventually, I got it to 85%. Now the last 15% is, like, picking individual words,
+Speaker 3: making some, like, changes,
+Speaker 3: that are more, like, subtle, kind of, like, less interesting, to be it's just, like, less interesting. The first 85% is just more interesting to me.
+Speaker 3: And then everything after that is like, okay. What do we need to actually, like, polish this and finalize it?
+Speaker 2: Sounds to me like at the beginning, it's all about
+Speaker 2: ideation.
+Speaker 2: Idi ideation? Ideation? How do you read this one?
+Speaker 2: Ideation. Ideation. It's all about ideation.
+Speaker 2: And the the like, you tend to like doing this.
+Speaker 2: Because it's about, like, what can we do here? How can I implement this idea? Or how can I develop this initial idea that started just from two minutes? Audio message versus the
+Speaker 2: remaining part of which you described as, like, actual work behind it, it's already, like, execution that involves a lot of moving detail oriented pieces.
+Speaker 3: I would say, I mean, even in this case, I handled most of the execution. Right? It's just like then it becomes like,
+Speaker 3: then then the question is, like, okay. Did we define done at the beginning the right way? And in certain circumstances, we did not. Like, in the HLS video, we didn't.
+Speaker 3: Mhmm. Like, the idea changed, and then I had to change.
+Speaker 3: Mhmm. And,
+Speaker 3: that part wasn't as annoying. Like, having to, like, change the like, materially change everything wasn't as annoying it was still a little annoying because I'd already done all this work and was like, I was like, well, shit. Like, now we've just changed the whole thing.
+Speaker 3: But, where I get more annoyed is, like,
+Speaker 3: we wanna use this word, or do we wanna use that word?
+Speaker 3: Like,
+Speaker 3: is that the right
+Speaker 3: color? Like, stuff like that. It's like, oh, man. Like,
+Speaker 3: I I know it's important.
+Speaker 3: But is that fun for me? Not really.
+Speaker 3: Got it.
+Speaker 2: Okay.
+Speaker 2: Awesome. That's a great starting point to better understand what is behind what you call passions, interest, and jobs. Let's now, categorize this task that you have here, and then we'll continue this conversation. Like, the idea is that at the end of the session, you are not just the type of task that you currently have and, like, what category it falls in.
+Speaker 2: But also why behind it. Like,
+Speaker 2: why is gonna be on this sticker like this?
+Speaker 2: On a high level describing
+Speaker 2: what makes a passion, passion, what makes a job, job. So then knowing these criteria
+Speaker 2: you're able to ask yourself, okay. What else can I start doing
+Speaker 2: that fits this criteria?
+Speaker 2: Or it expands my passion? Or what should I avoid doing or maybe delegate or manage somehow that corresponds to this criteria that like, I don't want to do anymore or I want to avoid in the future.
+Speaker 2: So that's the way to approach it today.
+Speaker 2: I'm really losing my voice in the evening. I don't know if it's visible, but I to myself, I sound like an old lady who is smoking a pack of cigarettes per day.
+Speaker 3: You sound pretty okay to me. So if that makes you feel any better. Yeah.
+Speaker 2: Okay. I'll let him speak.
+Speaker 2: I'll do the talking. So we can go one by one. Just tell me to to what bucket should I drag the task.
+Speaker 3: Yeah. Admin work is a job.
+Speaker 3: I'll just
+Speaker 3: admin work is also just like a high level probably, maybe even too high level of category, but,
+Speaker 3: yeah, it's definitely a job.
+Speaker 3: Mhmm. Emails and messages would also be a job.
+Speaker 3: How should I think about things that could be any of them?
+Speaker 3: Like,
+Speaker 3: k.
+Speaker 3: What do you mean? For example, like, independent focus work.
+Speaker 3: Like, it depends what I'm focusing on.
+Speaker 3: Yeah. Like, for example, today, I have I'm I have to focus on, like, scheduling meetings for
+Speaker 3: the conference that I'm going to in Helsinki next week.
+Speaker 3: That's not as fun.
+Speaker 3: That's probably it's it's somewhere between
+Speaker 3: yeah.
+Speaker 3: Okay. That works.
+Speaker 2: We drag it in these areas in between.
+Speaker 2: And then I will come back to this, oh, actually, we we can do right now if you want. Like, for this type of tasks that are in between, I will ask you for examples. When you take it as a passion, when you take it more like an interest or job. Do you want to stop at it now or first diff like, bucket everything and then come back?
+Speaker 2: To this type of tasks.
+Speaker 3: Let's bucket everything and then maybe come back. Okay.
+Speaker 3: Cortical Pipeline, company meetings, those are external meetings.
+Speaker 3: That is so cortical pipeline call is somewhere between
+Speaker 3: passion and interest. It's probably that overlap.
+Speaker 4: Meetings.
+Speaker 3: Courtney showed that
+Speaker 3: company meeting yeah. Fuck.
+Speaker 3: Okay. Top left is probably also somewhere between passion and interest.
+Speaker 4: Oh, boy.
+Speaker 3: My brain got stuck on external meetings.
+Speaker 3: Somewhere between interest and jobs, probably.
+Speaker 2: You can also change it later. It doesn't mean if now your name some category, it's gonna stay like this forever.
+Speaker 3: Yeah.
+Speaker 3: Company meeting is probably more of a job right now.
+Speaker 3: Tiger team meetings are
+Speaker 3: passion or sorry.
+Speaker 3: Oh.
+Speaker 3: Tiger team meetings or interests.
+Speaker 3: Reading and research is probably
+Speaker 3: passion
+Speaker 3: Working sessions with Jeremy is probably passion.
+Speaker 3: Working sessions in general is probably a passion.
+Speaker 3: Notice avoiding the two videos, like, the fucking plague.
+Speaker 3: People meetings. People meetings. People meetings.
+Speaker 3: People meetings is probably
+Speaker 3: an interest
+Speaker 3: One on ones is probably an interest.
+Speaker 2: What is the difference between people meetings and one on ones?
+Speaker 3: People meetings are meetings where we're discussing other people.
+Speaker 3: More involved with that in Neo Cybernetica. So, like, we do a don't know if HOS has, like, a republic. Do are you familiar with that concept of, like, a republic?
+Speaker 3: Okay.
+Speaker 3: At at at DataRobot, they had this structure where all of the daily and weekly updates were reviewed by a group of
+Speaker 4: people.
+Speaker 3: That they called the republic.
+Speaker 2: I guess that's what we have at HS as weekly check-in.
+Speaker 3: Yeah. Except it's the group of people that are reviewing those things.
+Speaker 3: Right?
+Speaker 3: Which I think is I think it's mostly, like, Natalie and Matt and maybe Yuri's stuff and some of the other teammates. But I'm not I'm not as involved on the HLS side. But on the Neo Cybernetics side, I'm very involved with all of this.
+Speaker 3: Okay.
+Speaker 3: Got it. So that's what I mean by people meetings. And then one on ones would just be, like, in an individual one on ones, either my own or Jeremy's.
+Speaker 3: Mhmm. Mhmm. But I get to attend. Okay. Pitch deck work,
+Speaker 3: These these next two, in my mind, could be any of these three.
+Speaker 3: It could be any of passions, interests, or jobs.
+Speaker 2: Because it's changing.
+Speaker 4: Yeah.
+Speaker 2: But when it starts,
+Speaker 2: you tend to think it more
+Speaker 3: like a passion. More
+Speaker 3: more passion or interest, for sure.
+Speaker 2: Let's put it in between.
+Speaker 4: Okay.
+Speaker 4: Great.
+Speaker 2: Anything else you want to add here when you think maybe
+Speaker 2: something recurring on a weekly basis or maybe monthly? Or maybe some type of projects that you used to have that can be a good example to to look into it in terms of fashion's interest in the course.
+Speaker 3: Let me think more about that as we keep talking. I'm not
+Speaker 3: yeah. Like, thinking about past projects nothing is, like, coming to mind that, like nothing's jumping out of me that I should add here, but that's a good question. So let me let me keep thinking about that.
+Speaker 2: No. No. Anyways, you have enough examples. So
+Speaker 2: let's start working with what we have.
+Speaker 2: I'm curious first about these three pure passions. Is there anything here that is common for all three type of tasks?
+Speaker 2: In terms of process and term in terms of your approach or involvement.
+Speaker 3: It's a lot of it is, like, learning.
+Speaker 3: In all those cases, actually.
+Speaker 3: Yeah. That's act that's the
+Speaker 3: that's the
+Speaker 3: maybe the only common thing across all three of those is there's a a heavy focus on learning
+Speaker 2: Okay.
+Speaker 2: If you
+Speaker 2: look into each of them, is there anything that you can highlight what makes it so interesting for you that you consider it as a passion?
+Speaker 3: Two of them at least is about working with other people.
+Speaker 2: In all this
+Speaker 2: meetings, you're also working with other people, but you don't consider them passions.
+Speaker 2: What is it that Yeah.
+Speaker 3: Good question.
+Speaker 3: The differences in these two cases
+Speaker 3: I'm part of the actual work.
+Speaker 3: Whereas,
+Speaker 3: like, I'm part of the actual, like, execution.
+Speaker 3: I guess.
+Speaker 3: Whereas, like, in all the other cases, I'm more of a
+Speaker 3: an observer
+Speaker 3: or,
+Speaker 3: or the audience.
+Speaker 3: In some cases, I guess.
+Speaker 3: Like, yeah, the tiger team meetings, I'm more of an audience.
+Speaker 3: Or an observer. I do play a role. Don't get me wrong. But it's it's less.
+Speaker 3: The people meetings, I actually, like, do play a role.
+Speaker 3: Yeah. I wonder if the people the people meetings are probably between passions and interests, actually.
+Speaker 3: As painful as those meetings can sometimes be,
+Speaker 3: they do, like, hold they do, like, fully hold my attention.
+Speaker 2: The difference between passion and interest is exactly in this execution part or there is something else?
+Speaker 3: I think that's mostly what it is. Right? Whether there's something that, like,
+Speaker 3: am I part of the the group that's actually, like, doing something, or am I more of an audience for something?
+Speaker 3: Yeah. I think that's mostly
+Speaker 3: the difference that I can identify.
+Speaker 4: Mhmm.
+Speaker 1: Okay.
+Speaker 2: Let's dive into this independent focus work. You mentioned that it depends on the like, what are you working on. You make couple of examples when you consider it as a passion. What type of projects should it be.
+Speaker 3: Okay. One was more of a passion.
+Speaker 3: It was more of a passion.
+Speaker 3: Feels like it's gonna be like a circular reference.
+Speaker 3: Yeah. It was, like,
+Speaker 3: again, starting from scratch with the HOS, like, outcomes video. Like, it was more of a passion there. Like,
+Speaker 3: in terms of, like, the story this the storytelling or something like that.
+Speaker 3: Yeah. Storytelling where it was, like, really, yeah. Oh, god. That's funny. Vitali just sent a new draft or something.
+Speaker 3: Okay. It it feels
+Speaker 3: it feels like a passion when there's something that I actually, like, have to figure out. Like, when there's something challenging about it,
+Speaker 3: something that requires me to actually, like, think about where it's like a
+Speaker 3: a I can test my understanding where I have to, like, think deeply and try to absorb something. Or try to, like, synthesize something.
+Speaker 3: That's where it's more of a passion where I'm really, like, more using my brain, I suppose.
+Speaker 3: Like, where it feels like I actually have to really try. It feels like more of a job when I'm just like, I don't really have to think about the thing that I'm doing. I just kinda have to do something. An an example of that would be, like,
+Speaker 3: I have to
+Speaker 3: what I'm doing right now. What I'm gonna do later this today where I have to just schedule a bunch of meetings for my time at the conference.
+Speaker 3: It's I have to focus on it. I have to get it done, but it's not interesting
+Speaker 3: I don't really have to think too much about it.
+Speaker 1: It's important
+Speaker 3: It's definitely important
+Speaker 3: but
+Speaker 4: I
+Speaker 3: I just have to deal it.
+Speaker 2: Got it. So it seems like when it comes to passions,
+Speaker 4: the
+Speaker 2: key
+Speaker 2: line here is
+Speaker 2: when it involves learning.
+Speaker 2: And using your brain for understanding, analyzing this information. For ideation.
+Speaker 2: And, like, creating like, actually creating something at the beginning from scratch.
+Speaker 3: Yeah. The other thing that applies too is when I can see that there's, like, a big impact.
+Speaker 3: Like, when I can see and understand the importance or the urgency of something. Something, then it'll then it'll capture more of more of my attention. Or my yeah.
+Speaker 4: Great.
+Speaker 2: Okay. Nice.
+Speaker 2: And,
+Speaker 2: regarding the interest, one of the differentiator is working with people.
+Speaker 2: But when you're not actively executing with more like an audience. Just participating there. When you
+Speaker 2: take into account these examples that are like, also in between. What else makes it interest? Like, I would say less passionate for you.
+Speaker 3: Yeah. It's a good question.
+Speaker 3: I I think the biggest reason is actually the one that's there already. What else makes it more of a passion? I
+Speaker 3: There's sometimes just, like, a sense of, like,
+Speaker 3: randomness
+Speaker 3: particularly with, like, the cortical pipeline call or the pipeline company meetings.
+Speaker 3: It almost feels like a distraction from, like, the top priorities, if that makes sense.
+Speaker 1: Which is a good thing.
+Speaker 3: No. That's why it's more of an interest. So I it's still very interesting. But it's like it feels like more of a
+Speaker 3: a distraction
+Speaker 3: in some cases.
+Speaker 4: Mhmm.
+Speaker 3: What else? When did when else does this become more of an interest as opposed to a passion?
+Speaker 3: When there isn't, like, a
+Speaker 3: a clear
+Speaker 3: purpose or, like, a clear, like,
+Speaker 3: I don't wanna say goal, but, like, a clear,
+Speaker 3: a clear reason why.
+Speaker 4: Yeah. A clear purpose.
+Speaker 4: Mhmm.
+Speaker 3: Yeah. I think those are the
+Speaker 3: things that are coming to mind.
+Speaker 3: The most.
+Speaker 2: How is the clear purpose and
+Speaker 2: impact related for specific tasks and projects?
+Speaker 3: Yeah. I very closely, obviously. Right? Like, if I can understand the purpose, then I can evaluate how big of an like, I'll I'll I'll evaluate how big of an impact I think the thing will have
+Speaker 3: either
+Speaker 3: know, I'll either evaluate it myself or it'll be it'll be made clear to me.
+Speaker 3: Where I can't where I can't see a clear purpose and I I probably can't understand what the potential impact is.
+Speaker 2: Mhmm. Mhmm. Okay. Great. Okay. What about jobs? Let's start with this three.
+Speaker 2: Clean jobs.
+Speaker 2: Thinking what's in common here.
+Speaker 3: What's in common? If the expected value
+Speaker 3: most of those things is just, like, fairly low.
+Speaker 3: Like,
+Speaker 3: Yeah. I mean, okay.
+Speaker 3: Said differently. At least the impact for, like,
+Speaker 3: my my expected impact from any of those things is, like, not our AI.
+Speaker 3: That's probably the biggest commonality.
+Speaker 2: So something that is that this can be
+Speaker 2: detail oriented when it's just, like, small pieces left There is no finish line visible sometimes.
+Speaker 2: And expected income is not very high.
+Speaker 4: Yeah.
+Speaker 2: Okay. What do you think uh-uh. And you still have this external meetings, which is in between. Yeah. Makes it These are
+Speaker 3: these are tricky.
+Speaker 3: In my mind. So
+Speaker 3: he's kind of like, these external means could also be anything.
+Speaker 3: But
+Speaker 3: put them between, like, interest and jobs mostly because I I do often, like, learn something from them, and I do get to meet interest interesting people, but they feel like distractions from, like, the the main priority. So that's kind of, like, why put them in between because they kind of bother me.
+Speaker 3: Almost in that way. Yeah. Great. And the just the fact that they, yeah, the impact
+Speaker 3: overall impact of what I'm what I think my top priorities are is just, like,
+Speaker 3: mostly very low.
+Speaker 4: Mhmm.
+Speaker 4: Alright.
+Speaker 2: When I zoom out
+Speaker 2: like this, what do you think about your
+Speaker 2: tasks allocation between these three categories?
+Speaker 3: I mean, it seems like I'm in a pretty good position
+Speaker 3: if, like, there's quite a lot of passions and interests, and
+Speaker 3: the the jobs are kind of things that I can't really get away with. Like, I or sorry. I can't, like, really just, like, remove from it from really any I mean, maybe at some point, I could kind of remove them. But
+Speaker 3: I, like, even
+Speaker 3: know, I say company meeting is a job. I understand that it's important, and I I still
+Speaker 3: I enjoy going to company meetings. It's not like I hate it.
+Speaker 3: So, yeah, I feel
+Speaker 3: I think I did this exercise once with Katie, actually, a while back. And I felt similarly. Like, I have a pretty good allocation, I think.
+Speaker 3: Between passions, interests, and job
+Speaker 2: Is there anything you'd like to change, to improve?
+Speaker 3: I would I would just, like, love to be able to be more positive. Like, even even when I when something, like, starts to be an I I would like to have a better mindset around, like, finishing a project, if that makes sense. Right? Like, I don't I wish it weren't the case that when I get to, like, 85% done, I get like, I kind of lose interest. I wish I could, like, maintain interest in to, like, completion to full completion. I just think that would be
+Speaker 3: I think that would be healthier for me.
+Speaker 3: I think it would be better for me, and I think I would just be I'd be a better teammate. I'd be a better
+Speaker 3: employee. I'd be a better potential founder if I could just, like,
+Speaker 3: kind of and and I it's not like I stop at 85%. Right? I'm not that type of person where I get 85% just done.
+Speaker 3: Will follow something through to completion. I just don't necessarily like
+Speaker 3: I just wish that weren't the case.
+Speaker 2: What question is,
+Speaker 2: more relevant to you at this point?
+Speaker 4: So
+Speaker 2: accept that you might not like this remaining 15% and just roll with it so it bothers you less. Or
+Speaker 2: to, like, to switch it to enjoyment or, like, find the ways how can you start liking even those 15%?
+Speaker 3: Probably the first one is a better starting point.
+Speaker 3: At least. And then I would still like to get to, like, like, being able to
+Speaker 3: you know, take more pride at least in fully completing fully finishing a project.
+Speaker 3: But starting with just, like, not hating it or, like, not getting negative about it would be a a big win for me.
+Speaker 4: Mhmm.
+Speaker 2: What does it mean for you to accept something that you don't like? In practice?
+Speaker 3: I do it all the time.
+Speaker 3: It's not that
+Speaker 3: It it's it's more just, like, coming to
+Speaker 3: understanding of, like, how I feel about something and just, like,
+Speaker 3: doing potentially, like, doing it anyway.
+Speaker 3: Or just, like, setting aside something.
+Speaker 3: It could even mean, like, compartmentalization.
+Speaker 3: Right, which is like, okay.
+Speaker 3: I don't like doing this.
+Speaker 3: I have to.
+Speaker 3: Just do it.
+Speaker 3: Right?
+Speaker 3: So, yeah, I think it mostly means compartmentalization.
+Speaker 2: If that's how it's currently work.
+Speaker 2: Mean, you're you've been already using this approach.
+Speaker 3: No. Because I let it bleed. Like, I let my feelings, like, bleed over. I let them show too much as opposed to, like, acknowledging them, setting them aside, and understanding, like, okay.
+Speaker 3: Yeah. I don't like this.
+Speaker 3: But it's required. It's necessary. I have to do it.
+Speaker 3: So just do it. Right? Don't be like don't get upset about it. Just, like, do it. It's not but in most cases, I end up making a bigger deal out of these things than they actually are.
+Speaker 3: Right? Like,
+Speaker 3: oh, no. Like, Jeremy gave some feedback on the script for the HOS video, I have to go spend six hours making a brand new script. No. I have to spend, like, thirty minutes thinking about it,
+Speaker 3: and then make some changes.
+Speaker 3: Like,
+Speaker 3: I I end up because I get to because I will get, like, a little bit too negative.
+Speaker 3: About these things, I will make bigger deals of them than they actually are.
+Speaker 3: That's really how like, what happens today.
+Speaker 3: And if I just, like, took a second and, like,
+Speaker 3: compartmentalized a bit,
+Speaker 3: and just said, okay. Let me let me actually just, like, look at this and see how long it's gonna take.
+Speaker 3: I would understand that it's really not that big a deal.
+Speaker 3: Most of the time.
+Speaker 3: Yeah.
+Speaker 2: Agree. Usually, when it comes to positive thinking or reframing something to a more positive way, reality check, it's usually step number one. It's like in your head, you might be catastrophizing and bleeding
+Speaker 2: all these feelings.
+Speaker 2: But the reality is that it actually takes only thirty minutes of your time, for example.
+Speaker 3: Right? Yeah.
+Speaker 1: Okay.
+Speaker 2: Great. I'm also thinking of this impact piece. Since you mentioned it,
+Speaker 2: as a category defining.
+Speaker 1: Passion and then
+Speaker 2: when there is low impact, that's job. So in this type of task like videos,
+Speaker 2: you described
+Speaker 2: the downshifting of your personal interest because of all these details in the end. But does it mean that this type of task
+Speaker 2: lose its impact on the way?
+Speaker 3: Yeah. So
+Speaker 3: this is like a I think of this wrong.
+Speaker 3: Like, this is how I would so
+Speaker 3: my natural reaction to that is actually, yes. The impact does. Because the impact of the first 85% is much higher than the impact of the last 15%.
+Speaker 3: But the reality is that
+Speaker 3: in some of these cases, it's either done or not done.
+Speaker 3: And until it's done, the impact is the same.
+Speaker 2: Right. I would think of it as, like, impact of the finished product.
+Speaker 3: I know. And I don't do a good job of thinking about it that way.
+Speaker 3: I I
+Speaker 3: my default is, no. I actually get all the like, the interesting hard stuff. Like, the I did the 85%. I did the most impactful stuff already.
+Speaker 3: I don't think about it as, like, a finished product enough.
+Speaker 3: Don't do a good job of that.
+Speaker 2: Okay. So so far, two options. That we discussed. The
+Speaker 2: reality check to
+Speaker 2: when you receive another feedback to be implemented. Just to really think how much time it will take, what needs to be done, and accept that that's just the way it would be done.
+Speaker 2: And the second is to remember about impact. That it's the impact of the task done.
+Speaker 2: Without dividing it necessarily.
+Speaker 2: To the part that you like or you like less. Yeah.
+Speaker 3: That's right.
+Speaker 2: Is this gonna be enough?
+Speaker 3: So at least a good starting point, I think.
+Speaker 3: Is it enough? Yeah. I don't know.
+Speaker 3: I I do not know. Maybe.
+Speaker 2: Well, you have possibility to practice it anytime soon this week for example?
+Speaker 3: Almost definitely. Almost definitely.
+Speaker 2: How exactly it can look like.
+Speaker 3: Well, I'm already getting more comments on the HOS video. It like. And I just got another version of the new cybernetica video while we were talking too. So I have to
+Speaker 3: I
+Speaker 3: yeah. And both are I mean, at least the new cybernetica should be, quote, unquote, final at this point. So I I need to understand whether it is or isn't.
+Speaker 3: And then I have to
+Speaker 3: I have to make sure that I'm maintaining my focus on getting the job actually done as opposed to
+Speaker 3: getting it to almost done.
+Speaker 1: Okay. Also,
+Speaker 2: regarding this comment that it seems like you realize that defining this, down criteria from the beginning is important. And I understood that for this reader tasks, both for NES, Verintika, and HS, it wasn't done.
+Speaker 2: The beginning.
+Speaker 3: The reality is is that in most of my projects, defining done is not even possible.
+Speaker 3: I just that's
+Speaker 3: almost a wishful thinking.
+Speaker 3: Okay. But but the reality is that the the finish line moves on me.
+Speaker 3: And that it is what it is. Right? Like,
+Speaker 3: I often will take on something where it's there's not, like, a an expectation of, like there's kind of, like, a vision of of something. But there's not like, it would be impossible to, like, clearly define it.
+Speaker 3: And so, yeah, I I do I do, like, openly admit that that
+Speaker 3: that's both fun, and then it's frustrating because
+Speaker 3: if I would have known the definition of done from the get go, I probably would have been able to do a better job at the start. But it would have been it's it's like a circular reference. Right? It's it's just impossible.
+Speaker 3: So think I just have to I have to get better at accepting the fact that the my the the finish line will change.
+Speaker 3: For a lot of things that I'm working on. And that it
+Speaker 3: not that's not a bad thing or a good thing, and it's not necessarily a reflection of, like,
+Speaker 3: the quality of my work. It's just
+Speaker 3: a reflection of, like, reality.
+Speaker 4: Mhmm.
+Speaker 2: Okay. Who is defining that
+Speaker 2: the task is done?
+Speaker 3: Mostly Jeremy, probably.
+Speaker 3: Mostly Jeremy. Sometimes me, though, I guess. Sometimes I'm the one who's defining done.
+Speaker 3: Nah. It's mostly other people.
+Speaker 2: Is there anything that is still in your control? That you can use
+Speaker 2: trying to figure out this finish line.
+Speaker 3: I think I'm already doing it.
+Speaker 3: To be honest. Like, the the key is iteration.
+Speaker 3: And I just have to keep that in mind. I just don't sometimes, again, it just
+Speaker 3: and I I think this is normal for most people. Right? When the the finish line is isn't clear and then it gets moved and changed,
+Speaker 3: that's that can be frustrating.
+Speaker 3: Right? And so I think in my case, it's just like, I have to accept that a bit more than I have been
+Speaker 3: And then I should probably also be a little bit
+Speaker 3: louder, maybe
+Speaker 3: I say, like,
+Speaker 3: guys, like,
+Speaker 3: is this the are we is this, like, intent intentionally are we intentionally moving the the
+Speaker 3: the finish line? Or, like, this is a big shift. Like, is this are we intentionally going in this direction?
+Speaker 3: But to some make to some degree, it's just like it I just need to be more accepting of this is this being the reality. I mean, this is the reality unless you're, like, a cog in a wheel most of the time is, like,
+Speaker 3: unless you're doing just, like, a bunch of road tasks. Like, when you're actually doing something that requires thought,
+Speaker 3: and is complicated and is complex, the
+Speaker 3: it's very likely to change. And so I just have to, like I have to accept that.
+Speaker 2: Okay.
+Speaker 2: How do you feel when you're talking about it now?
+Speaker 4: Tired.
+Speaker 3: Yeah. I just I end up I always I end up thinking that, like, it's mostly just on me to, like, reframe the way that I think about things.
+Speaker 3: That, like, the reality is much
+Speaker 3: is much more positive than I, most of the time, make it out to be.
+Speaker 3: In my own head.
+Speaker 3: But I just need to, like,
+Speaker 3: I need to
+Speaker 3: be constantly taking a bit of a step back and just, like, actually
+Speaker 3: spending some time and, like, thinking about what the what reality really is versus what fantasy that I've I've, like, made in my mind.
+Speaker 2: Mary, I think it's a
+Speaker 2: huge progress.
+Speaker 2: That you started to talk about it.
+Speaker 2: Yourself.
+Speaker 2: First.
+Speaker 2: Because mostly, we when when it comes to
+Speaker 2: like, some positive thinking, it's more like,
+Speaker 2: we touch it slightly, but then you just keep moving or there is constant to the recurring topic of being hard on yourself or, like, pushing more. And I think it's the first time you're openly talking about this shift in the mindset that you want to make for yourself?
+Speaker 3: Yeah. I mean, I've known this is the case for, like, a long time. Like, my this is the role that my a big role that my dad has, like, played in my life. Like, a little bit less now, but certainly, like, when I was in school and when I was in college even was, like, you know,
+Speaker 3: one of his, like, constant reframes is you do the best you can. Like, you do the most you can.
+Speaker 3: And that's, like, that's all you can do. Like, you can't do anymore.
+Speaker 3: And, like,
+Speaker 3: and I've gotten a lot better at this, like,
+Speaker 3: in the past year or two, I would say. I'm like just like
+Speaker 3: taking a step back and reframing my thinking and just, like,
+Speaker 3: asking myself, like, what's the reality here?
+Speaker 3: Yeah. But I still have a I definitely still have a long way to go. For sure.
+Speaker 3: But it is it is very related to, like I mean, I I've definitely made some big changes to, like,
+Speaker 3: my who I am as a person and, like, how I think about myself because of this. But
+Speaker 3: yeah, I I recognize
+Speaker 3: that I still have a long way to go here.
+Speaker 3: I would love to be able to think even think about emails and messages as being related to a passion or an interest as opposed to just being an act like,
+Speaker 3: bullshit a bullshit shit. I don't know if I'll ever get there.
+Speaker 2: Maybe that is not necessary. Yeah.
+Speaker 3: So it's definitely not necessary. It would just it would just be, like, a potentially a positive.
+Speaker 2: Do you know the difference between talk toxic positivity and, actual positive thinking?
+Speaker 3: No. But I like the fact that you brought that up now.
+Speaker 2: That's exactly your example. Thinking of like, trying to think of everything as a beautiful thing that you should Yeah.
+Speaker 2: That's a toxic positivity. Yeah.
+Speaker 2: Like, being a little bit more realistic that, like, the raw things that I don't like, there are things that I don't need to reframe.
+Speaker 2: There are things I can stay negative about.
+Speaker 2: That helps to balance it.
+Speaker 2: And, just an actual positive thinking, it's mostly about this idea that,
+Speaker 2: no matter what's happening now,
+Speaker 2: I have a hope
+Speaker 2: and faith that everything is gonna be okay in the future. It's almost like learning from mistakes instead of being stuck on them and criticizing yourself. Supporting yourself in compassion to yourself, again, instead of
+Speaker 2: being hard, criticizing,
+Speaker 2: then it's it's not necessary.
+Speaker 2: So that's, like, the main differentiations of, positive thinking. Being on your slate, basically, like, in in in very short, simple words, it's been on your side.
+Speaker 2: And when you're on your side, you don't want to be bad with yourself. Okay, man. Unless you have some psychological conditions for that.
+Speaker 3: Yeah.
+Speaker 2: Right? You want to be a front to yourself.
+Speaker 3: Definitely.
+Speaker 2: Okay. One last question I want to ask here.
+Speaker 2: I want to get back to the motivation topic.
+Speaker 2: And ask you
+Speaker 2: so reminder of your motivators. That's the motivators. Reminder of your motivators.
+Speaker 2: Damn. Wait a second. That is confusing. Where is the employee profile? Here.
+Speaker 2: Here I have the clean
+Speaker 2: list here. Personal growth challenging work, achievement, and results.
+Speaker 2: In relation to manager, and demotivators as limited growth, for communication and boredom. What connection do you see to
+Speaker 2: Passion's interest in jobs here?
+Speaker 3: Yeah. I mean, I'm passionate about
+Speaker 3: I it's I think it's pretty clear. I'm passionate about things that challenge me and will allow me to grow.
+Speaker 3: And,
+Speaker 3: I'm not passionate about the things where that's not, like,
+Speaker 3: gonna happen.
+Speaker 3: Is that that seems like super basic. Like,
+Speaker 3: maybe but that I that's true. Like, I think that it's just, like, holds true in everything I do. It's, like, I tend to be passionate about the things where I can grow. And then not passionate about the things where I can't.
+Speaker 2: Right. I just wanted to highlight this connection be because for me, it was also visible. And it's like one more way for you to
+Speaker 2: reconnect to your
+Speaker 2: motivators and to make sure that what are you doing is actually in alignment with what you like.
+Speaker 2: And Mhmm. Like, where are you moving in the future?
+Speaker 3: Yeah.
+Speaker 3: Totally.
+Speaker 1: Okay. Great.
+Speaker 2: Any last minute questions, comments, feedback, on today's topic?
+Speaker 3: No. I don't think so.
+Speaker 4: Okay.
+Speaker 2: So I guess we can finish on this.
+Speaker 4: That work.
+Speaker 2: Sure. Tell me, please, regarding the next session.
+Speaker 2: Considering you're gonna be traveling.
+Speaker 2: Do you prefer to skip the week, or you think you will time for the session next week?
+Speaker 3: Next week, I think we should skip.
+Speaker 3: Okay. The week after, I think I can we can meet we can meet if that's okay.
+Speaker 4: Yep.
+Speaker 2: Do you know the date?
+Speaker 3: Oh, when I get when I get home. Wednesday, the twenty sixth or Friday, the twenty eighth.
+Speaker 3: Either could work.
+Speaker 2: I have time on twenty sixth. Like, 9AM, 10AM, or 12PM.
+Speaker 3: 10AM or 12PM could work.
+Speaker 3: Either one of those. Let's do 10AM.
+Speaker 2: In case something changed, then we have Friday as a caption.
+Speaker 4: That sounds good.
+Speaker 2: Okay. Great. Thank you so much
+Speaker 3: Thank you.
+Speaker 2: And, have a good travel.
+Speaker 2: Try to use Morpheus for help with your challenges during travel. And Yeah. That's a good suggestion. I'll also check on you next week.
+Speaker 2: Sounds good. We'll see each other next Wednesday in two weeks.
+Speaker 3: Yeah. Yeah. Feel better.
+Speaker 2: Thank you.
+Speaker 3: See you.
+Speaker 1: Bye. Bye.

@@ -1,0 +1,593 @@
+Speaker 1: Not a %.
+Speaker 2: Okay. Yeah. That must be difficult. Considering that you still need to keep working. You still want to keep your routines and stuff.
+Speaker 1: Yeah. Trying to, at least. That's why, like, if you see my 04:30AM wake up calls not been going particularly well, it's because
+Speaker 1: I've been, like,
+Speaker 1: awake for part of the night or most of the night and getting
+Speaker 1: know, that type of stuff. So
+Speaker 2: Sure. Totally understandable.
+Speaker 1: How are you?
+Speaker 2: It's okay. Nothing really interesting to share. Just a lot of work.
+Speaker 2: To be honest, but it's fine. I'm, preparing for my vacation. By the way, from my experience, usually, in the end, we don't have time to discuss anything. So let me ask now. I will be
+Speaker 2: off next Monday and Tuesday.
+Speaker 2: Will you have time from Wednesday onwards for the coaching session?
+Speaker 1: Yes. Actually, Monday and Tuesday don't work for me either because I'm traveling, so that's perfect.
+Speaker 2: Okay. So it seems like it's matching. Do you know already the times So so we agree on that, and we don't come back to this. Wednesday is pretty open for me. Right?
+Speaker 1: Now.
+Speaker 1: Actually, Wednesday is, like, completely open for me right now. So
+Speaker 1: assuming I don't do any other traveling at the end of next week,
+Speaker 1: you can pick any time that works for you.
+Speaker 2: For me, Wednesday, noon is good. Let's do let's do this. I'm gonna put first just for myself a note, and then I will send you the calendar invite, but twelve on Wednesday.
+Speaker 2: Perfect.
+Speaker 2: Alright. I hope I will give I will go on vacation because we're we're planning the trip to,
+Speaker 2: Azure's Is this I still can't figure out how you pronounce this in English. I'm so sorry. It's because I used to pronounce it in Portuguese, like Azores. Ezoar Islands, it's in the middle of Atlantic in between America continent and,
+Speaker 2: Eurasia continent.
+Speaker 2: Wow. And because of the location when there are severe weather conditions like strong wind and rain, usually, like, they cancel the flights and so on. And for the past three days, we had a severe, weather conditions. It just hope that it will pass until
+Speaker 2: Thursday. So I don't know. I'm mentally prepared that the flight might be canceled or postponed, like, one day or something.
+Speaker 1: I overtime.
+Speaker 2: Let's see how it goes. It's look
+Speaker 1: gorgeous. How do you find this? I mean, I guess Portugal.
+Speaker 2: Yeah. It's a part of Portugal. That's that's how I know about it.
+Speaker 2: But, yeah, everyone is telling me that it's like they call it, European Hawaii. That's how they call it.
+Speaker 1: I see that now. I'm going to Hawaii this weekend actually for a wedding, so it's funny. Yeah.
+Speaker 1: This is insane. Well, I hope you get to go. This is really cool.
+Speaker 2: Yep. I'll let you know next Wednesday. Please.
+Speaker 1: Please do.
+Speaker 2: Alright. Today, we have, as we planned, we have two main objectives objectives for the coaching session, which is just, the respective of your first week like, a quick check-in on your challenge progress. And then,
+Speaker 2: according to the plan, we have a great leader exercise.
+Speaker 2: But if you want to change something, if there is something in your mind which is different, feel free to share it, and and we can discuss something else.
+Speaker 1: Sounds good for now. The only thing I'll say is, like, as we go through the great leader exercise, I might need to just, like, spend more time, like, myself thinking about
+Speaker 1: great leaders in general. Like, I I did some
+Speaker 1: I did some thinking, and I did a a little bit of research yesterday and today on, like,
+Speaker 1: people that I would
+Speaker 1: consider great leaders and just, like, trying to think about other things and
+Speaker 1: it was actually a bit harder than I thought it would be.
+Speaker 1: There was kind of like a I I kept, like,
+Speaker 1: coming back to, like, what's the distinction between just, like, a great purse like, a great individual
+Speaker 1: versus, like, a great
+Speaker 2: leader? That's a good question.
+Speaker 2: So An answer.
+Speaker 1: No. I did not. In quite a few cases, I think there are, like I think it's people are both
+Speaker 1: And then I also started thinking about, like, what the word great means. But, anyways, so, yeah, we I might need to do, like, just, like, a little bit more,
+Speaker 1: work on my end.
+Speaker 1: As we go through that exercise. That wouldn't surprise me.
+Speaker 2: No. That's totally fine. And, I'm curious, does for you, a world leader
+Speaker 2: means
+Speaker 2: the same in the context of your goal, like a founder, cofounder of the future. Company?
+Speaker 1: Yeah. I think so.
+Speaker 2: Mhmm. Okay. Great. Great. Okay. So we will continue with that today.
+Speaker 2: No worries. Before we jump to this, a few words about your sprint. How do you feel about all these reflection challenges, daily win challenge? And so on?
+Speaker 1: Yeah. I like the reflection challenges. I like the the daily win challenge. It may seem lot easier than
+Speaker 1: actually is for me.
+Speaker 1: Like, I may I'm definitely able to do it every day, but I actually have to spend, like, in some cases,
+Speaker 1: more time than others to, like, think about, like, what was an actual win for a day.
+Speaker 1: Some of the some of the stuff that I put still feels like really
+Speaker 1: quite small and, like, somewhat insignificant. But
+Speaker 1: I'm, like, fighting that mentality a little bit myself.
+Speaker 1: Honestly, other than being sick, I think my sprint is going, like,
+Speaker 1: fairly well so far.
+Speaker 1: The challenge that I'm most worried about is doing the ninety minutes of Python learning per week.
+Speaker 1: I just, like, last week could not
+Speaker 1: it was concentrating was not an easy thing for me to do last week, so I didn't even I really didn't even try to concentrate on Python and
+Speaker 1: I wanted to do it on Saturday and then felt awful on Saturday, and then yesterday was I was just exhausted the whole day. So that's the the challenge that I'm the most worried about. I'm not even sure if I'm gonna be able to do it this week, but I'm gonna try.
+Speaker 1: Let me see. Let me just look at my other challenges.
+Speaker 2: I'm also showing my screen.
+Speaker 1: All of my health challenges should be fine. I'm not too worried about that.
+Speaker 1: This week,
+Speaker 1: last week and this week are and probably even next week are fairly light on, like, meetings, specifically, like,
+Speaker 1: external meetings. So I'm having to rely a bit on, like, just, like, stuff that I'm reading in terms of, what I'm learning. What I'm learning from white others, specifically.
+Speaker 1: Okay. Reading is actually oh, go ahead.
+Speaker 2: No. No. I'm just saying great.
+Speaker 1: Yeah. Okay.
+Speaker 1: Reading is actually something I may need to figure out because, like, my reading list at this point is, like,
+Speaker 1: far too long. And I
+Speaker 1: have a bad like, not a bad habit, but, like, I I typically when I I'm, like, reading something, I don't like to, like,
+Speaker 1: stop, like, halfway and, like, pick up something else. I like to
+Speaker 1: I
+Speaker 1: like, finish something
+Speaker 1: it just so happens that the two things that I'm reading right now are, like, full series of books. They're not, like,
+Speaker 1: one offs. So it's I think one of them is, like, seven books long, which I did not know when I started it.
+Speaker 1: So I have to figure out, like,
+Speaker 1: because there are I I had a bunch of good recommendations and stuff that I found that I, like, really wanna read.
+Speaker 1: So I'll I'll have to figure out how to prioritize
+Speaker 1: that stuff. I'll probably end up just, like, dropping some of the stuff that I'm reading right now
+Speaker 1: just, like, picking up
+Speaker 1: some of this.
+Speaker 2: This series that you're reading right now, is it related to to your challenge about learning
+Speaker 1: one is
+Speaker 1: more loosely related, and the other one is, like,
+Speaker 1: very loose. So one is
+Speaker 1: one is a book that is related to more, like, Neo Cybernetica than anything.
+Speaker 1: And it's fun. They're both fun reads. And the other one is, like, very, very loose. Related, but it's more like it's just like Sci Fi in general. So if there's some there's some, like, thoughts about, like, AI and just, like, about the world that's, like, very interesting think about.
+Speaker 1: But not related to my challenge, which is why I think I'll end up dropping one or both for some period of time.
+Speaker 1: Mhmm. Mhmm.
+Speaker 2: Okay.
+Speaker 2: Okay. You totally can shift the topics, the priorities, but also
+Speaker 2: even if in these books that you're reading right now, even if they are not about found in the company or learning from someone else's experience, you still can keep asking, like, on the back of your head like, what what is it makes it interesting for me, like, in this specific book? Maybe like a topic. You already mentioned AI a couple of times, and it seems like it can be your interest that you can use even for the future, like, when you will be ready to, start the company and have your product related to the topic. Well, basically, like, what sparks my interest? Like, why I'm reading this book right now.
+Speaker 1: Yeah. They're both very sci fi, so it's they're imagining worlds that basically, like, don't exist. So that that is, like yeah. Wait wait. Your comment is relevant. And that doesn't make sense. So we'll see. Again, like,
+Speaker 1: I I just have, like it's, like, already I have
+Speaker 1: 17 books that are, like,
+Speaker 1: some of these are, like, should be high priority and, like, there'll be there'll be, I think, very interesting.
+Speaker 1: So
+Speaker 2: we'll see. Okay. Just to double check for this learning challenge, do you need addition recommendations of resources, or you feel like you're good for now with your reading list and list?
+Speaker 1: I'm probably like, I have a good I have a good enough starting point here right now
+Speaker 1: in terms of at least, like, books
+Speaker 1: podcasts, and stuff, I could probably use more of.
+Speaker 1: Although, I mean, I guess there are some, like I I could I probably haven't even I need to do more research there myself too.
+Speaker 1: Let me just I can add that to my list of things to do. Give me a second. And then, yeah, I mean, I'm always I should be adding more and more. Like, stuff that comes recommended,
+Speaker 1: will, like, just basically get get put to the top of my list. As opposed to stuff that I'm just, like, finding randomly.
+Speaker 1: So, yeah, I can always use more, but I have a pretty good starting point.
+Speaker 2: Okay. Okay. Got it.
+Speaker 2: And, since you
+Speaker 2: it it seems like reflection challenges are going okay, and you said so what do you think about increasing the frequency? At least for this challenge about tracking your experience? To do it more than one times a week.
+Speaker 1: Yeah. That's a good idea. Yeah. We should do that.
+Speaker 2: How many times per week?
+Speaker 2: Sounds realistic for you?
+Speaker 2: I mean, it can be even every day, Monday to
+Speaker 1: Friday.
+Speaker 1: Or
+Speaker 1: That would probably be a little bit more difficult.
+Speaker 1: Just because I don't know if I'm, like
+Speaker 1: I don't know. Maybe three three times a week.
+Speaker 1: Six days,
+Speaker 1: seven days. Yeah. Three times a week, maybe.
+Speaker 2: Try that and see what happens. Okay. Let's try it out for free. Times from this week starting.
+Speaker 1: Cool.
+Speaker 2: Regarding the other two.
+Speaker 2: Is it enough one time per week?
+Speaker 1: Probably.
+Speaker 2: Okay. I feel like many of them are also overlapping. A little bit. So, I mean Yeah.
+Speaker 1: I am trying to keep them, like, somewhat separate. Like, I'm trying not to, like,
+Speaker 1: make my wins, like, some of my other challenges, and I'm trying so
+Speaker 1: I'm trying to, like, keep them a little bit separate, but, yeah, they definitely they definitely do overlap. A bit. Mhmm. Mhmm.
+Speaker 2: Alright.
+Speaker 2: Good. Is there is anything else you want to comment regarding your current sprint or ask?
+Speaker 2: Subordinate
+Speaker 1: I don't think so. I think I'm good. Good. Okay. Great.
+Speaker 2: So let's jump then to your board, and there is something else I wanted to show you. So
+Speaker 2: while we're working on your goal,
+Speaker 2: your main career goal to start your own company, I started to put together your insights in the board with a bucket, the who. Remember I told you that there is, like, who, how, who, what, and how. And this is always the order that we are moving. With. And who it's what you're working on in this sprint, And this is exactly about who are you as a founder what are your values, what are your skills, what are your strengths, and how can you build it up as a foundation for any type of business that you want to start. So, from the very beginning, I already put here some values that you mentioned to know about yourself. Some skills that we discussed. But now while you're moving through this sprint and you leave different reflection points, I'm adding it to the board as an example of these two from one of the win you mentioned perseverance and organization and then example how you show up with this. The same you mentioned about powerful listening. And an example how you show up with this. So I will be building up
+Speaker 2: your image here. And now when you're looking at this, and you also have here, like,
+Speaker 2: captured strengths, based on this survey, What do you think so far about these few points that I added?
+Speaker 1: Resilience perspective taking self regulation and optimism to work on now. First, I just wanna Yeah.
+Speaker 1: It feels right.
+Speaker 1: He's probably, like,
+Speaker 1: Especially the values on the right hand side.
+Speaker 1: It's Mhmm.
+Speaker 1: Somebody had asked me, like, what are my top five values, it probably would have been
+Speaker 1: those almost exactly. I do yeah. It's funny. I do really, like, value genuine people too.
+Speaker 1: And thoughtfulness. I actually wanna value thoughtfulness almost even more
+Speaker 1: now
+Speaker 1: like, I kinda wanna I wanna spend some time thinking about that myself because, like,
+Speaker 1: I just I keep finding that,
+Speaker 1: that quite a lot of people are not
+Speaker 1: very thoughtful, to be completely honest. Like,
+Speaker 1: just, like, will say things that, like, random things that, like, pop into their mind or, like, that with with, like,
+Speaker 1: not necessarily, like, any meaning or any or any value in so I'm I'm always, like, particularly struck by people who
+Speaker 1: have, like, really thought through something
+Speaker 1: and have, like, very clearly, like, thought through multiple angles and, like, maybe even question their own thoughts or, like, done
+Speaker 1: like, made attempts to counter themselves.
+Speaker 1: So I'm always I'm always quite struck by that, and I tend to find
+Speaker 1: those people to be particularly impressive, like people who are particularly thoughtful. So that that one is one that I think is interesting. I'm not it it's funny because I was actually I when when I left that negative example,
+Speaker 1: into, like, the thing that I I learned this week or the
+Speaker 1: my interactions with people. I did not think about the word thoughtfulness, but
+Speaker 1: seeing that here, I would probably say that he is, like,
+Speaker 1: a very not thoughtful person.
+Speaker 1: I don't mean that in, like, the sense of, like, kindness in particular, but, like,
+Speaker 1: thinking about others at all. I just think that, like,
+Speaker 1: I mean, he basically talked to Abney for, like, three and a half hours straight. It was, like, insane.
+Speaker 1: I couldn't I can't tell you, like, anything that he said that was, like, of particular value. He just, like, didn't stop talking.
+Speaker 1: So, yeah, that that word is very interesting to me.
+Speaker 2: How do they know that
+Speaker 2: you bring up value when you share your opinion?
+Speaker 2: As a leader.
+Speaker 1: It's
+Speaker 1: probably I mean, it's it's nothing that I know for sure. It's more like
+Speaker 1: it's more like what when I when I think that I have something that's, like, actually valuable to share. Right? Like, I don't It's more, I guess, like, not
+Speaker 1: just sharing the first thing that comes to mind, but, like,
+Speaker 1: you know, when I hear something, like, actually trying to, like, process it and understand it to some degree and then thinking of something, like,
+Speaker 1: yeah. I okay. So I I try not to share, like, just, like, random thoughts. Like, I try to share something that is, like, somewhat processed,
+Speaker 1: related, and then
+Speaker 1: there's something else I'm trying to say that I'm I'm struggling to, like, actually actually say, which is funny and ironic.
+Speaker 1: Yeah. I it it's it's more like
+Speaker 1: I I would rather, like, take take two minutes to come up with, like, a decent answer to a question
+Speaker 1: then just start, like, splurting something out. Right? And if I don't if I don't feel, like, confident in something that I'm gonna say, like, if if I'm, like, is that really what I wanna say, or is that, like,
+Speaker 1: like, I wanna consider different
+Speaker 1: angles before I, like, say something.
+Speaker 1: Particularly, if I say something, like, strongly, like, I believe or something like that or I think, Like,
+Speaker 1: rather take a little bit more time and, like, give a thought like, a genuine, like, thoughtful response that shows somebody that, like,
+Speaker 1: I'm really paying attention. I'm actually, like,
+Speaker 1: trying to absorb what you're saying.
+Speaker 1: As opposed to just, like, shouting something out randomly, which I think
+Speaker 1: again, like, not so much at h o s or neo cybernetic, I don't think, but in particularly, like, in past jobs and even with some of my friends and just like, all over the all all all the time, I see people just, like,
+Speaker 1: say, like, random shit. Like,
+Speaker 1: this it's classic whenever in, like, cortical, like, somebody will ask a question
+Speaker 1: and then
+Speaker 1: answer will be something that is just, like, completely different.
+Speaker 1: Like, not at all related. Like, it's just somebody who's, like,
+Speaker 1: they're just trying to pass the time and, like,
+Speaker 1: don't know. Instead of saying, I don't know what I don't know like, I don't have a good answer to your question, they're just say something.
+Speaker 1: So I think that's one part of it. And then I think there's, like, also
+Speaker 1: sometimes what people say is not quite what they mean. And so I think there is, like, also trying to understand, like,
+Speaker 1: what somebody means in addition to what they say.
+Speaker 1: In those cases where there is a mismatch, I think that's where thoughtfulness can be really important. Right? Like, understanding
+Speaker 1: more context or
+Speaker 1: a slightly larger
+Speaker 1: yeah, something.
+Speaker 2: Okay. So you speak a lot about, understanding context relatively speak about something, not just, like, sharing random thoughts a bit to, like, stick to the topic stick to the point, and also share something, that is a part of your beliefs only when you are % confident and sure that that's what you want to share.
+Speaker 1: I don't even have to be a % confident. Right? Like, I'm totally happy being wrong Like, I'm very, very happy to, like, change my mind. Like, I don't it actually doesn't really bother me at all. But when I if I, like, if I wanna tell somebody that I believe something, like, I just I wanna have, like, a strong reason, like, why I believe something. I don't wanna just, like, throw something out there and and and somebody be like, well, why? And we not have a good reason. Like, like, it just doesn't seem like a good argument. Like, why And I I don't mean argument as in, like, a debate or anything. It's just like, it doesn't seem, like, rational. Mhmm. Mhmm.
+Speaker 2: Okay. Okay. Okay. Great.
+Speaker 2: That's already a great discussion. Before we move to the great leader exercise because in this case, you also had an example more like anti example, something that you didn't like, which is also great for any type of reflection because then you understand, like, oh, how is it I would do and, how I would act differently and what different outcome it would bring to me. Yeah.
+Speaker 2: So
+Speaker 2: getting back here,
+Speaker 2: I
+Speaker 2: we're gonna do something very similar. That that we just discussed. So, basically, the x exercises consist of three simple steps. The first step, it's to analyze the leader that you will pick up for today's exercise in terms of the qualities. Like, thoughtfulness, as you mentioned, as an example. And they if you see this quality in the leader, then the question is, how do you understand in practice like, how does this leader show up with this quality? And which is even more important, what difference does it make or what impact it has.
+Speaker 2: And then we will discuss a little bit how to apply this findings on your example connected to your goal and finish with the
+Speaker 2: takeaways, like an action step, what is it that you can do today or in the future, to start maybe using these skills or this Shall we?
+Speaker 1: Yeah. Sounds good.
+Speaker 2: Do you know who do you want to reflect on today?
+Speaker 1: Yeah. I put together a list of, like, people that I thought were interesting leaders. And, actually, like, one of them was somebody that I hadn't really thought about too much but then I kind of, like, did some
+Speaker 1: digging into his background a little bit, and I think it's really interesting. So it's his name is Andrew Carnegie. It's a big name in The US. And then Carnegie is spelled like this.
+Speaker 2: Uh-huh. Andre Carnegie. Okay.
+Speaker 2: Great. Tell me more about why, specifically him.
+Speaker 1: So he's like, it's definitely more historical, but he's, like, potentially the most one of the most successful American businessmen ever. And he managed to do that in, like, a challenging time period for sure. He basically, like, you've started building his his what became an empire, like, before and during the civil war the American civil war.
+Speaker 1: But, what's really what was really interesting to me is, like, he he came from nothing.
+Speaker 1: Like, legitimately nothing. So he's he's Scottish American. He grew up in Scotland. His parents had nothing
+Speaker 1: They moved to The US.
+Speaker 1: And he started working when he was, like, 12 or something. Like, he started working basically, like, full time when he was, like, 12.
+Speaker 1: And,
+Speaker 1: if you just, like, read his, like, career trajectory, it's just, like,
+Speaker 1: it almost makes no sense. Like, it's just, like, astonishing. And, like, one of the things that he attributed to, like, his his trajectory was just that he, like, loved learning. Like, he was just, like,
+Speaker 1: totally obsessed with it. And early on in his career, he found somebody who had, like, a library that gave him access to to a library.
+Speaker 1: Of books. And he was just, like,
+Speaker 1: so over the top, like, taking advantage of that type of opportunity. So
+Speaker 1: he both, like, he both just, like, loved learning, and he was extremely good at taking advantage of opportunities. Like,
+Speaker 1: those two things, attracted me to them a lot. And then I I started learning about, like, how he, like, really built out his empire. He built a company called US Steel, which was a a massive, massive company.
+Speaker 1: Still exists, actually, but it's not obviously, steel is not, like, the the biggest thing in The US anymore, although it's still still big. But,
+Speaker 1: he attributed, like, a lot of his, like, success in in business in addition to just being, like, a a naturally talented businessman and, like, somebody who studied business and, like, understood
+Speaker 1: he attributed a lot of his success to just, like, building relationships with people. Actually, like, quite a lot of, like, what he did in order to, like,
+Speaker 1: make his money particularly early. Today would be probably, like, illegal because it was all relationships based. So it was, like,
+Speaker 1: you know,
+Speaker 1: it was basically getting, like you know, it was it was more or less, like, insider trading or, like, making insider deals with people that he had worked with and built relationships with. But was just a an interesting example to me of, like,
+Speaker 1: this guy basically built his entire empire off the back of, like, the quality of his relationships with people.
+Speaker 1: In addition to being, like, an incredibly intelligent, talented, like, hardworking individual, he just, like,
+Speaker 1: he really knew how to, like, maximize the value of his relationships.
+Speaker 2: Well, then it helped him to build relationship like this.
+Speaker 1: It it just seems like he was, like, a very genuine, like, hardworking guy who just, like,
+Speaker 1: really was just
+Speaker 1: trying to add value. And it seems like he understood people really well. I mean, I wanna read, like, his own autobiography. Actually, it's on my reading list. It might be the it might end up being the next book that I read.
+Speaker 1: But it it really sounds like he just, like,
+Speaker 1: it it just sounded like he he spent genuine time with people and, like,
+Speaker 1: really got to know them and understand them. And he worked closely with some people, and he delivered
+Speaker 1: strong results. And I think those types of things always help to at least set, like, a positive foundation. Like, if you're a good worker and a hard worker, like,
+Speaker 1: that's always, like, a pretty decent
+Speaker 1: foundation on which to build a relationship. It's never, like,
+Speaker 1: enough to to build a a full relationship. So but apparently, he was also, like, a pretty charming guy. So he was he was intelligent. He was charming. He managed to get invitations to all sorts of, like, dinners and events and
+Speaker 1: he he was able capable of building relationships there. So
+Speaker 1: was doing all this in, like, the the late eighteen hundreds. So
+Speaker 1: again, it was a different time period, and
+Speaker 1: quite a lot of what he did probably would not be
+Speaker 1: considered, like, legal or
+Speaker 1: you know,
+Speaker 1: today. But Mhmm.
+Speaker 1: I have to argue with, like, his results and what he did. The other thing that's, like, he's most well known for in The US today is, like,
+Speaker 1: when he at at one point, he said he said something
+Speaker 1: He said
+Speaker 1: in 1868 when he was 33, he wrote,
+Speaker 1: I propose to take an income no greater than $50,000 per annum beyond this. I need ever earn, make no effort to increase my fortune, but spend a surplus each year for benevolent purposes. And so he, like,
+Speaker 1: the vast majority of the money that he made, he gave away. He he became like a massive philanthropist, which
+Speaker 1: you know,
+Speaker 1: Jesus. Sorry. I just think it's
+Speaker 1: I think it speaks to him, like,
+Speaker 1: knowing that, like,
+Speaker 1: know,
+Speaker 1: could provide for himself and his family, but then wanting to make an impact more more broadly. So Mhmm.
+Speaker 2: Okay. Sounds to me like you really studied the subject or in this case, the person.
+Speaker 1: A little bit. Yeah. I mean, I definitely I wanna read more because I wanna understand him a little bit better.
+Speaker 1: Again, like, I I well, probably maybe his autobiography will be the next book that I read.
+Speaker 1: But he's like this is a he's a fairly big name in The US, and I didn't really I didn't wanna choose, like, a a Steve Jobs or
+Speaker 1: somebody like that because I thought it would be, like,
+Speaker 1: I don't know.
+Speaker 1: Not not boring, but, like, not very original. So, of course, I fixed, like, a fucking this guy. Right.
+Speaker 1: Okay.
+Speaker 2: Okay. So from the the way you were speaking about him, for me, it stands out to qualities, which is building relationships or it's not exactly the quality. It's something in between quality and strength, and just like some of the way he was using for his business. Right? Like, building relationships and taking opportunity And it sounds to me that even these deals that now might not be legal, but he he was willing to take this opportunity. And Yes. Through building relationships to still, like, close the business with the means that he had at that time.
+Speaker 1: I agree. And I I would say, like, one of the other if we're talking about, like, qualities, he he definitely, like,
+Speaker 1: he he had some kind of vision. Like, he was able to see stuff that others weren't necessarily able to see.
+Speaker 1: If you just, like, just looking at some of the opportunities that he was able to take advantage of,
+Speaker 1: It it was stuff that
+Speaker 1: I mean, at at the time, he he got he basically understood the the relationship between railroads, which was the biggest that that was the biggest industry in The US at the time, and then steel, which is the the industry that he basically built. And
+Speaker 1: because he understood those he understood, like, the dynamic and he saw the dynamic there, he was able to build this
+Speaker 1: massive steel company by acquiring other
+Speaker 1: steel companies and and intertwining those two very, very closely. So
+Speaker 1: I just I think he was thinking about things in a totally different way than anybody else time time was, and
+Speaker 1: he understood how to actually take advantage of that.
+Speaker 1: Mhmm. Mhmm.
+Speaker 2: Okay. What else have you noticed?
+Speaker 2: Or maybe from what you already mentioned, like, in intelligent, charming, things like this.
+Speaker 1: He was definitely intelligent. I mean, I don't think there's any doubt about that.
+Speaker 2: Mhmm.
+Speaker 1: And just looking through his bio again.
+Speaker 2: Also mentioned about being genuine.
+Speaker 1: Yeah.
+Speaker 1: He seems like he was genuine.
+Speaker 1: Yeah. The relationship point just keeps, like, popping out to me, and that's, like, loads of different friends and family. He was fucking really hardworking. That's the other thing. I'd say he was, like, unbelievably hardworking.
+Speaker 2: Mhmm. It also seems like, like, no wonder you picked up him because, all this, like, hard work, love of learning,
+Speaker 2: even, like, training approach with people, building a relationship, it that's all the points that you were mentioning about yourself. That says what you value. This is the way how you would like to show up.
+Speaker 1: Yeah. I mean, that
+Speaker 1: one thing that I'm slightly worried about in, like, doing this exercise is, like,
+Speaker 1: whether I'm just, like, gonna be drawn to people who are, like,
+Speaker 1: already basically already exhibit all the things that I think are, like, important as opposed to, like, thinking about
+Speaker 1: other types of, like, great leaders who are are, like, different. Right? Like,
+Speaker 1: for example,
+Speaker 1: I didn't put Elon Musk on my, like, list of great leaders.
+Speaker 1: Partially, because I just, like, don't like him.
+Speaker 1: As, like, I don't I he is undoubtedly a great leader, Like, I can't deny that. I don't I hopefully, like,
+Speaker 1: I don't think anybody
+Speaker 1: like, thinking rationally about it could deny that whether he again, whether you like him or his companies or not. But I didn't put him on on my list. And so, like, I want I
+Speaker 1: one thing that worries me is is, like,
+Speaker 1: whether there's just, like, confirmation bias here.
+Speaker 1: In terms of, like, choosing somebody
+Speaker 1: who I think already fits, like, the type of leader that I would wanna be or what I what I would consider to be a great leader as opposed to, like, another example of somebody who is undoubtedly a great leader, but
+Speaker 1: is a different
+Speaker 1: type of person or somebody that I may not necessarily, like, It that I personally might not get along with.
+Speaker 2: I guess, is what I'm saying. What are you hoping to get from analyzing your leader example?
+Speaker 1: Yeah. That's a good question.
+Speaker 1: I think part of it would be to confirm that, like,
+Speaker 1: I think part of it is, like, motivation.
+Speaker 1: And, like, confirmation that a lot of the the way that I'm thinking about this is, like, is either right or can lead to something positive because it's it's not always very easy to do some of this stuff.
+Speaker 1: That I'm, like, trying to do.
+Speaker 1: So I think I definitely think motivation and just, like, some kind of, like,
+Speaker 1: yeah. I I almost kind of want the confirmation bias to a degree. The other thing that I really do want is, like, I do wanna understand better, like,
+Speaker 1: you know, if I have blind spots, what are those blind spots? And then
+Speaker 1: is it even worth, like,
+Speaker 1: working on those blind spots, or should I just acknowledge them as blind spots and know that, like, you know, these things might never be my strong student. That it it is what
+Speaker 1: is, but so I I just don't wanna play to that type of angle. It's kinda like
+Speaker 1: if you if I do, like, a strengths and weaknesses
+Speaker 1: exercise,
+Speaker 1: do I wanna play to my strengths Do I wanna try to improve my weaknesses?
+Speaker 1: It even possible to improve some of my weaknesses? Like, realistically, like, is that even possible?
+Speaker 1: Or should I just be, like, trying to maximize my strengths as as much as possible? So
+Speaker 1: yeah, I think I think it's motivation. I think it's blind spots. I think it's,
+Speaker 1: try to learn as much as possible about how, like, great people think
+Speaker 1: I think that's that's for me, that's, like, one of the most valuable things about working with somebody like Jeremy is, like, just trying to, like,
+Speaker 1: understand, like, how his mind is working and, like,
+Speaker 1: what he's thinking about and how he's, like, what what is trying to understand, like,
+Speaker 1: what's causing him to think this way, what's causing him to not think this way, like, why is he thinking about that in particular,
+Speaker 1: Mhmm. That for me is, like,
+Speaker 1: think incredibly valuable.
+Speaker 1: Mhmm.
+Speaker 1: Motivation, blind spots, learning how great people think.
+Speaker 1: That's probably
+Speaker 1: those are probably the top three for me.
+Speaker 2: That's a great list. If you take the first point, to get motivation and some kind of confirmation that you're on the right track, What type of leaders would help you to understand this? The ones that share similar values or the ones that are, like,
+Speaker 1: Definitely the ones that share similar values. Yeah.
+Speaker 2: Okay. In terms of the blind spots,
+Speaker 1: which ones? Ones that don't.
+Speaker 2: Okay. And to learn how great people think.
+Speaker 3: All of them.
+Speaker 2: Does it sound like an answer to your question?
+Speaker 1: Like I guess. Yeah. More or less.
+Speaker 2: Let's do the following.
+Speaker 2: Let's in the coaching session today, let's use this example of Andrew Carnegie and fit your first point about motivation and confirmation. And then as a homework until our next coaching session, you can take the example Razer, the one who can help you to see some blind spots or the one that just like you can learn something extra from them. And that can be someone that you don't really share their approach but to see where it can lead you.
+Speaker 1: Yeah. Or maybe somebody I don't know. I have a good idea of what I can do for that.
+Speaker 2: Okay. Awesome.
+Speaker 2: And regarding your question about do you lean on your strength or do you improve your blind spots? That's a good one. And I don't think that there is a right answer to this. Like Yeah. There is no one way how you can move on with this. There is a theory that, leaning on our strengths, that's what's gonna save us energy. Because every time you do something that you don't know how to do, you invest way more of your effort, energy, and time into learning it first or mastering it first. Right? So it truly depends on your purpose. Like, right here, right now, what is a priority? Let's say, in my business, Like, what do I need to solve? And to solve this, like, do I have already some strength of quality in my toolkit that can help me to move forward? Or can I delegate it because I don't have this time and effort? To invest in it right now and to improve something that I don't do well? Or is it a good time, for example, sounds like a right time that really focusing on my blind spot would help me to move forward.
+Speaker 2: So I would say this is a trick questions that you can ask yourselves to double check depending on your current situation and depending on the priority.
+Speaker 1: Yeah. That makes sense.
+Speaker 2: Alright. So let's continue then.
+Speaker 2: With this great example of, of your leader and some qualities that you shared. And I feel like you partially shared an example of each of them, like, how how exactly he shows up in life. But let's be a little bit more specific. Thinking of each quality, like,
+Speaker 2: how do you think he really used it in practice
+Speaker 2: while growing his business, and why this specific quality helped him.
+Speaker 2: On your opinion. It doesn't mean, like, you need to find a real confirmation of what really happened, but to just, like, really your opinion here.
+Speaker 1: Yeah. So I for his for building relationships, it was like
+Speaker 1: actually, like, basically, during the civil war,
+Speaker 3: the,
+Speaker 1: was appointed, to a position
+Speaker 1: that he he got basically from one of his relationships.
+Speaker 1: And,
+Speaker 1: it wasn't like, guess it wasn't like a military position by any means, but it it mean it put him into a fairly prominent post in The US And,
+Speaker 1: he was basic he was he ended up supervising basically, like, the railways for the union.
+Speaker 1: Which was the
+Speaker 1: side, the Abraham Lincoln side.
+Speaker 1: So he put he he managed to get himself in a very prominent position. He was very successful in that position, and and it it's pretty clear that, like, he'd used that to, like,
+Speaker 1: launch, a lot of his, like, later,
+Speaker 1: later work.
+Speaker 1: So he he he
+Speaker 1: he basically, like, he made himself, like, synonymous with this this type of with, like, railways and
+Speaker 1: or this, like, organization type stuff and supervision So he he just, like, he built himself up very, very well. But he only he got he got that position through one of his relationships.
+Speaker 2: What do you think he did differently that,
+Speaker 2: like, someone who he was connected to helped him to get there Because you might know a lot of people, right, but still they might not suggest you anything. Like, what is it that you can do in order to use this connection or relationship that you have?
+Speaker 1: Yeah. I mean, my guess is, like,
+Speaker 1: I mean, even in this particular relationship, they had worked together. And so the guy who put him in this position knew how effective and, like, how
+Speaker 1: high quality
+Speaker 1: Carnegie was.
+Speaker 1: And, and trustworthy. And so yeah. It wasn't just like a it wasn't just like run of the mill relationship. They worked together. There was some trust there. They'd they'd achieved good at least, good things, good results in the past.
+Speaker 1: And it was two ways. I mean, it it it was pretty clear that it wasn't just, like, it wasn't just one way. Right? It was he was he was being appointed and it probably ended up making I I don't know this for sure, but it the guy who appointed him probably ended up looking like a a damn genius for doing this because he he put somebody, like, who was
+Speaker 1: ultimately, like, very successful and very intelligent in this position. So
+Speaker 3: yeah.
+Speaker 3: Mhmm.
+Speaker 2: Like, what is a modern language that you can use, for yourself
+Speaker 2: to describe what happened.
+Speaker 2: Like, when you think about you becoming a cofounder in the tech industry, knowing more or less, like, what type of people you're dealing with, how how can you model the situation to yourself, basically?
+Speaker 1: This is the model. Like, this is actually, like, when I
+Speaker 1: before knowing this, like, this is almost exactly what I what I want to happen in my career. Right? Like,
+Speaker 1: the the best thing that could possibly happen in my current position, right, is
+Speaker 1: either or both of HOS and Versus I ran it, like, really takes off.
+Speaker 1: Right? And,
+Speaker 1: five years from now, three years from now, however long it is, they're both big companies doing very, very well.
+Speaker 2: And
+Speaker 1: it's, like, quote, unquote, time for me to, like, start my own company, and I have somebody like Jeremy who I've worked with very closely and who I've
+Speaker 1: added a lot of value to is, like, out there basically, like,
+Speaker 1: making opportunities happen for me. Right? Like, it's not just me looking for my own opportunities, but it's somebody like him who's out there, like, actually, like, looking for things and being like and I see this I see this happen even even today. So with some of, like, particularly, particularly with Jeremy, like, some of his former employees, some of the people that he worked most closely with the data robot, when they go to, like, either start a company themselves, they go to him first to, like, get thoughts and you know, organize themselves. And he he adds a ton of value to them. I mean, in all these meetings, it's how I how I know this happens.
+Speaker 1: But then, potentially, more importantly is, like, when people are thinking about starting companies, Jeremy has, like, a Rolodex of people that he's worked with that are high quality, and he knows what their skill sets are that he, like, considers as, like, either cofounders or, like, first hires,
+Speaker 1: And so it's just like these people have, like,
+Speaker 1: so many more opportunities because somebody like Jeremy is out there, like,
+Speaker 1: you know, who they they worked with, and he he knows them. And
+Speaker 1: he's like, he sees things, and he
+Speaker 1: is putting pieces together that it's, like, it's it's more than one person. And it's not just, like,
+Speaker 1: the classic example is actually my old boss. Like, every time
+Speaker 1: every time we come across a company that needs, like, go to market help,
+Speaker 1: this guy is, like, top of mind. Like, could Harrison name's Harrison. Could Harrison be a good fit for this company? Like, could Harrison help this company?
+Speaker 1: It's just so, you know,
+Speaker 1: even with Harrison looking at all these opportunities himself, he now has somebody like Jeremy who's also looking at opportunities for him and, like, trying to put him in, like,
+Speaker 1: a good position to succeed in the future.
+Speaker 1: I think that type of stuff is, like,
+Speaker 1: fucking completely invaluable. Like,
+Speaker 1: so the the benefits for if HOS and Nearpod are to succeed for me are, like, beyond just whatever
+Speaker 1: you know, fun and, like, the fun of, like, building a company and actually, like, being able to say that I've built a company
+Speaker 1: it's, like, immense for me. Mhmm.
+Speaker 2: So it seems like you are in the right environment. You're in the environment when you have opportunities at least in the future, and you bet on it. And, getting back to
+Speaker 2: this situation, about Carnegie.
+Speaker 2: How do you think what what do you think,
+Speaker 2: Did it happen just occasionally that other guy saw how effective, qualified, and trans foresee Carnegie was, and he was like, okay. I see this business opportunity for you. Go for it. Or, maybe Carnegie, like, asked for it and communicated his needs somehow.
+Speaker 1: Probably. And, I'm quite bad at that.
+Speaker 1: That is, like, something that I'm, like, I'm I am quite bad at being, like, I'll call that selfish.
+Speaker 1: Even though it's, like, not selfish in a negative way.
+Speaker 1: I'm extremely bad at that.
+Speaker 1: I'm trying to think of, like, a specific example that I can give of that. Nothing is not there's, like, no from, like, just about everybody that I've ever worked with, closely at least, that's, like, you need to be telling me, like, more how I can help you and, like, what I can be doing for you. Really where I thought I'd be. Mhmm. And then I guess
+Speaker 2: Having this quote is is a great example.
+Speaker 3: Yeah.
+Speaker 1: I'm really bad. I'm just, like, awful at this. I just, like,
+Speaker 3: I
+Speaker 1: being being selfish in that in that way is, like,
+Speaker 1: very difficult for me.
+Speaker 1: Sometimes I think rightfully so, to be clear. Like, I'm not even sure I'm always wrong
+Speaker 1: when I, like, don't wanna be selfish. But I'm very I'm like, I probably take it to a level that's, like, ridiculous. It's interesting that
+Speaker 2: you have a strong locus of internal control, which means everything depends on me and my effort.
+Speaker 2: But at the same time,
+Speaker 2: you call it selfish to ask for the opportunity. Even though it's exactly something that is in your control to ask about it.
+Speaker 1: Yeah. I know. And so, like, to to some degree, it's because I have, like,
+Speaker 1: I have this, like, idealistic view
+Speaker 1: which has, like, almost never played out
+Speaker 1: but has. It has played out before. That, like,
+Speaker 1: if I do everything right if I do everything the right way,
+Speaker 1: and then I surround myself with the right people, they'll also do every like, they'll they'll they'll understand this and, like,
+Speaker 1: they'll do the things for me that I am not asking for. And, yeah, the hope is that they understand me at that point
+Speaker 1: enough to be able to actually, like, do them and to understand, like, when to do them. Now, of course, that's, like, idealistic and, like, ridiculous because
+Speaker 1: nobody should be making somebody else like the their like, other than maybe in our, like, a
+Speaker 1: relationship, but, like, nobody is ever gonna prioritize somebody else over them over themselves. At least you kinda, like, shouldn't.
+Speaker 1: So the the whole idea is ridiculous, but, like,
+Speaker 1: I I I will say this, Marina. I have never, in my entire career, I have never asked for a raise.
+Speaker 3: Ever.
+Speaker 2: But you got ones.
+Speaker 1: I have definitely gotten raises before.
+Speaker 2: And you by this, you confirm your ideal stick view that I know.
+Speaker 2: You work hard
+Speaker 2: you do everything you can, and you got your reward. So it is not ridiculous. I mean, it really works. The question is, how how much time are you ready to invest in it?
+Speaker 2: It's like, how faster could you get something that you wanted? If you did ask instead of waiting for other people to react.
+Speaker 1: It's a great question. It's I I I don't there's no way to answer it, but yeah. I mean, I have the I have this core I have this, like, in my in my old, like,
+Speaker 1: in my old, like, working with me guide.
+Speaker 1: I had this sentence that, like, I am not a mind reader.
+Speaker 1: And the the intention was, like, I don't want somebody to, like, pray that I'm gonna, like, read your mind. Right? Like,
+Speaker 1: expect I it basically read the the sentence read, like,
+Speaker 1: I'm not a Jedi. I would absolutely love to be a Jedi. It is 100%, like, one of my goals to, like, be able to, like, read your mind as, like, much as possible. Like, if I'm working with somebody, like, I really do wanna try to, like, be able to read your mind.
+Speaker 1: As much as possible. However,
+Speaker 1: should assume that I'm gonna be wrong a % of the time.
+Speaker 1: So when it's something important,
+Speaker 1: don't ask me to read your mind. Like, don't make me read your mind. It'll frustrate me to no end. It'll frustrate you to no end.
+Speaker 1: And so it's probably the same the same thing really applies with this is like, I'm sitting there, like,
+Speaker 1: waiting for somebody to, like, read my mind as to, like, what
+Speaker 1: I need and or, like, what's important to me. Like, what
+Speaker 1: the things that I need as opposed to, like,
+Speaker 1: just going out and telling somebody or asking
+Speaker 1: asking for help or something.
+Speaker 1: Yeah. I I really struggle with this, like, every time.
+Speaker 2: And if you flip the coin, and imagine yourself being a cofounder and having people working for you, What type of people would you like to see in your team?
+Speaker 2: The ones that
+Speaker 2: wait for you to read their mind or the ones who articulate what they really want?
+Speaker 1: Yeah. I struggle with this a lot, actually. So, like,
+Speaker 1: for better or worse, like, a lot of what I a lot of what I get to see today in my role is, like,
+Speaker 1: people. And and sometimes it's good, and sometimes it's bad.
+Speaker 1: So, like,
+Speaker 1: I get to see both.
+Speaker 1: And I would say, like, in some circumstances, right, like, when somebody is doing really well and, like,
+Speaker 1: you know, or
+Speaker 1: know, when somebody is, like, a a good contributor, they're a good person, they're a good team member, they're a good individual, whatever it is, like, when they're good,
+Speaker 1: you want them to, like,
+Speaker 1: tell you what they need to some extent. Right? On the other hand, when somebody's bad, you want them to shut the fuck up. And, like, be good. Right? Like, I don't,
+Speaker 1: this is not a specific example to be clear, but, like, somebody who's, like,
+Speaker 1: not producing, like, no. You don't want them to come and ask you for a raise.
+Speaker 1: Right? Like,
+Speaker 2: no. Like, you don't want that. Because you will need to say no to them.
+Speaker 1: No. Because it's, like, ridiculous. Like, ideally, you would want somebody to, like, understand, like,
+Speaker 1: whether they're
+Speaker 1: being productive or not.
+Speaker 1: Like,
+Speaker 1: you want them to, like, understand
+Speaker 1: It's it's more than just, like, performance, but, like, you want somebody to, like, be self aware enough to, like, understand, like,
+Speaker 1: you know, have they have they been contributing to the company? Have they been contributing to team? Have they been contributing to something?
+Speaker 3: Enough
+Speaker 1: like, actually warrants asking for something like this? And in in my mind, it's a pretty strong negative
+Speaker 1: when
+Speaker 1: somebody clearly doesn't understand that.
+Speaker 1: Right? Because then instead of asking for arrays, what they should be doing is asking
+Speaker 1: how do I contribute
+Speaker 1: to the point of, like,
+Speaker 1: me being able to ask for her raise?
+Speaker 1: Like, that's that's a question, by the way, that I'm far more comfortable asking.
+Speaker 1: It's like,
+Speaker 1: me trying to understand, like,
+Speaker 1: hey. How can I be valuable enough
+Speaker 1: to, like, in the future, do this thing?
+Speaker 1: Right? Like,
+Speaker 1: that's a question I'm perfectly comfortable asking today. And it's a question I wish other people asked instead of, like, just making some assumption. But yeah. I mean,
+Speaker 2: And yet
+Speaker 2: what can you learn from this type of low performance who dared to come and ask
+Speaker 1: for a raise. I I don't mean it. I don't mean it, like, necessarily, like, dare. Right? Like, it's not it's not it shouldn't be, like, viewed super negatively. I mean, yeah. It's it's it's they're they're being selfish, and they're they're fighting for something even if they
+Speaker 1: because that's just kind of the way the world works, to be honest. It's like, you have to ask.
+Speaker 4: What they are looking for?
+Speaker 1: It could be anything. I mean, I've I've heard peep most most of the time, it seems to be people fighting for a raise, but then sometimes it's people fighting for, like, they wanna take more of a leadership position. Right? They want more of an opportunity
+Speaker 1: actually, that happens somewhat frequently too. It's it's people who, like,
+Speaker 1: who say, like, I want I want more of an opportunity to prove myself. Well,
+Speaker 1: you haven't done anything in the past to, like, warrant this, but
+Speaker 1: okay.
+Speaker 1: Like or maybe you have done something in the past to warrant this. Maybe you haven't. Maybe we haven't put you in the right position. Position. Maybe that's what you're really saying. So there's, like, a whole there's a whole bunch of different context around this, but I guess I guess the point is, like,
+Speaker 1: people who make you, like, read their minds is probably significantly worse than people who will, like, at least give you some insight into what they're thinking about and how they're thinking about it.
+Speaker 1: So that's yeah. That's probably an important takeaway from me.
+Speaker 3: Yeah.
+Speaker 2: And,
+Speaker 2: you mentioned a couple of times that you struggle with,
+Speaker 2: being selfish with asking for what you want, asking for opportunities. What is this struggle about?
+Speaker 1: Most of the time, it comes down to, like, some type of inner argument
+Speaker 1: where it's, like,
+Speaker 1: what I'm asking for, will likely take away from something else.
+Speaker 1: Most of the time, I'm not talking about, like, a money year, really. Like, I'm not talking about a raise, but, like,
+Speaker 1: I'm asking somebody to, like, invest their time into me,
+Speaker 1: they're choosing to invest their time into me as opposed to investing their time into something else.
+Speaker 3: And
+Speaker 1: most of the time,
+Speaker 1: or quite often at least,
+Speaker 1: I can come up with, reasons why
+Speaker 1: it would be more valuable for somebody to invest their time into something else as opposed to me.
+Speaker 1: This happens particularly with, like, very busy people. It's like
+Speaker 1: a a very real example would be like Jeremy. Like,
+Speaker 1: I
+Speaker 1: he is running three different companies.
+Speaker 1: Has a family,
+Speaker 1: a big family,
+Speaker 1: he has his own goals. He has his own enjoying activities. He's got got his own life. He's
+Speaker 1: you know, has other external meetings that aren't related to any of the three companies directly. Right? Like,
+Speaker 1: it's very easy for me to come up with, like for me to, like, think in my head, like, okay. I were to, like, trying to prioritize his time, which I am because I'm his chief of staff. So if I were trying to prioritize his time,
+Speaker 1: I put it on
+Speaker 1: doing x, y, or z projects or, like, having x, y, or z conversations? Or would I put it on having, like, a conversation with me?
+Speaker 1: I'm gonna prioritize all the other stuff.
+Speaker 1: Like,
+Speaker 1: this is, like, a very real way that this plays out. So
+Speaker 1: most of the time, it's like a trade off of time as opposed to, like, anything else. It's really just, like, a trade off of time. And
+Speaker 3: yeah,
+Speaker 2: Okay. Let's explore this topic more in the next coaching session. We didn't have time to fully complete the exercise, but it's okay. So you can choose,
+Speaker 2: would you like to continue with this example and just double check the rest of the qualities and break down them into some specific learning moments for yourself or some lessons that that you can implement already today or start working on them today. Or you can pick up a different direction, like thinking about someone who you don't really like, and then we still finish this first example in the next coaching session and slightly move to your leadership style because it will be all connected.
+Speaker 1: Yeah. That makes sense. I think,
+Speaker 1: think what I'll probably do is I'll pick up the Walter Isaacson book on Steve Jobs,
+Speaker 1: and I'll start reading that.
+Speaker 1: Not that I don't like Steve Jobs. It's just that from everything that I've heard about him, he seems like a very different type of leader to the one that I would imagine myself being.
+Speaker 3: So
+Speaker 1: I'll probably try to
+Speaker 1: start
+Speaker 1: that start tackling that and
+Speaker 1: I'll take that angle to things. Okay. Just to
+Speaker 1: like, not missing any, like, obvious blind spots or anything.
+Speaker 2: And with Andrew Carnegie, we will finish them in the next coaching session. Cool. Okay. Great. Then I see you next Wednesday.
+Speaker 1: Sounds good. Thank you, Marina. Sorry for all the
+Speaker 2: as well. No worries, and get well.
+Speaker 1: Yeah. Hopefully, you get to make it to the islands. Let me know. Thank you.
+Speaker 2: Yeah. Thank you. Bye bye.
