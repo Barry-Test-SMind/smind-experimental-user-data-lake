@@ -13,7 +13,7 @@ Note: `user_id` fields = `6daf1120-2e6a-488d-9174-51321f7308ca` (Barry).
 |------|-------|------|-------------|
 | `calendar_events.csv` | calendar_events | 157 | Scheduled events with dimensions, dates, and external IDs |
 | `challenge_progress.csv` | challenge_progress | 3,932 | Daily challenge tracking (status, amount_tracked per challenge per date) |
-| `challenge_states.csv` | challenge_states | 410 | Challenge assignments with objectives, difficulty ratings, and ranks |
+| `challenge_states.csv` | challenge_states | 410 | Challenge assignments with title, objectives, difficulty ratings, and ranks |
 | `desired_outcomes.csv` | desired_outcomes | 95 | Weekly desired outcomes with status (COMPLETED, FAILED, STARTED, NOT_STARTED) |
 | `goals.csv` | goals | 18 | Long-term goals with dimensions (HEALTH, CAREER, etc.) and deep-dive details |
 | `journal_note_replies.csv` | journal_note_replies | 22 | User replies to journal notes |
