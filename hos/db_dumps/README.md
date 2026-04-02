@@ -1,7 +1,7 @@
 # DB Dumps
 
 Raw database table exports for Barry Goldsmith from the hOS platform.
-Note: `user_id` and `client_id` fields = `6daf1120-2e6a-488d-9174-51321f7308ca` (Barry).
+Note: `user_id` fields = `6daf1120-2e6a-488d-9174-51321f7308ca` (Barry).
 
 ## Source
 - Exported directly from hOS production database
@@ -11,10 +11,10 @@ Note: `user_id` and `client_id` fields = `6daf1120-2e6a-488d-9174-51321f7308ca` 
 
 | File | Table | Rows | Description |
 |------|-------|------|-------------|
-| `optimal_day_activities.csv` | Activities | 157 | Scheduled daily activities with dimensions (sleep, career, meals, etc.) |
+| `calendar_events.csv` | Calendar events | 157 | Scheduled events with dimensions, dates, and external IDs |
 | `challenge_progress.csv` | Challenge progress | 3,932 | Daily challenge tracking (status, amount_tracked per challenge per date) |
-| `sprint_challenges.csv` | Sprint challenges | 410 | Challenge assignments to sprints with objectives and frequency configs |
-| `weekly_priorities.csv` | Weekly priorities | 95 | Weekly goals/priorities with status (COMPLETED, FAILED, STARTED, etc.) |
-| `goals.csv` | Goals | 18 | Long-term goals with dimensions and deep-dive details |
-| `note_replies.csv` | Note replies | 22 | Replies to journal notes |
-| `notes.csv` | Notes | 491 | Journal notes (GENERAL, PROOF, REFLECTION_QUESTION) with challenge linkage |
+| `challenge_states.csv` | Challenge states | 410 | Challenge assignments to sprints with objectives, difficulty ratings, and ranks |
+| `desired_outcomes.csv` | Desired outcomes | 95 | Weekly/sprint desired outcomes with status (COMPLETED, FAILED, STARTED, NOT_STARTED) |
+| `goals.csv` | Goals | 18 | Long-term goals with dimensions (HEALTH, CAREER, etc.) and deep-dive details |
+| `journal_note_replies.csv` | Journal note replies | 22 | User replies to journal notes |
+| `journal_notes.csv` | Journal notes | 491 | Journal entries (GENERAL, PROOF, REFLECTION_QUESTION) with challenge linkage and media |
