@@ -18,3 +18,4 @@ Note: `user_id` fields = `6daf1120-2e6a-488d-9174-51321f7308ca` (Barry).
 | `goals.csv` | Goals | 18 | Long-term goals with dimensions (HEALTH, CAREER, etc.) and deep-dive details |
 | `journal_note_replies.csv` | Journal note replies | 22 | User replies to journal notes |
 | `journal_notes.csv` | Journal notes | 491 | Journal entries (GENERAL, PROOF, REFLECTION_QUESTION) with challenge linkage and media |
+| `weekly_outcomes.csv` | Weekly outcomes | 75 | Weekly outcomes/priorities with status (completed, failed, started, not_started) |
